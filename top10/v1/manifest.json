@@ -1,0 +1,130 @@
+{
+  "schema": 1,
+  "generatedAt": "2026-08-19T15:46:24.500Z",
+  "weekLabel": "week of Aug 19",
+  "source": "imdb official datasets (datasets.imdbws.com), weekly weighted chart",
+  "movies": [
+    {
+      "title": "The Shawshank Redemption",
+      "year": 1994,
+      "rating": 9.3,
+      "votes": 3225940
+    },
+    {
+      "title": "The Godfather",
+      "year": 1972,
+      "rating": 9.2,
+      "votes": 2248405
+    },
+    {
+      "title": "The Dark Knight",
+      "year": 2008,
+      "rating": 9.1,
+      "votes": 3213556
+    },
+    {
+      "title": "The Lord of the Rings: The Return of the King",
+      "year": 2003,
+      "rating": 9,
+      "votes": 2185996
+    },
+    {
+      "title": "Schindler's List",
+      "year": 1993,
+      "rating": 9,
+      "votes": 1598431
+    },
+    {
+      "title": "The Godfather Part II",
+      "year": 1974,
+      "rating": 9,
+      "votes": 1508201
+    },
+    {
+      "title": "12 Angry Men",
+      "year": 1957,
+      "rating": 9,
+      "votes": 998468
+    },
+    {
+      "title": "The Lord of the Rings: The Fellowship of the Ring",
+      "year": 2001,
+      "rating": 8.9,
+      "votes": 2229319
+    },
+    {
+      "title": "Inception",
+      "year": 2010,
+      "rating": 8.8,
+      "votes": 2857096
+    },
+    {
+      "title": "Fight Club",
+      "year": 1999,
+      "rating": 8.8,
+      "votes": 2649639
+    }
+  ],
+  "series": [
+    {
+      "title": "Breaking Bad",
+      "year": 2008,
+      "rating": 9.5,
+      "votes": 2661594
+    },
+    {
+      "title": "Avatar: The Last Airbender",
+      "year": 2005,
+      "rating": 9.3,
+      "votes": 452894
+    },
+    {
+      "title": "The Wire",
+      "year": 2002,
+      "rating": 9.3,
+      "votes": 436925
+    },
+    {
+      "title": "Game of Thrones",
+      "year": 2011,
+      "rating": 9.2,
+      "votes": 2650533
+    },
+    {
+      "title": "The Sopranos",
+      "year": 1999,
+      "rating": 9.2,
+      "votes": 591905
+    },
+    {
+      "title": "Attack on Titan",
+      "year": 2013,
+      "rating": 9.1,
+      "votes": 739066
+    },
+    {
+      "title": "Aspirants",
+      "year": 2021,
+      "rating": 9.1,
+      "votes": 319639
+    },
+    {
+      "title": "Fullmetal Alchemist: Brotherhood",
+      "year": 2009,
+      "rating": 9.1,
+      "votes": 255321
+    },
+    {
+      "title": "Sherlock",
+      "year": 2010,
+      "rating": 9,
+      "votes": 1096953
+    },
+    {
+      "title": "Better Call Saul",
+      "year": 2015,
+      "rating": 9,
+      "votes": 856823
+    }
+  ]
+}
