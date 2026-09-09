@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-09T04:41:12.735Z",
+  "generatedAt": "2026-09-09T11:21:52.355Z",
   "channels": [
     {
       "id": "ch_7b3a5a85069105ab",
@@ -84272,6 +84272,18 @@
           "referrer": null,
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3",
           "id": "src_71b8e023fcf81d36"
+        },
+        {
+          "type": "hls",
+          "url": "http://hls127.freeott.top:8080/BG_AXN_Black/video.m3u8",
+          "origin": "iptv_org",
+          "status": "candidate",
+          "priority": 200020,
+          "quality": "576p",
+          "geo": null,
+          "referrer": null,
+          "userAgent": null,
+          "id": "src_d9bc59c67e3bc888"
         }
       ],
       "preferredSourceId": "src_f34687bfd4ee826d"
@@ -155275,18 +155287,6 @@
           "successCount": 0,
           "failCount": 0,
           "lastSuccess": null
-        },
-        {
-          "type": "hls",
-          "url": "https://mmtvs.exliatycl.online/fortunetv/stream.m3u8",
-          "origin": "iptv_org",
-          "status": "candidate",
-          "priority": 200020,
-          "quality": "720p",
-          "geo": null,
-          "referrer": null,
-          "userAgent": null,
-          "id": "src_6a60dcb35c02231d"
         }
       ],
       "preferredSourceId": "src_b208bc0443ed5b35"
@@ -205176,18 +205176,6 @@
           "referrer": null,
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
           "id": "src_e10b9c3750a9bfa6"
-        },
-        {
-          "type": "hls",
-          "url": "https://cdn-7.pishow.tv/live/1129/master.m3u8",
-          "origin": "iptv_org",
-          "status": "candidate",
-          "priority": 200020,
-          "quality": "1080p",
-          "geo": null,
-          "referrer": null,
-          "userAgent": null,
-          "id": "src_68379c52a90e21d8"
         },
         {
           "type": "hls",
@@ -287652,18 +287640,6 @@
           "successCount": 0,
           "failCount": 0,
           "lastSuccess": null
-        },
-        {
-          "type": "hls",
-          "url": "https://cdn-6.pishow.tv/live/1513/master.m3u8",
-          "origin": "iptv_org",
-          "status": "candidate",
-          "priority": 200020,
-          "quality": null,
-          "geo": null,
-          "referrer": null,
-          "userAgent": null,
-          "id": "src_faa731844fd433c4"
         }
       ],
       "preferredSourceId": "src_c14dcb641a6bf77c"
@@ -370913,6 +370889,18 @@
           "successCount": 0,
           "failCount": 0,
           "lastSuccess": null
+        },
+        {
+          "type": "hls",
+          "url": "https://lana.psm.mv/live/yes.m3u8",
+          "origin": "iptv_org",
+          "status": "candidate",
+          "priority": 200020,
+          "quality": null,
+          "geo": null,
+          "referrer": null,
+          "userAgent": null,
+          "id": "src_6e166dadb93189fa"
         }
       ],
       "preferredSourceId": "src_c3d7d1231fb27ae7"
@@ -417898,6 +417886,18 @@
           "referrer": null,
           "userAgent": null,
           "id": "src_876df2c4fa98ba2a"
+        },
+        {
+          "type": "hls",
+          "url": "https://edge.enhdtv.com/8150/index.m3u8",
+          "origin": "iptv_org",
+          "status": "candidate",
+          "priority": 200020,
+          "quality": "720p",
+          "geo": null,
+          "referrer": null,
+          "userAgent": null,
+          "id": "src_0832e775042dd594"
         }
       ],
       "preferredSourceId": "src_876df2c4fa98ba2a"
@@ -426641,6 +426641,18 @@
           "referrer": null,
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3",
           "id": "src_50dcff31a5ab4ff1"
+        },
+        {
+          "type": "hls",
+          "url": "http://hls127.freeott.top:8080/BG_AXN_White/video.m3u8",
+          "origin": "iptv_org",
+          "status": "candidate",
+          "priority": 200020,
+          "quality": "576p",
+          "geo": null,
+          "referrer": null,
+          "userAgent": null,
+          "id": "src_0a3ba589ae6f35e4"
         }
       ],
       "preferredSourceId": "src_50dcff31a5ab4ff1"
@@ -439652,102 +439664,6 @@
       "preferredSourceId": "src_947f95ddf592e19e"
     },
     {
-      "id": "ch_52ac5cb9c1674b95",
-      "name": "Cinemax 2",
-      "country": "CZ",
-      "language": "",
-      "category": [
-        "movies"
-      ],
-      "sources": [
-        {
-          "type": "hls",
-          "url": "http://88.212.15.19/live/test_cinemax2_hd_hevc/playlist.m3u8",
-          "origin": "iptv_org",
-          "status": "candidate",
-          "priority": 200020,
-          "quality": null,
-          "geo": null,
-          "referrer": null,
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-          "id": "src_749146dd1467708f"
-        }
-      ],
-      "preferredSourceId": "src_749146dd1467708f"
-    },
-    {
-      "id": "ch_25ebe38d33b5ab40",
-      "name": "Cinemax 2 Romania",
-      "country": "CZ",
-      "language": "",
-      "category": [
-        "movies"
-      ],
-      "sources": [
-        {
-          "type": "hls",
-          "url": "https://cronos.mangora1.cfd/xmas2/usergendxt1v8klq6rnd.m3u8",
-          "origin": "iptv_org",
-          "status": "candidate",
-          "priority": 200020,
-          "quality": null,
-          "geo": null,
-          "referrer": "https://cool-tv.net/",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18",
-          "id": "src_cb7fa4e63c4ea389"
-        }
-      ],
-      "preferredSourceId": "src_cb7fa4e63c4ea389"
-    },
-    {
-      "id": "ch_ad17d207d52c0929",
-      "name": "Cinemax",
-      "country": "CZ",
-      "language": "",
-      "category": [
-        "movies"
-      ],
-      "sources": [
-        {
-          "type": "hls",
-          "url": "http://88.212.15.19/live/test_cinemax_hd_hevc/playlist.m3u8",
-          "origin": "iptv_org",
-          "status": "candidate",
-          "priority": 200020,
-          "quality": null,
-          "geo": null,
-          "referrer": null,
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-          "id": "src_7f165d1e8bcb7601"
-        }
-      ],
-      "preferredSourceId": "src_7f165d1e8bcb7601"
-    },
-    {
-      "id": "ch_45de0124c7fbed34",
-      "name": "Cinemax Romania",
-      "country": "CZ",
-      "language": "",
-      "category": [
-        "movies"
-      ],
-      "sources": [
-        {
-          "type": "hls",
-          "url": "https://cronos.mangora1.cfd/xmas1/usergendx27y41s0rnd.m3u8",
-          "origin": "iptv_org",
-          "status": "candidate",
-          "priority": 200020,
-          "quality": null,
-          "geo": null,
-          "referrer": "https://cool-tv.net/",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18",
-          "id": "src_5a0d53cae8de54e7"
-        }
-      ],
-      "preferredSourceId": "src_5a0d53cae8de54e7"
-    },
-    {
       "id": "ch_49edf166efb71ee3",
       "name": "Zylo Ciné Nanar",
       "country": "FR",
@@ -441803,6 +441719,30 @@
         }
       ],
       "preferredSourceId": "src_6216817b3977656c"
+    },
+    {
+      "id": "ch_e7725a91102c7ccc",
+      "name": "Colors Marathi HD",
+      "country": "IN",
+      "language": "",
+      "category": [
+        "entertainment"
+      ],
+      "sources": [
+        {
+          "type": "hls",
+          "url": "https://da86m1sqpm3o0.cloudfront.net/28072023/smil:colorsmarathihd.smil/playlist.m3u8",
+          "origin": "iptv_org",
+          "status": "candidate",
+          "priority": 200020,
+          "quality": "720p",
+          "geo": null,
+          "referrer": null,
+          "userAgent": null,
+          "id": "src_fe5e14cf818ba4fb"
+        }
+      ],
+      "preferredSourceId": "src_fe5e14cf818ba4fb"
     },
     {
       "id": "ch_a92362b6e9ea0a5e",
@@ -451209,6 +451149,18 @@
           "referrer": null,
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3",
           "id": "src_7daa2c7b7686147a"
+        },
+        {
+          "type": "hls",
+          "url": "http://hls127.freeott.top:8080/BG_FilmBox_Stars_HD/video.m3u8",
+          "origin": "iptv_org",
+          "status": "candidate",
+          "priority": 200020,
+          "quality": "720p",
+          "geo": null,
+          "referrer": null,
+          "userAgent": null,
+          "id": "src_5f605e4ea5f2197f"
         }
       ],
       "preferredSourceId": "src_7daa2c7b7686147a"
@@ -451257,6 +451209,18 @@
           "referrer": null,
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3",
           "id": "src_e4da1333d29a5844"
+        },
+        {
+          "type": "hls",
+          "url": "http://hls127.freeott.top:8080/BG_Filmbox/video.m3u8",
+          "origin": "iptv_org",
+          "status": "candidate",
+          "priority": 200020,
+          "quality": "576p",
+          "geo": null,
+          "referrer": null,
+          "userAgent": null,
+          "id": "src_4fb9a3fa5e0557ff"
         }
       ],
       "preferredSourceId": "src_e4da1333d29a5844"
@@ -459032,6 +458996,30 @@
         }
       ],
       "preferredSourceId": "src_ac0c90b172f12691"
+    },
+    {
+      "id": "ch_43c162831f11b934",
+      "name": "Hum TV SD",
+      "country": "PK",
+      "language": "",
+      "category": [
+        "entertainment"
+      ],
+      "sources": [
+        {
+          "type": "hls",
+          "url": "https://cdn4.mjunoon.tv:8087/streamtest/82M/chunks.m3u8",
+          "origin": "iptv_org",
+          "status": "candidate",
+          "priority": 200020,
+          "quality": null,
+          "geo": null,
+          "referrer": null,
+          "userAgent": null,
+          "id": "src_c46d3a98f29a090d"
+        }
+      ],
+      "preferredSourceId": "src_c46d3a98f29a090d"
     },
     {
       "id": "ch_d2878acfd9beb15d",
@@ -468508,6 +468496,18 @@
           "referrer": null,
           "userAgent": null,
           "id": "src_784e73a15641b8ff"
+        },
+        {
+          "type": "hls",
+          "url": "https://cdn4.mjunoon.tv:8087/streamtest/81M/chunks.m3u8",
+          "origin": "iptv_org",
+          "status": "candidate",
+          "priority": 200020,
+          "quality": null,
+          "geo": null,
+          "referrer": null,
+          "userAgent": null,
+          "id": "src_31b01965f3587319"
         }
       ],
       "preferredSourceId": "src_784e73a15641b8ff"
@@ -470644,6 +470644,30 @@
       "preferredSourceId": "src_4611523fb89eced4"
     },
     {
+      "id": "ch_c8b9ea79b6fcff2c",
+      "name": "Minimax",
+      "country": "SI",
+      "language": "",
+      "category": [
+        "kids"
+      ],
+      "sources": [
+        {
+          "type": "hls",
+          "url": "https://live.omni3.pl/minimaxsi/index.m3u8",
+          "origin": "iptv_org",
+          "status": "candidate",
+          "priority": 200020,
+          "quality": "540p",
+          "geo": null,
+          "referrer": null,
+          "userAgent": null,
+          "id": "src_e82af1e77135607b"
+        }
+      ],
+      "preferredSourceId": "src_e82af1e77135607b"
+    },
+    {
       "id": "ch_be70097b71231b70",
       "name": "Minimax (576p)",
       "country": "CZ",
@@ -472341,30 +472365,6 @@
       "preferredSourceId": "src_bedd05bff118b70c"
     },
     {
-      "id": "ch_2f45ac0efa79caae",
-      "name": "MTV",
-      "country": "JP",
-      "language": "",
-      "category": [
-        "entertainment"
-      ],
-      "sources": [
-        {
-          "type": "hls",
-          "url": "http://42.118.247.37:9394/stream/74.m3u8",
-          "origin": "iptv_org",
-          "status": "candidate",
-          "priority": 200020,
-          "quality": null,
-          "geo": null,
-          "referrer": null,
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-          "id": "src_cea8b458ff231424"
-        }
-      ],
-      "preferredSourceId": "src_cea8b458ff231424"
-    },
-    {
       "id": "ch_aaf67449abacdef5",
       "name": "Catfish",
       "country": "US",
@@ -473662,6 +473662,30 @@
         }
       ],
       "preferredSourceId": "src_b98907aab5b0c4fe"
+    },
+    {
+      "id": "ch_868a8fe7228ef6f2",
+      "name": "Myanmar International TV",
+      "country": "MM",
+      "language": "",
+      "category": [
+        "general"
+      ],
+      "sources": [
+        {
+          "type": "hls",
+          "url": "https://mrtvott.com/cache/MITV/master.m3u8",
+          "origin": "iptv_org",
+          "status": "candidate",
+          "priority": 200020,
+          "quality": null,
+          "geo": null,
+          "referrer": null,
+          "userAgent": null,
+          "id": "src_be75546184df3e44"
+        }
+      ],
+      "preferredSourceId": "src_be75546184df3e44"
     },
     {
       "id": "ch_c88b21576947a3d1",
@@ -476338,30 +476362,6 @@
         }
       ],
       "preferredSourceId": "src_a562c71e4b5bfe47"
-    },
-    {
-      "id": "ch_5a0dc63d6e186e33",
-      "name": "News Malayalam 24x7",
-      "country": "IN",
-      "language": "",
-      "category": [
-        "news"
-      ],
-      "sources": [
-        {
-          "type": "hls",
-          "url": "https://cdn-3.pishow.tv/live/1629/master.m3u8",
-          "origin": "iptv_org",
-          "status": "candidate",
-          "priority": 200020,
-          "quality": "576p",
-          "geo": null,
-          "referrer": null,
-          "userAgent": null,
-          "id": "src_7308d7c05ab1b075"
-        }
-      ],
-      "preferredSourceId": "src_7308d7c05ab1b075"
     },
     {
       "id": "ch_f1d7675c209e4016",
@@ -485166,6 +485166,30 @@
         }
       ],
       "preferredSourceId": "src_16633e54fe4fac70"
+    },
+    {
+      "id": "ch_ad77293f82a4b143",
+      "name": "Polsat JimJam",
+      "country": "PL",
+      "language": "",
+      "category": [
+        "kids"
+      ],
+      "sources": [
+        {
+          "type": "hls",
+          "url": "http://185.227.34.179:8080/jimjam/index.m3u8",
+          "origin": "iptv_org",
+          "status": "candidate",
+          "priority": 200020,
+          "quality": "576p",
+          "geo": null,
+          "referrer": null,
+          "userAgent": null,
+          "id": "src_7e5d89a63171055c"
+        }
+      ],
+      "preferredSourceId": "src_7e5d89a63171055c"
     },
     {
       "id": "ch_4c9f52d23ba73836",
@@ -501861,6 +501885,30 @@
       "preferredSourceId": "src_625f5f6c3afff73d"
     },
     {
+      "id": "ch_249cbfb34e82c860",
+      "name": "Showtime",
+      "country": "US",
+      "language": "",
+      "category": [
+        "General"
+      ],
+      "sources": [
+        {
+          "type": "hls",
+          "url": "http://4.30.180.36:8420/showtime/mono.m3u8?token=test",
+          "origin": "iptv_org",
+          "status": "candidate",
+          "priority": 200020,
+          "quality": "1080p",
+          "geo": null,
+          "referrer": null,
+          "userAgent": null,
+          "id": "src_9342093101a18ac5"
+        }
+      ],
+      "preferredSourceId": "src_9342093101a18ac5"
+    },
+    {
       "id": "ch_000a8b6ed871ac70",
       "name": "Shraddha TV",
       "country": "LK",
@@ -502750,17 +502798,17 @@
       "preferredSourceId": "src_7f2963bf95a258a0"
     },
     {
-      "id": "ch_0f6ed100e28d960e",
-      "name": "Sky Sports Cricket HD",
-      "country": "UK",
+      "id": "ch_f6e135f863384a79",
+      "name": "Sky Sports Cricket",
+      "country": "IE",
       "language": "",
       "category": [
         "sports"
       ],
       "sources": [
         {
-          "type": "mpegts",
-          "url": "https://xemzi.short.gy/2000006",
+          "type": "hls",
+          "url": "https://leaf.highfly.dev/m3u/now-sky-sports-cricket/live.m3u8",
           "origin": "iptv_org",
           "status": "candidate",
           "priority": 200020,
@@ -502768,10 +502816,10 @@
           "geo": null,
           "referrer": null,
           "userAgent": null,
-          "id": "src_e3505e2609028f9d"
+          "id": "src_e156566ad4a9a06b"
         }
       ],
-      "preferredSourceId": "src_e3505e2609028f9d"
+      "preferredSourceId": "src_e156566ad4a9a06b"
     },
     {
       "id": "ch_ba54aef8a722cd0f",
@@ -502832,6 +502880,30 @@
         }
       ],
       "preferredSourceId": "src_b8b3079a56bf1779"
+    },
+    {
+      "id": "ch_d4f2efe8c09f142e",
+      "name": "Sky Sports Golf HD",
+      "country": "IE",
+      "language": "",
+      "category": [
+        "sports"
+      ],
+      "sources": [
+        {
+          "type": "hls",
+          "url": "https://leaf.highfly.dev/m3u/now-sky-sports-golf/live.m3u8",
+          "origin": "iptv_org",
+          "status": "candidate",
+          "priority": 200020,
+          "quality": "1080p",
+          "geo": null,
+          "referrer": null,
+          "userAgent": null,
+          "id": "src_363959987231f048"
+        }
+      ],
+      "preferredSourceId": "src_363959987231f048"
     },
     {
       "id": "ch_44e25876cc24d3ca",
@@ -505405,30 +505477,6 @@
       "preferredSourceId": "src_9193a5badf1f22fe"
     },
     {
-      "id": "ch_aa97da236f8a61c6",
-      "name": "Star Movies HD",
-      "country": "IN",
-      "language": "",
-      "category": [
-        "movies"
-      ],
-      "sources": [
-        {
-          "type": "hls",
-          "url": "http://66.102.126.10:8000/play/a021/index.m3u8",
-          "origin": "iptv_org",
-          "status": "candidate",
-          "priority": 200020,
-          "quality": "1080p",
-          "geo": null,
-          "referrer": null,
-          "userAgent": null,
-          "id": "src_cfcfa4029d7fd4d1"
-        }
-      ],
-      "preferredSourceId": "src_cfcfa4029d7fd4d1"
-    },
-    {
       "id": "ch_aa7b143d4dc9694f",
       "name": "Star Movies",
       "country": "PT",
@@ -505475,30 +505523,6 @@
         }
       ],
       "preferredSourceId": "src_6c746772918cf033"
-    },
-    {
-      "id": "ch_0b6ed21cdd87e447",
-      "name": "Star Movies Select HD",
-      "country": "IN",
-      "language": "",
-      "category": [
-        "movies"
-      ],
-      "sources": [
-        {
-          "type": "hls",
-          "url": "http://66.102.126.10:8000/play/a020/index.m3u8",
-          "origin": "iptv_org",
-          "status": "candidate",
-          "priority": 200020,
-          "quality": "1080p",
-          "geo": null,
-          "referrer": null,
-          "userAgent": null,
-          "id": "src_d326c55a2ec9d37a"
-        }
-      ],
-      "preferredSourceId": "src_d326c55a2ec9d37a"
     },
     {
       "id": "ch_9c1c1061626e8d57",
@@ -506351,6 +506375,18 @@
       "sources": [
         {
           "type": "hls",
+          "url": "https://vd01.streaminghd.net.ar:3113/hybrid/play.m3u8",
+          "origin": "iptv_org",
+          "status": "candidate",
+          "priority": 200020,
+          "quality": "1080p",
+          "geo": null,
+          "referrer": null,
+          "userAgent": null,
+          "id": "src_ba580dc6c413c6dc"
+        },
+        {
+          "type": "hls",
           "url": "https://cloudvideo.servers10.com:8081/8184/index.m3u8",
           "origin": "iptv_org",
           "status": "candidate",
@@ -506362,7 +506398,7 @@
           "id": "src_cd8bb2726e311b0e"
         }
       ],
-      "preferredSourceId": "src_cd8bb2726e311b0e"
+      "preferredSourceId": "src_ba580dc6c413c6dc"
     },
     {
       "id": "ch_a867525640bb45cb",
@@ -506939,6 +506975,30 @@
         }
       ],
       "preferredSourceId": "src_378490f5c8dddf0f"
+    },
+    {
+      "id": "ch_fee4b8ed479edf92",
+      "name": "Suspilne. Donbas",
+      "country": "UA",
+      "language": "",
+      "category": [
+        "general"
+      ],
+      "sources": [
+        {
+          "type": "hls",
+          "url": "http://hls127.freeott.top:8080/UA_DONBAS/video.m3u8",
+          "origin": "iptv_org",
+          "status": "candidate",
+          "priority": 200020,
+          "quality": "576p",
+          "geo": null,
+          "referrer": null,
+          "userAgent": null,
+          "id": "src_4b05e8f20b68e385"
+        }
+      ],
+      "preferredSourceId": "src_4b05e8f20b68e385"
     },
     {
       "id": "ch_d2feecb769e7c35d",
@@ -514015,6 +514075,31 @@
         }
       ],
       "preferredSourceId": "src_ca11391a58204a97"
+    },
+    {
+      "id": "ch_9397d63f36862b26",
+      "name": "TRT Genc",
+      "country": "TR",
+      "language": "",
+      "category": [
+        "general",
+        "culture"
+      ],
+      "sources": [
+        {
+          "type": "hls",
+          "url": "https://tv-trtgenc.medya.trt.com.tr/master.m3u8",
+          "origin": "iptv_org",
+          "status": "candidate",
+          "priority": 200020,
+          "quality": "1440p",
+          "geo": null,
+          "referrer": null,
+          "userAgent": null,
+          "id": "src_61324dc4d0636f61"
+        }
+      ],
+      "preferredSourceId": "src_61324dc4d0636f61"
     },
     {
       "id": "ch_4b92220e24e3dbd4",
@@ -521650,6 +521735,30 @@
       "preferredSourceId": "src_ba9588fd91b42f28"
     },
     {
+      "id": "ch_8511b4b43d2bed8a",
+      "name": "UniMas WFUT-DT",
+      "country": "US",
+      "language": "",
+      "category": [
+        "General"
+      ],
+      "sources": [
+        {
+          "type": "hls",
+          "url": "http://4.30.180.36:8420/wfutdt/mono.m3u8?token=test",
+          "origin": "iptv_org",
+          "status": "candidate",
+          "priority": 200020,
+          "quality": "1080p",
+          "geo": null,
+          "referrer": null,
+          "userAgent": null,
+          "id": "src_6f0c8f177bad21db"
+        }
+      ],
+      "preferredSourceId": "src_6f0c8f177bad21db"
+    },
+    {
       "id": "ch_5edb408f07eed4c1",
       "name": "WXTV-DT1",
       "country": "US",
@@ -522092,6 +522201,30 @@
         }
       ],
       "preferredSourceId": "src_014753f8e69fcf4b"
+    },
+    {
+      "id": "ch_807b05bf3575c9b0",
+      "name": "UPL.TV",
+      "country": "UA",
+      "language": "",
+      "category": [
+        "sports"
+      ],
+      "sources": [
+        {
+          "type": "hls",
+          "url": "http://dtv.vol.net.ua/UPL-TV/index.m3u8",
+          "origin": "iptv_org",
+          "status": "candidate",
+          "priority": 200020,
+          "quality": null,
+          "geo": null,
+          "referrer": null,
+          "userAgent": null,
+          "id": "src_f2eae0735e858c9d"
+        }
+      ],
+      "preferredSourceId": "src_f2eae0735e858c9d"
     },
     {
       "id": "ch_bf80a9fea0ddd369",
@@ -523390,6 +523523,30 @@
         }
       ],
       "preferredSourceId": "src_fecf4f257d82269d"
+    },
+    {
+      "id": "ch_452fa84cc44b80ce",
+      "name": "Viasat Kino Bulgaria",
+      "country": "UA",
+      "language": "",
+      "category": [
+        "movies"
+      ],
+      "sources": [
+        {
+          "type": "hls",
+          "url": "http://hls127.freeott.top:8080/BG_Viasat_Kino_HD/video.m3u8",
+          "origin": "iptv_org",
+          "status": "candidate",
+          "priority": 200020,
+          "quality": "1080p",
+          "geo": null,
+          "referrer": null,
+          "userAgent": null,
+          "id": "src_1fac4826c39d7085"
+        }
+      ],
+      "preferredSourceId": "src_1fac4826c39d7085"
     },
     {
       "id": "ch_647b7e37d30f4f78",
