@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-10T04:41:35.209Z",
+  "generatedAt": "2026-09-10T11:19:03.713Z",
   "channels": [
     {
       "id": "ch_7b3a5a85069105ab",
@@ -127400,7 +127400,6 @@
       "country": "ML",
       "language": "fra",
       "category": [
-        "music",
         "entertainment"
       ],
       "sources": [
@@ -152942,14 +152941,14 @@
           "url": "https://nosignal1.antenaplay.ro/hls/fb-one-sd/index.m3u8",
           "origin": "iptv_nexus",
           "status": "verified",
-          "priority": 400140,
+          "priority": 400139,
           "quality": "576p",
           "videoCodec": null,
           "audioCodec": null,
           "width": 0,
           "height": 0,
           "referrer": null,
-          "userAgent": null,
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36",
           "healthScore": 100,
           "upstreamCheckedAt": "2026-09-09T18:06:18.776Z",
           "geo": "unknown",
@@ -155820,25 +155819,6 @@
       "sources": [
         {
           "type": "hls",
-          "url": "http://4.30.180.36:8420/foxnews/index.m3u8?token=test",
-          "origin": "iptv_nexus",
-          "status": "verified",
-          "priority": 400148,
-          "quality": "720p",
-          "videoCodec": null,
-          "audioCodec": null,
-          "width": 0,
-          "height": 720,
-          "referrer": null,
-          "userAgent": null,
-          "healthScore": 100,
-          "upstreamCheckedAt": "2026-09-09T18:08:15.740Z",
-          "geo": "unknown",
-          "lastChecked": "2026-09-09T18:08:15.740Z",
-          "id": "src_c4264088b479377f"
-        },
-        {
-          "type": "hls",
           "url": "http://138.121.15.230:9002/FOX-NEWS/index.m3u8",
           "origin": "iptv_org",
           "status": "verified",
@@ -155926,7 +155906,7 @@
           "lastSuccess": null
         }
       ],
-      "preferredSourceId": "src_c4264088b479377f"
+      "preferredSourceId": "src_3715dba90aaf3bd5"
     },
     {
       "id": "ch_5c08164126124623",
