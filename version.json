@@ -1,19 +1,39 @@
 {
-  "publishedAt": "2026-09-08T15:44:05.677Z",
+  "publishedAt": "2026-09-13T07:16:58.472Z",
   "tv": {
-    "version": "1.3.193",
-    "versionCode": 206,
-    "url": "https://github.com/sonhamasa/dahab-guide/releases/download/v1.3.193/dahab-tv-1.3.193.apk",
-    "sha256": "11d48f1e57abb261176d0088811691362062cffa4c7af74f027f38761bae707c",
-    "notes": "Improved playback stability and navigation performance."
+    "version": "1.3.197",
+    "versionCode": 210,
+    "url": "https://github.com/sonhamasa/dahab-guide/releases/download/v1.3.197/dahab-tv-1.3.197.apk",
+    "sha256": "6d85ddf3e2388e6071f7552bf86eed028409f3510fd9f2533979207b330a1f63",
+    "notes": "Network labels now verify each broadcaster's regional line-up."
   },
   "pc": {
-    "version": "1.3.193",
-    "url": "https://github.com/sonhamasa/dahab-guide/releases/download/v1.3.193/dahab-pc-setup-1.3.193.exe",
-    "sha256": "0801e1231ca6ce4afc9460c57dfab0c591b5a6d0d8632c2c62b24aa0894698a0",
-    "notes": "Improved playback stability and navigation performance."
+    "version": "1.3.196",
+    "url": "https://github.com/sonhamasa/dahab-guide/releases/download/v1.3.196/dahab-pc-setup-1.3.196.exe",
+    "sha256": "97fecd2190c5aee6b3ce399af1c91e819dbdd7f85d05eff4cf41686adce83ff8",
+    "notes": "Live TV now recognizes channel variants more reliably.\nPlaylist updates keep every channel and remove stale duplicate links."
   },
   "history": [
+    {
+      "version": "1.3.197",
+      "date": "2026-09-13",
+      "notes": "Network labels now verify each broadcaster's regional line-up."
+    },
+    {
+      "version": "1.3.196",
+      "date": "2026-09-13",
+      "notes": "Live TV now recognizes channel variants more reliably.\nPlaylist updates keep every channel and remove stale duplicate links."
+    },
+    {
+      "version": "1.3.195",
+      "date": "2026-09-12",
+      "notes": "Live TV now keeps provider categories while combining matching sources into one channel."
+    },
+    {
+      "version": "1.3.194",
+      "date": "2026-09-12",
+      "notes": "Live TV now recognises clearly labelled regional channels without cross-country matches."
+    },
     {
       "version": "1.3.193",
       "date": "2026-09-08",
@@ -43,26 +63,6 @@
       "version": "1.3.181",
       "date": "2026-08-28",
       "notes": "fix(dub): skip phrase on translation timeout — no more garbage TTS during cold-start"
-    },
-    {
-      "version": "1.3.180",
-      "date": "2026-08-26",
-      "notes": "Upgrade Android build toolchain to AGP 9.3 and Gradle 9.5."
-    },
-    {
-      "version": "1.3.179",
-      "date": "2026-08-26",
-      "notes": "Upgrade Electron to v44 and koffi to v3.1 for better performance."
-    },
-    {
-      "version": "1.3.178",
-      "date": "2026-08-26",
-      "notes": "Library upgrades: smoother TV playback and faster voice recognition."
-    },
-    {
-      "version": "1.3.177",
-      "date": "2026-08-26",
-      "notes": "Arabic captions now steer to the right register per channel."
     }
   ]
 }
