@@ -1,77 +1,77 @@
 {
   "schema": 1,
-  "generatedAt": "2026-09-07T10:26:57.209Z",
-  "weekLabel": "week of Sep 7",
+  "generatedAt": "2026-09-14T10:45:32.196Z",
+  "weekLabel": "week of Sep 14",
   "source": "tmdb trending (api.themoviedb.org), weekly chart",
   "movies": [
     {
-      "title": "The Runner",
+      "title": "The End of Oak Street",
       "year": 2026,
-      "rating": 6.7,
-      "votes": 299,
+      "rating": 6.4,
+      "votes": 492,
       "rank": 0
+    },
+    {
+      "title": "Moana",
+      "year": 2026,
+      "rating": 7.2,
+      "votes": 604,
+      "rank": 1
     },
     {
       "title": "Spider-Man: Brand New Day",
       "year": 2026,
+      "rating": 7.8,
+      "votes": 2659,
+      "rank": 2
+    },
+    {
+      "title": "Mayday",
+      "year": 2026,
       "rating": 7.9,
-      "votes": 2482,
-      "rank": 1
+      "votes": 558,
+      "rank": 3
     },
     {
       "title": "The Odyssey",
       "year": 2026,
       "rating": 8,
-      "votes": 3523,
-      "rank": 2
+      "votes": 3672,
+      "rank": 4
+    },
+    {
+      "title": "Resident Evil",
+      "year": 2026,
+      "rating": 9.2,
+      "votes": 4,
+      "rank": 5
+    },
+    {
+      "title": "Practical Magic 2",
+      "year": 2026,
+      "rating": 6.1,
+      "votes": 46,
+      "rank": 6
     },
     {
       "title": "Obsession",
       "year": 2026,
       "rating": 8.2,
-      "votes": 5346,
-      "rank": 3
+      "votes": 5492,
+      "rank": 7
+    },
+    {
+      "title": "One Night Only",
+      "year": 2026,
+      "rating": 6.6,
+      "votes": 122,
+      "rank": 8
     },
     {
       "title": "Coyote vs. Acme",
       "year": 2026,
       "rating": 7.6,
-      "votes": 194,
-      "rank": 4
-    },
-    {
-      "title": "The Whisper Man",
-      "year": 2026,
-      "rating": 6.8,
-      "votes": 489,
-      "rank": 5
-    },
-    {
-      "title": "Mayday",
-      "year": 2026,
-      "rating": 8,
-      "votes": 249,
-      "rank": 6
-    },
-    {
-      "title": "Backrooms",
-      "year": 2026,
-      "rating": 7.1,
-      "votes": 3155,
-      "rank": 7
-    },
-    {
-      "title": "Just Play Dead",
-      "year": 2026,
-      "rating": 6.6,
-      "votes": 30,
-      "rank": 8
-    },
-    {
-      "title": "Mutiny",
-      "year": 2026,
-      "rating": 6.4,
-      "votes": 307,
+      "votes": 359,
       "rank": 9
     }
   ],
@@ -80,70 +80,70 @@
       "title": "Lanterns",
       "year": 2026,
       "rating": 8.3,
-      "votes": 277,
+      "votes": 327,
       "rank": 0
-    },
-    {
-      "title": "Silo",
-      "year": 2023,
-      "rating": 8.2,
-      "votes": 2596,
-      "rank": 1
-    },
-    {
-      "title": "The Gentlemen",
-      "year": 2024,
-      "rating": 7.8,
-      "votes": 879,
-      "rank": 2
     },
     {
       "title": "Reacher",
       "year": 2022,
       "rating": 8.1,
-      "votes": 3233,
-      "rank": 3
+      "votes": 3291,
+      "rank": 1
     },
     {
-      "title": "Lioness",
-      "year": 2023,
-      "rating": 8.1,
-      "votes": 1473,
-      "rank": 4
-    },
-    {
-      "title": "Bleach",
-      "year": 2004,
-      "rating": 8.4,
-      "votes": 2262,
-      "rank": 5
+      "title": "The Gentlemen",
+      "year": 2024,
+      "rating": 7.9,
+      "votes": 915,
+      "rank": 2
     },
     {
       "title": "One Piece",
       "year": 1999,
       "rating": 8.7,
-      "votes": 5525,
+      "votes": 5535,
+      "rank": 3
+    },
+    {
+      "title": "Silo",
+      "year": 2023,
+      "rating": 8.2,
+      "votes": 2657,
+      "rank": 4
+    },
+    {
+      "title": "Lioness",
+      "year": 2023,
+      "rating": 8.2,
+      "votes": 1525,
+      "rank": 5
+    },
+    {
+      "title": "Bleach",
+      "year": 2004,
+      "rating": 8.4,
+      "votes": 2269,
       "rank": 6
     },
     {
-      "title": "The Grand Tour",
+      "title": "Last Seen",
       "year": 2026,
-      "rating": 9.6,
-      "votes": 5,
+      "rating": 9,
+      "votes": 8,
       "rank": 7
     },
     {
-      "title": "Furious",
+      "title": "A Love Other Than Yours",
       "year": 2026,
-      "rating": 7.2,
-      "votes": 103,
+      "rating": 0,
+      "votes": 0,
       "rank": 8
     },
     {
-      "title": "Dark Matter",
-      "year": 2024,
-      "rating": 7.8,
-      "votes": 761,
+      "title": "Futurama",
+      "year": 1999,
+      "rating": 8.4,
+      "votes": 3902,
       "rank": 9
     }
   ]
