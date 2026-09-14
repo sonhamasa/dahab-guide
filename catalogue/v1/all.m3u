@@ -9025,18 +9025,12 @@ https://live.jintv.org/medialive/jintv.m3u8
 https://servilive.com:3028/live/jntv19live.m3u8
 #EXTINF:-1 tvg-id="ch_d7fb044a86a6316a",JNE TV
 https://lbgo.bozztv.com/ssh101/ssh101/jnetv/playlist.m3u8
-#EXTINF:-1 tvg-id="ch_f95adcfe8e8d3a50",JOAX-DTV
-https://ntv5.mov3.co/hls/ntv.m3u8
 #EXTINF:-1 tvg-id="ch_c6b27232270ed535",JOB TV
 https://jobtvserver.eu/hls/stream.m3u8
 #EXTINF:-1 tvg-id="ch_f34eb0f81fd7e416",Jocky TV
 http://88.212.15.19/live/jocky/index.m3u8
-#EXTINF:-1 tvg-id="ch_ae1f80d1b998c9c5",JOCX-DTV
-https://fujitv4.mov3.co/hls/fujitv.m3u8
 #EXTINF:-1 tvg-id="ch_0a1e778cfc6690d0",Joel Osteen Network
 https://linear-860.frequency.stream/dist/xumo/860/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="ch_3a58cec461f33281",JOEX-DTV
-https://tvasahi.mov3.co/hls/tvasahi.m3u8
 #EXTINF:-1 tvg-id="ch_408ba3120d248d65",Jogja Istimewa TV
 http://103.255.15.222:1935/tv/jitv_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="ch_066ea1f09dc064d6",Johnny Carson TV
@@ -9069,14 +9063,10 @@ https://jmp2.uk/plu-69162ad79505d0f3b1ebf07d.m3u8
 https://jmp2.uk/plu-69162af591700f4c4c135c95.m3u8
 #EXTINF:-1 tvg-id="ch_734c717bccf181ff",Jornada nas Estrelas: Voyager
 https://jmp2.uk/plu-69162b1ef189e235142b17ab.m3u8
-#EXTINF:-1 tvg-id="ch_cdb51d3e579a8774",JORX-DTV
-https://tbs5.mov3.co/hls/tbs.m3u8
 #EXTINF:-1 tvg-id="ch_cd921d3818e5e296",Joshua TV
 https://livecdn.live247stream.com/joshua/tv/playlist.m3u8
 #EXTINF:-1 tvg-id="ch_f3d60121cebcbb6b",Josue TV
 https://videoserver.tmcreativos.com:19360/abbftuhxxs/abbftuhxxs.m3u8
-#EXTINF:-1 tvg-id="ch_e302ea776202d937",JOTX-DTV
-https://tvtokyo.mov3.co/hls/tvtokyo.m3u8
 #EXTINF:-1 tvg-id="ch_60c8e3bffff9d411",Journy
 https://d3s3a5c7f101eb.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-id="ch_c25291499321dec1",Jovem Pan News
@@ -22811,8 +22801,14 @@ https://live.gulistannews.in/hls/jk.m3u8
 https://lb1-live-mv.v2h-cdn.com/hls/ffda/jkn18/jkn18.m3u8
 #EXTINF:-1 tvg-id="ch_8967ba2b1c370f7a",JN19
 https://servilive.com:3028/live/jntv19live.m3u8
+#EXTINF:-1 tvg-id="ch_43844dd07bef5e86",JOAX-DTV
+https://ntv5.mov3.co/hls/ntv.m3u8
+#EXTINF:-1 tvg-id="ch_bc593a19806ecfd3",JOCX-DTV
+https://fujitv4.mov3.co/hls/fujitv.m3u8
 #EXTINF:-1 tvg-id="ch_495fc863b09a07a4",Joe FM
 https://dpp-streamlive-plain.medialaancdn.be/joe_kijklive/plain/hls_hd.m3u8
+#EXTINF:-1 tvg-id="ch_bae3dac5a80b164c",JOEX-DTV
+https://tvasahi.mov3.co/hls/tvasahi.m3u8
 #EXTINF:-1 tvg-id="ch_cc6926e621a67532",Jogja TV
 https://stream.jogjatv.co.id/jtvlive/stream/index.m3u8
 #EXTINF:-1 tvg-id="ch_d9d7bd332d9511a6",The Johnny Carson Show
@@ -22823,10 +22819,14 @@ http://103.175.73.12:8080/live/676/master.m3u8
 https://jrtv-live.ercdn.net/jordanhd/jordanhd.m3u8
 #EXTINF:-1 tvg-id="ch_6a903dc795bffdc2",Jornada nas Estrelas A Nova Geração
 https://jmp2.uk/plu-69162ad79505d0f3b1ebf07d.m3u8
+#EXTINF:-1 tvg-id="ch_10f1dc753d267ea8",JORX-DTV
+https://tbs5.mov3.co/hls/tbs.m3u8
 #EXTINF:-1 tvg-id="ch_fc32460704808bb0",Josué TV
 https://videoserver.tmcreativos.com:19360/abbftuhxxs/abbftuhxxs.m3u8
 #EXTINF:-1 tvg-id="ch_319ba8308bf40509",Jothi TV
 http://103.154.3.101:5001/live/2768.m3u8
+#EXTINF:-1 tvg-id="ch_a351336fb80a7cf9",JOTX-DTV
+https://tvtokyo.mov3.co/hls/tvtokyo.m3u8
 #EXTINF:-1 tvg-id="ch_774c782db1c5efdf",Jovem Pan News (JP News)
 https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index.m3u8
 #EXTINF:-1 tvg-id="ch_40f6c18dc7734563",JPD TV
