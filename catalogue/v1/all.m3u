@@ -5865,8 +5865,6 @@ https://movil.ejeserver.com/live/calimatv.m3u8
 http://138.121.15.230:9002/CANAL-CAPITAL/index.m3u8
 #EXTINF:-1 tvg-id="ch_3e9cfc7e89248a43",Canal Catorce
 https://stream.haislin.com/14tv/index.m3u8
-#EXTINF:-1 tvg-id="ch_905522c3bf41e4ff",Canal C del Zulia
-https://calm-forest-3478.cristianbracho904.workers.dev/master.m3u8
 #EXTINF:-1 tvg-id="ch_6acd6d0a8f5b2b1b",Canal CHD
 https://vs20.live.opencaster.com/canalchd2025_8d99626c/index.m3u8
 #EXTINF:-1 tvg-id="ch_67f8252cd78053cd",Canal Chilote
@@ -10819,8 +10817,6 @@ https://xumo-xumoent-vc-105-z0vpm.fast.nbcuni.com/live/master.m3u8
 https://nbculocallive.akamaized.net/hls/live/2037096/lx/use1.m3u8
 #EXTINF:-1 tvg-id="ch_389c2c062d06ec37",NBC LX Home
 https://plex-xumoent-ch485-e7l5l.fast.nbcuni.com/live/master_5.m3u8
-#EXTINF:-1 tvg-id="ch_335381af0b24cd4b",NBC Sports Bay Area
-https://messi.damitv.st/papi/ts/nbc-sports-bayarea/playlist.m3u8
 #EXTINF:-1 tvg-id="ch_d3160e854b298048",NBC Sports NOW
 https://d4whmvwm0rdvi.cloudfront.net/10007/99993008/hls/master.m3u8?ads.xumo_channelId=99993008
 #EXTINF:-1 tvg-id="ch_cb3c1a5db12989b9",NBC Universo
@@ -13223,8 +13219,6 @@ http://88.212.15.19/live/test_rtl_plus_hungary_1200_atk/playlist.m3u8
 http://88.212.15.19/live/test_rtl2_hungary_1200_atk/playlist.m3u8
 #EXTINF:-1 tvg-id="ch_d2f7de77cd9caf4a",RTL Otthon
 http://88.212.15.19/live/rtl_otthon_atk/index.m3u8
-#EXTINF:-1 tvg-id="ch_ce8464da06eaff49",RTL Super
-https://forsizero.github.io/iptv/m3u/superrtlhd.m3u
 #EXTINF:-1 tvg-id="ch_ab17db382f70ed6c",RTL Tele Letzebuerg
 https://live-edge.rtl.lu/channel1/smil:channel1/playlist.m3u8
 #EXTINF:-1 tvg-id="ch_af4381a8630cb95f",RTL Web Radio TV
@@ -20957,6 +20951,8 @@ https://stmv5.voxtvhd.com.br/canal74hd/canal74hd/playlist.m3u8
 https://live20.bozztv.com/giatv/giatv-chinique100tvenvivo/chinique100tvenvivo/playlist.m3u8
 #EXTINF:-1 tvg-id="ch_7cf7017251953320",Canal 2000 La Solana
 http://canal2000.berkano-systems.net/streaming/streams/canal2000.m3u8
+#EXTINF:-1 tvg-id="ch_905522c3bf41e4ff",Canal C del Zulia
+https://calm-forest-3478.cristianbracho904.workers.dev/live/index.m3u8
 #EXTINF:-1 tvg-id="ch_11d7e584bacf26a5",Canal CHV Noticias
 http://cdn1tlinkgo.tlink.cl/chvnoticias/mono.m3u8
 #EXTINF:-1 tvg-id="ch_2532342980b98075",Canal Coín
@@ -25025,6 +25021,8 @@ http://145.239.5.177/308/index.m3u8
 https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S27134503/0f9AhuwKlhnZ/playlist_video.m3u8
 #EXTINF:-1 tvg-id="ch_0b7f1446c1079a4a",RTL Club
 https://7nyaler.streamhostingcdn.top/stream/65/index.m3u8
+#EXTINF:-1 tvg-id="ch_ce8464da06eaff49",RTL Super
+https://dash4.antik.sk/live/test_super_rtl_tizen/playlist.m3u8
 #EXTINF:-1 tvg-id="ch_8e85294a8a7562bd",RTL-TVI
 https://tvi-live-hls.akamaized.net/hls/live/2038650/TVI-Live-HLS/master.m3u8
 #EXTINF:-1 tvg-id="ch_23eef624c1bcf7a7",RTL Radio Web TV
