@@ -8481,8 +8481,6 @@ https://fox.hostlagarto.com:8081/hmtv/index.m3u8
 https://cloudfront44.lexanetwork.com:1344/relay03/livestream003.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="ch_94522dd60f7a6b4a",Hey Arnold!
 https://jmp2.uk/plu-66c79221b1a34600087e264d.m3u8
-#EXTINF:-1 tvg-id="ch_31da996a09c71f6a",HGTV
-https://i.mjh.nz/.r/sky-hgtv.m3u8
 #EXTINF:-1 tvg-id="ch_d7e27bfca8e65972",Hidabroot
 https://cdn.cybercdn.live/HidabrootIL/Live97/playlist.m3u8
 #EXTINF:-1 tvg-id="ch_21fe600585c92729",Hi Dost!
@@ -22569,6 +22567,8 @@ http://51.210.199.58/hls/stream.m3u8
 http://117.156.28.119/270000001111/1110000149/index.m3u8
 #EXTINF:-1 tvg-id="ch_15ba494f4b41e552",HGPTV
 https://cdn-us-east-prod-ingest-infra-dacast-com.akamaized.net/8424fb7f-99a9-87ae-3861-f0620849d11c/source/index.m3u8
+#EXTINF:-1 tvg-id="ch_48485a049c70781c",HGTV
+https://i.mjh.nz/.r/sky-hgtv.m3u8
 #EXTINF:-1 tvg-id="ch_292dbfd3b9160903",高台电视台
 http://117.156.28.119/270000001111/1110000146/index.m3u8
 #EXTINF:-1 tvg-id="ch_dabd19a160b7ddd0",High News
