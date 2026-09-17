@@ -2586,7 +2586,7 @@ https://tvpi.travny.workers.dev/tvpinfo.m3u8
 #EXTINF:-1 tvg-id="ch_32617feb8d2f1015",Belsat
 https://iptv.prosto.tv/ch171/index.m3u8
 #EXTINF:-1 tvg-id="ch_0d2e799cc6806ce5",TVP World
-https://lowa8026-cmyk.github.io/Poland/POLAIN.m3u8
+https://dash2.antik.sk/live/test_tvp_world/playlist.m3u8
 #EXTINF:-1 tvg-id="ch_c367dc05c2004ef0",TVP Kultura 2
 https://www.tvkaista.net/stream-forwarder/get.php?x=TVPKultura2
 #EXTINF:-1 tvg-id="ch_17aab39596bb73ae",4fun Kids
@@ -4775,10 +4775,10 @@ https://hls.tvabierta.net/hls/021.m3u8
 https://xyktmobile00.s.gy/091_ANTENA3_INT
 #EXTINF:-1 tvg-id="ch_da7cede62b6ddc1b",Antena 7
 https://hls.tvabierta.net/hls/007.m3u8
+#EXTINF:-1 tvg-id="ch_c1a5416288e8e96d",Antena Monden
+https://stream1.antenaplay.ro/live/AntenaMonden/playlist.m3u8
 #EXTINF:-1 tvg-id="ch_574e0f995222695d",Antena Seis TV
 https://video1.azulstream.com:8081/antenaseistv/index.m3u8
-#EXTINF:-1 tvg-id="ch_0d1e33f120861192",Antena Stars
-https://stream1.antenaplay.ro/live/AntenaMonden/playlist.m3u8
 #EXTINF:-1 tvg-id="ch_c7d02aefcbba39b2",Antena SUR
 https://cloudpro.servidoresdestream.com:8081/8010/index.m3u8
 #EXTINF:-1 tvg-id="ch_7d8be3938d1d3b73",Antena Uno Radiovideo
@@ -7083,6 +7083,8 @@ https://reflect-detroit-vod.cablecast.tv/live-3/live/stream-3/live.m3u8
 https://reflect-detroit-vod.cablecast.tv/live-10/live/stream-5/live.m3u8
 #EXTINF:-1 tvg-id="ch_991444b91059ee0b",Det sene show med Christian Fuhlendorff
 https://jmp2.uk/plu-660d6bc10cd4630008f4a25a.m3u8
+#EXTINF:-1 tvg-id="ch_d7a1911621e1d108",Detskiy
+https://stream8.cinerama.uz/1033/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ch_8371dd81c9f37519",De Ultimo Minuto TV
 https://soportedvb.click:3620/live/deultimominutomedialive.m3u8
 #EXTINF:-1 tvg-id="ch_6847e285686714d2",Dhamaal
@@ -7432,7 +7434,7 @@ https://jmp2.uk/plu-60e45687313c5f0007bc8e94.m3u8
 #EXTINF:-1 tvg-id="ch_ca0954cb098d5ff8",Elevation Church Network
 https://linear-1066.frequency.stream/dist/stirr/1066/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="ch_22852b49ec8823e9",El Gourmet
-http://190.93.224.42/EL-GOURMET/index.m3u8
+http://138.121.15.230:9002/EL-GOURMET/index.m3u8
 #EXTINF:-1 tvg-id="ch_0e6ff9c7eecd797f",Elias Pina TV
 https://cloud2.streaminglivehd.com:1936/8078/8078/playlist.m3u8
 #EXTINF:-1 tvg-id="ch_2524d9b360c382d7",Elive TV Brescia
@@ -7517,8 +7519,6 @@ https://stream.haislin.com/entelevision/index.m3u8
 https://5790d294af2dc.streamlock.net/enteraterd/enteraterd/playlist.m3u8
 #EXTINF:-1 tvg-id="ch_ce6313ce27da2873",Enterr 10 Bangla
 https://live-bangla.akamaized.net/liveabr/playlist.m3u8
-#EXTINF:-1 tvg-id="ch_da8bb148ed66e55e",Enterr 10 Rangeela
-http://103.185.24.134:3001/SUN-BANGLA-HD/index.m3u8
 #EXTINF:-1 tvg-id="ch_ed3f8f7c8264bee8",Entertainment Tonight
 https://enterbcef94b.airspace-cdn.cbsivideo.com/master.m3u8
 #EXTINF:-1 tvg-id="ch_b997452f292715ad",ENT Family
@@ -14231,6 +14231,8 @@ http://122.248.43.242:1935/SULTRATV/_definst_/myStream/playlist.m3u8
 https://bozztv.com/uni10rtmp/ssstv1-cdn/smil:ssstv1web.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ch_f0b0e6cd00f135eb",SUMtv Latino
 https://bozztv.com/uni10rtmp/ssstv2-cdn/smil:ssstv2web.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="ch_54b4b1ea6146dc1d",Sun Gemini
+http://ptuf.ridsys.in/riptv/live/GEMINI_TV/index.m3u8
 #EXTINF:-1 tvg-id="ch_f8d49440f507ddd2",Sunna TV
 https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_015/Stream/playlist.m3u8
 #EXTINF:-1 tvg-id="ch_114a7bb652d86f56",Sun RTV
@@ -16011,8 +16013,6 @@ https://d3ify425qsio2d.cloudfront.net/playlist.m3u8
 https://cdn.mycloudstream.io/hls/live/broadcast/xundwjvp/index.m3u8
 #EXTINF:-1 tvg-id="ch_d2970f62baf7b707",Unifranz
 https://edge.enhdtv.com/8192/index.m3u8
-#EXTINF:-1 tvg-id="ch_7ee616ed8cfd756f",Unikum
-https://stream8.cinerama.uz/1033/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ch_cce202a848d15025",UniMas
 http://4.30.180.36:8420/wfutdt/mono.m3u8?token=test
 #EXTINF:-1 tvg-id="ch_e30d434c9b9feceb",Union TV
@@ -20287,8 +20287,8 @@ https://live.fptplay53.net/fnxhd2/anninhtv_vhls.smil/chunklist.m3u8
 https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u8
 #EXTINF:-1 tvg-id="ch_7655b61d30b18382",Antena International
 https://live4dai.antenaplay.ro/live2_sdi06/live2_sdi06_600k.m3u8
-#EXTINF:-1 tvg-id="ch_c1a5416288e8e96d",Antena Monden
-https://stream1.antenaplay.ro/live/AntenaMonden/playlist.m3u8
+#EXTINF:-1 tvg-id="ch_0d1e33f120861192",Antena Stars
+https://live4dai.antenaplay.ro/live2_sdi07/live2_sdi07_600k.m3u8
 #EXTINF:-1 tvg-id="ch_02e61ec9dfa80eb6",Antena TV
 https://5ca9af4645e15.streamlock.net/grd/videogrd/playlist.m3u8
 #EXTINF:-1 tvg-id="ch_f83b387040421574",Antenna Tre Veneto
@@ -21589,8 +21589,6 @@ https://video2.lhdserver.es/despiertatv/live.m3u8
 https://jmp2.uk/plu-62f3e8ad2a8e8000077b013d.m3u8
 #EXTINF:-1 tvg-id="ch_a30159e53a3127d8",Detetives Médicos
 https://jmp2.uk/plu-638df93ae2f2a3000737c168.m3u8
-#EXTINF:-1 tvg-id="ch_d7a1911621e1d108",Detskiy
-https://stream8.cinerama.uz/1033/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ch_b063ca28406645ee",Детское кино International
 https://autopilot.catcast.tv/content/38720/index.m3u8
 #EXTINF:-1 tvg-id="ch_3b3fe1ac6c3314e8",Detvora+
@@ -26057,8 +26055,6 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
 https://live.mana2.my/SukeTv/index.m3u8?auth_key=1745177878-c9b78020e8d64aac92e7d5db06493530-0-951f497899c978ee5fbc2f1375671272&token=1745177878-c9b78020e8d64aac92e7d5db06493530-0-951f497899c978ee5fbc2f1375671272
 #EXTINF:-1 tvg-id="ch_ba624c4bff56d2d8",Summer of Movies
 https://jmp2.uk/plu-6654adb1f99922000854388c.m3u8
-#EXTINF:-1 tvg-id="ch_54b4b1ea6146dc1d",Sun Gemini
-http://ptuf.ridsys.in/riptv/live/GEMINI_TV/index.m3u8
 #EXTINF:-1 tvg-id="ch_af784949c8acd142",Suno News HD
 http://103.250.28.74:8000/play/a02a/index.m3u8
 #EXTINF:-1 tvg-id="ch_cd0c19e22f75a835",Sunu Label TV
