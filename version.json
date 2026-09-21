@@ -1,11 +1,11 @@
 {
-  "publishedAt": "2026-09-21T13:51:48.254Z",
+  "publishedAt": "2026-09-21T14:06:37.067Z",
   "tv": {
-    "version": "1.3.199",
-    "versionCode": 212,
-    "url": "https://github.com/sonhamasa/dahab-guide/releases/download/v1.3.199/dahab-tv-1.3.199.apk",
-    "sha256": "292dac2415517bf49904ee9f43fca6a7ffea81f162ac14bc5b88eaebbbba0d52",
-    "notes": "Android TV now releases hidden channel images and uses less memory."
+    "version": "1.3.200",
+    "versionCode": 213,
+    "url": "https://github.com/sonhamasa/dahab-guide/releases/download/v1.3.200/dahab-tv-1.3.200.apk",
+    "sha256": "fd72856d5b86359e7e009f45a446977a334efe941b7b963693eed753c42962a5",
+    "notes": "Android TV releases hidden Home artwork when entering Live TV."
   },
   "pc": {
     "version": "1.3.196",
@@ -14,6 +14,11 @@
     "notes": "Live TV now recognizes channel variants more reliably.\nPlaylist updates keep every channel and remove stale duplicate links."
   },
   "history": [
+    {
+      "version": "1.3.200",
+      "date": "2026-09-21",
+      "notes": "Android TV releases hidden Home artwork when entering Live TV."
+    },
     {
       "version": "1.3.199",
       "date": "2026-09-21",
@@ -58,11 +63,6 @@
       "version": "1.3.184",
       "date": "2026-08-28",
       "notes": "Dubbing no longer repeats the same phrase in a loop."
-    },
-    {
-      "version": "1.3.183",
-      "date": "2026-08-28",
-      "notes": "Dubbing now starts cleanly with no wrong language or chatbot phrases."
     }
   ]
 }
