@@ -1,11 +1,11 @@
 {
-  "publishedAt": "2026-09-13T07:16:58.472Z",
+  "publishedAt": "2026-09-21T13:29:12.136Z",
   "tv": {
-    "version": "1.3.197",
-    "versionCode": 210,
-    "url": "https://github.com/sonhamasa/dahab-guide/releases/download/v1.3.197/dahab-tv-1.3.197.apk",
-    "sha256": "6d85ddf3e2388e6071f7552bf86eed028409f3510fd9f2533979207b330a1f63",
-    "notes": "Network labels now verify each broadcaster's regional line-up."
+    "version": "1.3.198",
+    "versionCode": 211,
+    "url": "https://github.com/sonhamasa/dahab-guide/releases/download/v1.3.198/dahab-tv-1.3.198.apk",
+    "sha256": "a79de5fd44a1b8b71b367daf00c780705fe1e50eda4ba67208db5cf823f16915",
+    "notes": "Catalogue recovery finishes promptly and Android TV navigation uses less memory."
   },
   "pc": {
     "version": "1.3.196",
@@ -14,6 +14,11 @@
     "notes": "Live TV now recognizes channel variants more reliably.\nPlaylist updates keep every channel and remove stale duplicate links."
   },
   "history": [
+    {
+      "version": "1.3.198",
+      "date": "2026-09-21",
+      "notes": "Catalogue recovery finishes promptly and Android TV navigation uses less memory."
+    },
     {
       "version": "1.3.197",
       "date": "2026-09-13",
@@ -58,11 +63,6 @@
       "version": "1.3.182",
       "date": "2026-08-28",
       "notes": "fix(dub): no wrong language, no repetition, no chatbot output during warm-up"
-    },
-    {
-      "version": "1.3.181",
-      "date": "2026-08-28",
-      "notes": "fix(dub): skip phrase on translation timeout — no more garbage TTS during cold-start"
     }
   ]
 }
