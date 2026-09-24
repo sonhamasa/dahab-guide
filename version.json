@@ -1,19 +1,24 @@
 {
-  "publishedAt": "2026-09-24T16:42:14.808Z",
+  "publishedAt": "2026-09-24T17:43:13.854Z",
   "tv": {
-    "version": "1.3.209",
-    "versionCode": 222,
-    "url": "https://github.com/sonhamasa/dahab-guide/releases/download/v1.3.209/dahab-tv-1.3.209.apk",
-    "sha256": "52bad25028139fc80f807bc6ae29d5305803156896c241b99f8da23dc2744796",
-    "notes": "Deduplicate resume cards. Refresh the weekly Top 10 correctly."
+    "version": "1.3.210",
+    "versionCode": 223,
+    "url": "https://github.com/sonhamasa/dahab-guide/releases/download/v1.3.210/dahab-tv-1.3.210.apk",
+    "sha256": "08774ecde2a728ca1e880eeee29c782d0a04e9d76e42860f554e551a2fa7edbd",
+    "notes": "Continue Watching shows the saved title and poster again."
   },
   "pc": {
-    "version": "1.3.209",
-    "url": "https://github.com/sonhamasa/dahab-guide/releases/download/v1.3.209/dahab-pc-setup-1.3.209.exe",
-    "sha256": "4b1fadf838416dc6cb1ba2c54e7f4ea4741198482a37bf7e732f759208e124d1",
-    "notes": "Deduplicate resume cards. Refresh the weekly Top 10 correctly."
+    "version": "1.3.210",
+    "url": "https://github.com/sonhamasa/dahab-guide/releases/download/v1.3.210/dahab-pc-setup-1.3.210.exe",
+    "sha256": "e2993719ea026338771b0bb8d86b6805693928909a5c2ccab42b3aac8298f7f7",
+    "notes": "Continue Watching shows the saved title and poster again."
   },
   "history": [
+    {
+      "version": "1.3.210",
+      "date": "2026-09-24",
+      "notes": "Continue Watching shows the saved title and poster again."
+    },
     {
       "version": "1.3.209",
       "date": "2026-09-24",
@@ -58,11 +63,6 @@
       "version": "1.3.201",
       "date": "2026-09-21",
       "notes": "Android TV keeps hidden Home from repainting during Live TV."
-    },
-    {
-      "version": "1.3.200",
-      "date": "2026-09-21",
-      "notes": "Android TV releases hidden Home artwork when entering Live TV."
     }
   ]
 }
