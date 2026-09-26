@@ -1,19 +1,29 @@
 {
-  "publishedAt": "2026-09-25T03:31:35.059Z",
+  "publishedAt": "2026-09-26T08:41:01.446Z",
   "tv": {
-    "version": "1.3.211",
-    "versionCode": 224,
-    "url": "https://github.com/sonhamasa/dahab-guide/releases/download/v1.3.211/dahab-tv-1.3.211.apk",
-    "sha256": "3128e7956b821a0f3c6c408c1ba2fc00c28af95b3f33e8684b4371a04d59eb43",
-    "notes": "Duplicate movies appear once in Continue Watching.\nResume from each movie's saved position."
+    "version": "1.3.213",
+    "versionCode": 226,
+    "url": "https://github.com/sonhamasa/dahab-guide/releases/download/v1.3.213/dahab-tv-1.3.213.apk",
+    "sha256": "edc96c2bf4b4e31ffd94ce162501c0f220f4939848c8201fc9fd8c5de5b81008",
+    "notes": "TV channel updates are faster and more reliable.\nPlayback and Downloads fixes are included.\nAccount sync now recovers cleanly after sign-in expires."
   },
   "pc": {
-    "version": "1.3.211",
-    "url": "https://github.com/sonhamasa/dahab-guide/releases/download/v1.3.211/dahab-pc-setup-1.3.211.exe",
-    "sha256": "8a812500cd375403a50924fa476fa9a732ec5c02b708da8b20325b6e0d4cefb9",
-    "notes": "Duplicate movies appear once in Continue Watching.\nResume from each movie's saved position."
+    "version": "1.3.213",
+    "url": "https://github.com/sonhamasa/dahab-guide/releases/download/v1.3.213/dahab-pc-setup-1.3.213.exe",
+    "sha256": "24bb30e7ac07136c472a0ca2811b9831a4881c0f86efbf11d5798df9ba361a00",
+    "notes": "TV channel updates are faster and more reliable.\nPlayback and Downloads fixes are included.\nAccount sync now recovers cleanly after sign-in expires."
   },
   "history": [
+    {
+      "version": "1.3.213",
+      "date": "2026-09-26",
+      "notes": "TV channel updates are faster and more reliable.\nPlayback and Downloads fixes are included.\nAccount sync now recovers cleanly after sign-in expires."
+    },
+    {
+      "version": "1.3.212",
+      "date": "2026-09-25",
+      "notes": "Unidentified resume cards no longer share one poster.\nEach fallback card is easy to tell apart."
+    },
     {
       "version": "1.3.211",
       "date": "2026-09-25",
@@ -53,16 +63,6 @@
       "version": "1.3.204",
       "date": "2026-09-24",
       "notes": "Choose sources with measured resolution and clearer source labels."
-    },
-    {
-      "version": "1.3.203",
-      "date": "2026-09-24",
-      "notes": "Live channels keep verified sources and logos. Fullscreen Sources selection works again."
-    },
-    {
-      "version": "1.3.202",
-      "date": "2026-09-21",
-      "notes": "Phase 1: defer Streamer Home recommendation and overlay work"
     }
   ]
 }
