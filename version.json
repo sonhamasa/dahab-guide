@@ -1,11 +1,11 @@
 {
-  "publishedAt": "2026-09-26T17:53:10.674Z",
+  "publishedAt": "2026-09-27T01:16:27.095Z",
   "tv": {
-    "version": "1.3.215",
-    "versionCode": 229,
-    "url": "https://github.com/sonhamasa/dahab-guide/releases/download/v1.3.215/dahab-tv-1.3.215.apk",
-    "sha256": "fa0a6dc5b30f983967db6025677090fed6e555124c39af17f0535871414c91ae",
-    "notes": "Live TV now shows channel artwork and full names before playback."
+    "version": "1.3.216",
+    "versionCode": 230,
+    "url": "https://github.com/sonhamasa/dahab-guide/releases/download/v1.3.216/dahab-tv-1.3.216.apk",
+    "sha256": "60b7501aa905e2390db45785f6e9036d71b5effaddf9adbbaf18c3c0ee2ea148",
+    "notes": "Brighter purple screens and clearer live channel logos."
   },
   "pc": {
     "version": "1.3.214",
@@ -14,6 +14,11 @@
     "notes": "Brighter artwork, refined typography, and clearer live channel names."
   },
   "history": [
+    {
+      "version": "1.3.216",
+      "date": "2026-09-27",
+      "notes": "Brighter purple screens and clearer live channel logos."
+    },
     {
       "version": "1.3.215",
       "date": "2026-09-26",
@@ -58,11 +63,6 @@
       "version": "1.3.207",
       "date": "2026-09-24",
       "notes": "Settings now use one clear scroll area; improved skin choices and search Backspace"
-    },
-    {
-      "version": "1.3.206",
-      "date": "2026-09-24",
-      "notes": "Redesigned Settings for clearer navigation and easier controls"
     }
   ]
 }
