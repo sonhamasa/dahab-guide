@@ -1,19 +1,24 @@
 {
-  "publishedAt": "2026-09-28T17:30:22.300Z",
+  "publishedAt": "2026-09-28T18:35:10.257Z",
   "tv": {
-    "version": "1.3.219",
-    "versionCode": 234,
-    "url": "https://github.com/sonhamasa/dahab-guide/releases/download/v1.3.219/dahab-tv-1.3.219.apk",
-    "sha256": "b387aa7230eb26d5c6a94d886326a8e0a5b207a0c1725a4edab0adb6a9d233e0",
-    "notes": "Drag favorite channels into your preferred order on PC.\nOn TV, hold OK, move with arrows, then press OK to save.\nFavorite order saves per profile and syncs across devices."
+    "version": "1.3.220",
+    "versionCode": 236,
+    "url": "https://github.com/sonhamasa/dahab-guide/releases/download/v1.3.220/dahab-tv-1.3.220.apk",
+    "sha256": "d72481b3008e357c87311fc0e487a9f0bc7f70b213ba40a10b8f245794276596",
+    "notes": "Cinematic artwork and travelling gold focus. Your pre-cinema restore point is saved."
   },
   "pc": {
-    "version": "1.3.219",
-    "url": "https://github.com/sonhamasa/dahab-guide/releases/download/v1.3.219/dahab-pc-setup-1.3.219.exe",
-    "sha256": "14e5b4fab9ea45537c8511057c89edb7d8d26189a3c25f4eb31a8ca426af9fe8",
-    "notes": "Drag favorite channels into your preferred order on PC.\nOn TV, hold OK, move with arrows, then press OK to save.\nFavorite order saves per profile and syncs across devices."
+    "version": "1.3.220",
+    "url": "https://github.com/sonhamasa/dahab-guide/releases/download/v1.3.220/dahab-pc-setup-1.3.220.exe",
+    "sha256": "3a7c5a2f8ffcc9e85ba47b230c2ae7451a54cf25ee79326ca89af3f577e429a2",
+    "notes": "Cinematic artwork and travelling gold focus. Your pre-cinema restore point is saved."
   },
   "history": [
+    {
+      "version": "1.3.220",
+      "date": "2026-09-28",
+      "notes": "Cinematic artwork and travelling gold focus. Your pre-cinema restore point is saved."
+    },
     {
       "version": "1.3.219",
       "date": "2026-09-28",
@@ -58,11 +63,6 @@
       "version": "1.3.211",
       "date": "2026-09-25",
       "notes": "Duplicate movies appear once in Continue Watching.\nResume from each movie's saved position."
-    },
-    {
-      "version": "1.3.210",
-      "date": "2026-09-24",
-      "notes": "Continue Watching shows the saved title and poster again."
     }
   ]
 }
