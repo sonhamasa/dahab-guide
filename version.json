@@ -1,19 +1,24 @@
 {
-  "publishedAt": "2026-09-29T02:44:49.571Z",
+  "publishedAt": "2026-09-29T04:47:30.442Z",
   "tv": {
-    "version": "1.3.222",
-    "versionCode": 238,
-    "url": "https://github.com/sonhamasa/dahab-guide/releases/download/v1.3.222/dahab-tv-1.3.222.apk",
-    "sha256": "f7de1299afb18e0c2c8c315f691957ba3b498b7cf3a91b77d97cae32b4034f55",
-    "notes": "Original purple colors restored. Browse cards fit the window and focus stays aligned."
+    "version": "1.3.223",
+    "versionCode": 240,
+    "url": "https://github.com/sonhamasa/dahab-guide/releases/download/v1.3.223/dahab-tv-1.3.223.apk",
+    "sha256": "b7c121f61655099d0ee1795698f7fe644f528efbd06d93444dd45a14489f5370",
+    "notes": "Browse Live TV by Now, In 30 minutes or Tonight. Original Dahab colors stay protected."
   },
   "pc": {
-    "version": "1.3.222",
-    "url": "https://github.com/sonhamasa/dahab-guide/releases/download/v1.3.222/dahab-pc-setup-1.3.222.exe",
-    "sha256": "834df81c6fe8d9e886621b646b421c9d4bce9bbdb6706bce700d06094427d06d",
-    "notes": "Original purple colors restored. Browse cards fit the window and focus stays aligned."
+    "version": "1.3.223",
+    "url": "https://github.com/sonhamasa/dahab-guide/releases/download/v1.3.223/dahab-pc-setup-1.3.223.exe",
+    "sha256": "427f1775ad99efe71a7a389cb6a5c17e6ff05bd33b772719c74d3bb0076f09fa",
+    "notes": "Browse Live TV by Now, In 30 minutes or Tonight. Original Dahab colors stay protected."
   },
   "history": [
+    {
+      "version": "1.3.223",
+      "date": "2026-09-29",
+      "notes": "Browse Live TV by Now, In 30 minutes or Tonight. Original Dahab colors stay protected."
+    },
     {
       "version": "1.3.222",
       "date": "2026-09-29",
@@ -58,11 +63,6 @@
       "version": "1.3.214",
       "date": "2026-09-26",
       "notes": "Brighter artwork, refined typography, and clearer live channel names."
-    },
-    {
-      "version": "1.3.213",
-      "date": "2026-09-26",
-      "notes": "TV channel updates are faster and more reliable.\nPlayback and Downloads fixes are included.\nAccount sync now recovers cleanly after sign-in expires."
     }
   ]
 }
