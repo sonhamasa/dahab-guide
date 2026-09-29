@@ -1,19 +1,24 @@
 {
-  "publishedAt": "2026-09-28T18:35:10.257Z",
+  "publishedAt": "2026-09-29T01:10:44.796Z",
   "tv": {
-    "version": "1.3.220",
-    "versionCode": 236,
-    "url": "https://github.com/sonhamasa/dahab-guide/releases/download/v1.3.220/dahab-tv-1.3.220.apk",
-    "sha256": "d72481b3008e357c87311fc0e487a9f0bc7f70b213ba40a10b8f245794276596",
-    "notes": "Cinematic artwork and travelling gold focus. Your pre-cinema restore point is saved."
+    "version": "1.3.221",
+    "versionCode": 237,
+    "url": "https://github.com/sonhamasa/dahab-guide/releases/download/v1.3.221/dahab-tv-1.3.221.apk",
+    "sha256": "b5be6ffea6f6252d57fb8e37f99d7c00705c565f26e24e4940fcf1f2c6152bfb",
+    "notes": "Purple styling restored. Selected header labels remain clear. Cinema motion retained."
   },
   "pc": {
-    "version": "1.3.220",
-    "url": "https://github.com/sonhamasa/dahab-guide/releases/download/v1.3.220/dahab-pc-setup-1.3.220.exe",
-    "sha256": "3a7c5a2f8ffcc9e85ba47b230c2ae7451a54cf25ee79326ca89af3f577e429a2",
-    "notes": "Cinematic artwork and travelling gold focus. Your pre-cinema restore point is saved."
+    "version": "1.3.221",
+    "url": "https://github.com/sonhamasa/dahab-guide/releases/download/v1.3.221/dahab-pc-setup-1.3.221.exe",
+    "sha256": "f05efa75e169fe18df0d1fc0c905c51991d48312a0b9fce5383873692227d0cc",
+    "notes": "Purple styling restored. Selected header labels remain clear. Cinema motion retained."
   },
   "history": [
+    {
+      "version": "1.3.221",
+      "date": "2026-09-29",
+      "notes": "Purple styling restored. Selected header labels remain clear. Cinema motion retained."
+    },
     {
       "version": "1.3.220",
       "date": "2026-09-28",
@@ -58,11 +63,6 @@
       "version": "1.3.212",
       "date": "2026-09-25",
       "notes": "Unidentified resume cards no longer share one poster.\nEach fallback card is easy to tell apart."
-    },
-    {
-      "version": "1.3.211",
-      "date": "2026-09-25",
-      "notes": "Duplicate movies appear once in Continue Watching.\nResume from each movie's saved position."
     }
   ]
 }
