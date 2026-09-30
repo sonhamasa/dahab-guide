@@ -1,19 +1,24 @@
 {
-  "publishedAt": "2026-09-29T04:47:30.442Z",
+  "publishedAt": "2026-09-30T15:15:57.977Z",
   "tv": {
-    "version": "1.3.223",
-    "versionCode": 240,
-    "url": "https://github.com/sonhamasa/dahab-guide/releases/download/v1.3.223/dahab-tv-1.3.223.apk",
-    "sha256": "b7c121f61655099d0ee1795698f7fe644f528efbd06d93444dd45a14489f5370",
-    "notes": "Browse Live TV by Now, In 30 minutes or Tonight. Original Dahab colors stay protected."
+    "version": "1.3.224",
+    "versionCode": 241,
+    "url": "https://github.com/sonhamasa/dahab-guide/releases/download/v1.3.224/dahab-tv-1.3.224.apk",
+    "sha256": "da438a69b7b81d0df7e5c00cc50b2c6d97b65b1170ab0c19e163cfc83bf87839",
+    "notes": "Build My Evening fits a viewing lineup to your time and mood, including breaks."
   },
   "pc": {
-    "version": "1.3.223",
-    "url": "https://github.com/sonhamasa/dahab-guide/releases/download/v1.3.223/dahab-pc-setup-1.3.223.exe",
-    "sha256": "427f1775ad99efe71a7a389cb6a5c17e6ff05bd33b772719c74d3bb0076f09fa",
-    "notes": "Browse Live TV by Now, In 30 minutes or Tonight. Original Dahab colors stay protected."
+    "version": "1.3.224",
+    "url": "https://github.com/sonhamasa/dahab-guide/releases/download/v1.3.224/dahab-pc-setup-1.3.224.exe",
+    "sha256": "3ef97a469815f42aada7fd895be6e627517f37ef94cde6c600a5f06a422d087f",
+    "notes": "Build My Evening fits a viewing lineup to your time and mood, including breaks."
   },
   "history": [
+    {
+      "version": "1.3.224",
+      "date": "2026-09-29",
+      "notes": "Build My Evening fits a viewing lineup to your time and mood, including breaks."
+    },
     {
       "version": "1.3.223",
       "date": "2026-09-29",
@@ -58,11 +63,6 @@
       "version": "1.3.215",
       "date": "2026-09-26",
       "notes": "Live TV now shows channel artwork and full names before playback."
-    },
-    {
-      "version": "1.3.214",
-      "date": "2026-09-26",
-      "notes": "Brighter artwork, refined typography, and clearer live channel names."
     }
   ]
 }
