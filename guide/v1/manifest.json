@@ -1,0 +1,703 @@
+{
+  "schema": 1,
+  "generatedAt": "2026-10-01T13:15:20.301Z",
+  "expiresAt": "2026-10-02T01:15:20.301Z",
+  "windowHours": 72,
+  "shards": {
+    "SA2": {
+      "path": "shards/sa2.070cdb348b0876a1.json.gz",
+      "sha256": "070cdb348b0876a146ab1455b19987d1dac8c3b3a42ddc168b9448eb81d9db4f",
+      "bytes": 59685,
+      "decodedBytes": 359386,
+      "encoding": "gzip",
+      "channels": 41,
+      "programs": 3958
+    },
+    "ALJAZEERA1": {
+      "path": "shards/aljazeera1.b34ee6f83f22ae4b.json.gz",
+      "sha256": "b34ee6f83f22ae4bb6bdc888c160a430100c07180e28a0ad376814c6bae6d7e5",
+      "bytes": 2936,
+      "decodedBytes": 18287,
+      "encoding": "gzip",
+      "channels": 2,
+      "programs": 136
+    },
+    "AE1": {
+      "path": "shards/ae1.25479cd2acfbaa24.json.gz",
+      "sha256": "25479cd2acfbaa2411dc4d1631648766a1d69a452cc9dbc560f58c4810d874e5",
+      "bytes": 643245,
+      "decodedBytes": 13243983,
+      "encoding": "gzip",
+      "channels": 629,
+      "programs": 57100
+    },
+    "BEIN1": {
+      "path": "shards/bein1.61982c9412568635.json.gz",
+      "sha256": "61982c94125686357a58af1403fe1098f6856744c98c49871cbda3d3e2221b49",
+      "bytes": 7639,
+      "decodedBytes": 108793,
+      "encoding": "gzip",
+      "channels": 61,
+      "programs": 1403
+    },
+    "UK1": {
+      "path": "shards/uk1.e727c6a3eb317c1a.json.gz",
+      "sha256": "e727c6a3eb317c1a1752f64af94bcc13df573d5ef01b2f5251750a90dfcb9fa8",
+      "bytes": 920240,
+      "decodedBytes": 4847302,
+      "encoding": "gzip",
+      "channels": 376,
+      "programs": 28181
+    },
+    "ID1": {
+      "path": "shards/id1.6ee08fe0f66278fd.json.gz",
+      "sha256": "6ee08fe0f66278fd1633e252c5ee7caeb29f0eeb598352cfa62834dcb7782e07",
+      "bytes": 71971,
+      "decodedBytes": 405603,
+      "encoding": "gzip",
+      "channels": 109,
+      "programs": 9075
+    },
+    "IN1": {
+      "path": "shards/in1.6d3fb7318aa8c8c3.json.gz",
+      "sha256": "6d3fb7318aa8c8c3831751e707689f85c1eb877951409eeb429b1f539410497b",
+      "bytes": 1646184,
+      "decodedBytes": 20142626,
+      "encoding": "gzip",
+      "channels": 813,
+      "programs": 91391
+    },
+    "IN2": {
+      "path": "shards/in2.833a5e5bafeb3ba9.json.gz",
+      "sha256": "833a5e5bafeb3ba96b4ce4724a7f4e749302b1bfab46af86ef7ddb342b0eb118",
+      "bytes": 5168,
+      "decodedBytes": 21426,
+      "encoding": "gzip",
+      "channels": 35,
+      "programs": 367
+    },
+    "BEIN": {
+      "path": "shards/bein.d342f70aef46f1dd.json.gz",
+      "sha256": "d342f70aef46f1dde73a8d49d96a795de70d3794c8710de069abe78abd972257",
+      "bytes": 25063,
+      "decodedBytes": 329283,
+      "encoding": "gzip",
+      "channels": 31,
+      "programs": 1437
+    },
+    "TR1": {
+      "path": "shards/tr1.96841aa9e35004a6.json.gz",
+      "sha256": "96841aa9e35004a61aa469029098d0d086cfe355bbf7fb0a5b29388eee3b6722",
+      "bytes": 103594,
+      "decodedBytes": 501736,
+      "encoding": "gzip",
+      "channels": 130,
+      "programs": 11485
+    },
+    "IN4": {
+      "path": "shards/in4.5b3aeecf65d0d90b.json.gz",
+      "sha256": "5b3aeecf65d0d90b6700f524133196821f7579bb31e2bbc06563d6d7bc6c92db",
+      "bytes": 472881,
+      "decodedBytes": 3022607,
+      "encoding": "gzip",
+      "channels": 484,
+      "programs": 16749
+    },
+    "TR3": {
+      "path": "shards/tr3.83deb183620e54f8.json.gz",
+      "sha256": "83deb183620e54f8ca9277f733c01cbb9516e0413f361c92e3f0c1075cc2672d",
+      "bytes": 661076,
+      "decodedBytes": 4297730,
+      "encoding": "gzip",
+      "channels": 232,
+      "programs": 17484
+    },
+    "DE1": {
+      "path": "shards/de1.7fe40fe5e784070f.json.gz",
+      "sha256": "7fe40fe5e784070f01fccaa8ae094bc407226ebf8b1652828ced995be654fa19",
+      "bytes": 1640675,
+      "decodedBytes": 6863610,
+      "encoding": "gzip",
+      "channels": 248,
+      "programs": 20224
+    },
+    "US2": {
+      "path": "shards/us2.bdad7a85d5026766.json.gz",
+      "sha256": "bdad7a85d502676673b69da00f5429c1d9f3cb7faea4d49d7a17368d32494855",
+      "bytes": 2311391,
+      "decodedBytes": 10670366,
+      "encoding": "gzip",
+      "channels": 743,
+      "programs": 57644
+    },
+    "FR1": {
+      "path": "shards/fr1.562b04ac28065493.json.gz",
+      "sha256": "562b04ac28065493bfaf7171b824603010500e5b1e8030af08a3c0d3af376537",
+      "bytes": 1871851,
+      "decodedBytes": 8565576,
+      "encoding": "gzip",
+      "channels": 490,
+      "programs": 43762
+    },
+    "NL1": {
+      "path": "shards/nl1.b80852b3df574dff.json.gz",
+      "sha256": "b80852b3df574dff093a8699179e071017ca906b1cd4c24401d1d3e8edbe664c",
+      "bytes": 851234,
+      "decodedBytes": 3694631,
+      "encoding": "gzip",
+      "channels": 156,
+      "programs": 19050
+    },
+    "ES1": {
+      "path": "shards/es1.364b1780cacf110d.json.gz",
+      "sha256": "364b1780cacf110d86aa5e52e7a846db60c1659d4c895702b886e850d461d3ca",
+      "bytes": 1261563,
+      "decodedBytes": 5732941,
+      "encoding": "gzip",
+      "channels": 326,
+      "programs": 22408
+    },
+    "GR1": {
+      "path": "shards/gr1.4527ee000aa7a4e7.json.gz",
+      "sha256": "4527ee000aa7a4e734e821f87f50115b83fd2190df7bc29966a334af4978d62d",
+      "bytes": 774000,
+      "decodedBytes": 5965469,
+      "encoding": "gzip",
+      "channels": 278,
+      "programs": 17363
+    },
+    "IT1": {
+      "path": "shards/it1.1e065237364ae7c0.json.gz",
+      "sha256": "1e065237364ae7c0c189ca1821aca514719ed51c2012586a29feac31a2889d2f",
+      "bytes": 650900,
+      "decodedBytes": 2936293,
+      "encoding": "gzip",
+      "channels": 145,
+      "programs": 14028
+    },
+    "SK1": {
+      "path": "shards/sk1.172b953f5963df0c.json.gz",
+      "sha256": "172b953f5963df0c8d452e2d29452ca91db8ffdb3f988cf82d1fc3a06695c58e",
+      "bytes": 932504,
+      "decodedBytes": 4035736,
+      "encoding": "gzip",
+      "channels": 172,
+      "programs": 17069
+    },
+    "PL1": {
+      "path": "shards/pl1.a63a71e879a96008.json.gz",
+      "sha256": "a63a71e879a9600868ed5307d7513b67d04157a7713a6133f5583faaa01fabfe",
+      "bytes": 2740049,
+      "decodedBytes": 13603535,
+      "encoding": "gzip",
+      "channels": 499,
+      "programs": 59875
+    },
+    "CZ1": {
+      "path": "shards/cz1.302efae3405a111e.json.gz",
+      "sha256": "302efae3405a111e0d4fe337063e79ca7a9f22742e885a982329b106f2474552",
+      "bytes": 1992850,
+      "decodedBytes": 8286305,
+      "encoding": "gzip",
+      "channels": 508,
+      "programs": 33184
+    },
+    "HU1": {
+      "path": "shards/hu1.e394686acc6b29b8.json.gz",
+      "sha256": "e394686acc6b29b83b431d1fe2d10e932df35978863cc300f60531cd78fc1b06",
+      "bytes": 794329,
+      "decodedBytes": 3725467,
+      "encoding": "gzip",
+      "channels": 159,
+      "programs": 13475
+    },
+    "HR1": {
+      "path": "shards/hr1.22b451072159dbe9.json.gz",
+      "sha256": "22b451072159dbe93103191061c7427cb9e9f7c338243f2fc3a68ed56dcdf4c7",
+      "bytes": 676952,
+      "decodedBytes": 3044879,
+      "encoding": "gzip",
+      "channels": 188,
+      "programs": 16695
+    },
+    "RS1": {
+      "path": "shards/rs1.722361d103539a73.json.gz",
+      "sha256": "722361d103539a73c0d28e344424826627c00100d6ed960cbd07f22ef71397d3",
+      "bytes": 2508533,
+      "decodedBytes": 15750658,
+      "encoding": "gzip",
+      "channels": 614,
+      "programs": 60603
+    },
+    "BG1": {
+      "path": "shards/bg1.ddb831126081606c.json.gz",
+      "sha256": "ddb831126081606c8ce2df96d89ae6aa8d6c12d0469affdb4cd4cbec29ed1d32",
+      "bytes": 108945,
+      "decodedBytes": 590005,
+      "encoding": "gzip",
+      "channels": 68,
+      "programs": 4080
+    },
+    "ZA1": {
+      "path": "shards/za1.9d680cad3353a92f.json.gz",
+      "sha256": "9d680cad3353a92fc79f11fe7fb53882a25dff378e178f7e2339be7015d6445d",
+      "bytes": 111056,
+      "decodedBytes": 561733,
+      "encoding": "gzip",
+      "channels": 127,
+      "programs": 12027
+    },
+    "KE1": {
+      "path": "shards/ke1.223af3019c62d67b.json.gz",
+      "sha256": "223af3019c62d67b61dc45d3e6b37fb96bdf320b80ae728b109164e127c7995e",
+      "bytes": 101000,
+      "decodedBytes": 516978,
+      "encoding": "gzip",
+      "channels": 152,
+      "programs": 11193
+    },
+    "NG1": {
+      "path": "shards/ng1.ad1003eeb22245e7.json.gz",
+      "sha256": "ad1003eeb22245e71957b26319b104cc2723e9cd6f3fdde4d45b62f5c638b312",
+      "bytes": 92587,
+      "decodedBytes": 461703,
+      "encoding": "gzip",
+      "channels": 119,
+      "programs": 9981
+    },
+    "AL1": {
+      "path": "shards/al1.11f79a015ee90ac4.json.gz",
+      "sha256": "11f79a015ee90ac46783167b801b54f87e3e45d487ac51a6553bf0225e452d23",
+      "bytes": 243722,
+      "decodedBytes": 1212027,
+      "encoding": "gzip",
+      "channels": 172,
+      "programs": 9460
+    },
+    "BA1": {
+      "path": "shards/ba1.e9476757c1c0aedf.json.gz",
+      "sha256": "e9476757c1c0aedf018dfed4df60973cd93a2e44cc4515578dad853a0e4da0d2",
+      "bytes": 998859,
+      "decodedBytes": 7398183,
+      "encoding": "gzip",
+      "channels": 226,
+      "programs": 18136
+    },
+    "IL1": {
+      "path": "shards/il1.2d1251174af21712.json.gz",
+      "sha256": "2d1251174af217128188980aa93abd804015a3c1a0b21e81fed7177a5d34383d",
+      "bytes": 448081,
+      "decodedBytes": 2538711,
+      "encoding": "gzip",
+      "channels": 108,
+      "programs": 10479
+    },
+    "CH1": {
+      "path": "shards/ch1.d4723f5d67d9eabc.json.gz",
+      "sha256": "d4723f5d67d9eabc8cab1798482f4e6e69600f5128ecc1883eeed686aac0e59a",
+      "bytes": 2716723,
+      "decodedBytes": 11818149,
+      "encoding": "gzip",
+      "channels": 730,
+      "programs": 62129
+    },
+    "SG1": {
+      "path": "shards/sg1.aed8f6eee208375f.json.gz",
+      "sha256": "aed8f6eee208375f9490152b2fb92ac87e189c1c36282898c774e3bb0738ee11",
+      "bytes": 481389,
+      "decodedBytes": 2510369,
+      "encoding": "gzip",
+      "channels": 132,
+      "programs": 12524
+    },
+    "MY1": {
+      "path": "shards/my1.8e376867595ace5b.json.gz",
+      "sha256": "8e376867595ace5bb6fa717b78cdc9c4ebadcb4815b158e86e3b1f0378b4bd71",
+      "bytes": 307429,
+      "decodedBytes": 1628869,
+      "encoding": "gzip",
+      "channels": 128,
+      "programs": 9351
+    },
+    "AU1": {
+      "path": "shards/au1.3d1e003ef198cbe7.json.gz",
+      "sha256": "3d1e003ef198cbe7cfa2ae4b3fe3d27302b3c8f3a53449c11f21c8c11cc27d43",
+      "bytes": 1378322,
+      "decodedBytes": 5237878,
+      "encoding": "gzip",
+      "channels": 281,
+      "programs": 27681
+    },
+    "CO1": {
+      "path": "shards/co1.ed4d8320dec875bd.json.gz",
+      "sha256": "ed4d8320dec875bdb47039282954fc9cc2b46a5c6908217e7145b1213f80320c",
+      "bytes": 341894,
+      "decodedBytes": 1598718,
+      "encoding": "gzip",
+      "channels": 87,
+      "programs": 7919
+    },
+    "BR2": {
+      "path": "shards/br2.83368f58df368e81.json.gz",
+      "sha256": "83368f58df368e81ba5c255185a433ca0a08271f1c0b25a2a58f212a675ce117",
+      "bytes": 86016,
+      "decodedBytes": 384522,
+      "encoding": "gzip",
+      "channels": 92,
+      "programs": 8035
+    },
+    "IE1": {
+      "path": "shards/ie1.a14012cfd7710a45.json.gz",
+      "sha256": "a14012cfd7710a4567bd3c6597f839f43f3b3648126bbf0102cd9aaba204c43e",
+      "bytes": 823174,
+      "decodedBytes": 3089416,
+      "encoding": "gzip",
+      "channels": 159,
+      "programs": 14657
+    },
+    "PLEX1": {
+      "path": "shards/plex1.3e50b7e899890149.json.gz",
+      "sha256": "3e50b7e899890149d56b938a9bc55fc05b3103cd98e0420015a56224bd2118d1",
+      "bytes": 2276183,
+      "decodedBytes": 10002611,
+      "encoding": "gzip",
+      "channels": 685,
+      "programs": 60723
+    },
+    "NZ1": {
+      "path": "shards/nz1.fa141f4f12303ecd.json.gz",
+      "sha256": "fa141f4f12303ecdf35c6cef6e0df602d6db8364c825e4aaa63e04fcb3ecd10b",
+      "bytes": 286727,
+      "decodedBytes": 1415721,
+      "encoding": "gzip",
+      "channels": 92,
+      "programs": 7566
+    },
+    "AT1": {
+      "path": "shards/at1.ac5deeebd18a88a8.json.gz",
+      "sha256": "ac5deeebd18a88a8a975ea63299513290ab4052cd487d22334981662272bf988",
+      "bytes": 1326458,
+      "decodedBytes": 5623890,
+      "encoding": "gzip",
+      "channels": 136,
+      "programs": 13067
+    },
+    "SE1": {
+      "path": "shards/se1.75a3fa8768459adc.json.gz",
+      "sha256": "75a3fa8768459adc996ce9c8e31cd15a453989fe00d287cb1054b8f0aebe7657",
+      "bytes": 564316,
+      "decodedBytes": 2161296,
+      "encoding": "gzip",
+      "channels": 123,
+      "programs": 11047
+    },
+    "RAKUTEN1": {
+      "path": "shards/rakuten1.d7da0ecc160568d7.json.gz",
+      "sha256": "d7da0ecc160568d73ae294432138a4568a6d75a3fc16d98deda4cfbfbf05031e",
+      "bytes": 2208866,
+      "decodedBytes": 9078832,
+      "encoding": "gzip",
+      "channels": 496,
+      "programs": 42438
+    },
+    "CA2": {
+      "path": "shards/ca2.037d74d33a96eb1f.json.gz",
+      "sha256": "037d74d33a96eb1f67ece9e5ef371b7043f437974bbe26d7e8dfae94fa543345",
+      "bytes": 2093403,
+      "decodedBytes": 9221872,
+      "encoding": "gzip",
+      "channels": 664,
+      "programs": 50157
+    },
+    "DK1": {
+      "path": "shards/dk1.78af562da5679f46.json.gz",
+      "sha256": "78af562da5679f464c0b48024267bb74cec5b807fa7b3ef69d0202dc54ca37ea",
+      "bytes": 790976,
+      "decodedBytes": 3327831,
+      "encoding": "gzip",
+      "channels": 149,
+      "programs": 10745
+    },
+    "NO1": {
+      "path": "shards/no1.7b51b20147ee41e5.json.gz",
+      "sha256": "7b51b20147ee41e574ea4261a1e9ae8184bef388dcfe9a3dcb4bd2123762dc59",
+      "bytes": 357796,
+      "decodedBytes": 2336524,
+      "encoding": "gzip",
+      "channels": 129,
+      "programs": 9567
+    },
+    "FI1": {
+      "path": "shards/fi1.ff88d65a7a1c9d09.json.gz",
+      "sha256": "ff88d65a7a1c9d09975613335b9b374ea0908930625297955569b3a9ece625f5",
+      "bytes": 566410,
+      "decodedBytes": 2122213,
+      "encoding": "gzip",
+      "channels": 98,
+      "programs": 8610
+    },
+    "PT1": {
+      "path": "shards/pt1.d97d35d1129d940e.json.gz",
+      "sha256": "d97d35d1129d940ec7bb6662622d5faa88759e41cc44dcf39ad932d5504ccba2",
+      "bytes": 656800,
+      "decodedBytes": 2975125,
+      "encoding": "gzip",
+      "channels": 167,
+      "programs": 14486
+    },
+    "BE2": {
+      "path": "shards/be2.cb53604eb9c3a36f.json.gz",
+      "sha256": "cb53604eb9c3a36f41977065555a4ec84315272497b977c1dfb18569668a6023",
+      "bytes": 2018898,
+      "decodedBytes": 9208485,
+      "encoding": "gzip",
+      "channels": 482,
+      "programs": 44204
+    },
+    "MENA": {
+      "path": "shards/mena.08cd7a010c1d1b87.json.gz",
+      "sha256": "08cd7a010c1d1b87d439074f5329669c6574324114cbc016546fffc1d61eebd4",
+      "bytes": 785408,
+      "decodedBytes": 15044878,
+      "encoding": "gzip",
+      "channels": 1046,
+      "programs": 81821
+    }
+  },
+  "aliases": {
+    "ARABIC": [
+      "MENA"
+    ],
+    "SA2": [
+      "SA2"
+    ],
+    "ALJAZEERA1": [
+      "ALJAZEERA1"
+    ],
+    "AE1": [
+      "AE1"
+    ],
+    "BEIN1": [
+      "BEIN1"
+    ],
+    "UK1": [
+      "UK1"
+    ],
+    "ID1": [
+      "ID1"
+    ],
+    "IN1": [
+      "IN1"
+    ],
+    "IN2": [
+      "IN2"
+    ],
+    "BEIN": [
+      "BEIN"
+    ],
+    "TR1": [
+      "TR1"
+    ],
+    "IN4": [
+      "IN4"
+    ],
+    "TR3": [
+      "TR3"
+    ],
+    "DE1": [
+      "DE1"
+    ],
+    "US2": [
+      "US2"
+    ],
+    "FR1": [
+      "FR1"
+    ],
+    "NL1": [
+      "NL1"
+    ],
+    "ES1": [
+      "ES1"
+    ],
+    "GR1": [
+      "GR1"
+    ],
+    "IT1": [
+      "IT1"
+    ],
+    "SK1": [
+      "SK1"
+    ],
+    "PL1": [
+      "PL1"
+    ],
+    "CZ1": [
+      "CZ1"
+    ],
+    "HU1": [
+      "HU1"
+    ],
+    "HR1": [
+      "HR1"
+    ],
+    "RS1": [
+      "RS1"
+    ],
+    "BG1": [
+      "BG1"
+    ],
+    "ZA1": [
+      "ZA1"
+    ],
+    "KE1": [
+      "KE1"
+    ],
+    "NG1": [
+      "NG1"
+    ],
+    "AL1": [
+      "AL1"
+    ],
+    "BA1": [
+      "BA1"
+    ],
+    "IL1": [
+      "IL1"
+    ],
+    "CH1": [
+      "CH1"
+    ],
+    "SG1": [
+      "SG1"
+    ],
+    "MY1": [
+      "MY1"
+    ],
+    "AU1": [
+      "AU1"
+    ],
+    "CO1": [
+      "CO1"
+    ],
+    "BR2": [
+      "BR2"
+    ],
+    "IE1": [
+      "IE1"
+    ],
+    "PLEX1": [
+      "PLEX1"
+    ],
+    "NZ1": [
+      "NZ1"
+    ],
+    "AT1": [
+      "AT1"
+    ],
+    "SE1": [
+      "SE1"
+    ],
+    "RAKUTEN1": [
+      "RAKUTEN1"
+    ],
+    "CA2": [
+      "CA2"
+    ],
+    "DK1": [
+      "DK1"
+    ],
+    "NO1": [
+      "NO1"
+    ],
+    "FI1": [
+      "FI1"
+    ],
+    "PT1": [
+      "PT1"
+    ],
+    "BE2": [
+      "BE2"
+    ],
+    "MENA": [
+      "MENA"
+    ],
+    "WORLD": [
+      "UK1",
+      "ID1",
+      "IN1",
+      "IN2",
+      "IN4",
+      "TR1",
+      "TR3",
+      "US2",
+      "DE1",
+      "FR1",
+      "ES1",
+      "NL1",
+      "GR1",
+      "IT1",
+      "PL1",
+      "CZ1",
+      "SK1",
+      "HU1",
+      "RS1",
+      "HR1",
+      "BA1",
+      "BG1",
+      "ZA1",
+      "KE1",
+      "NG1",
+      "AL1",
+      "CH1",
+      "IL1",
+      "SG1",
+      "MY1",
+      "AU1",
+      "IE1",
+      "CO1",
+      "BR2",
+      "PLEX1",
+      "NZ1",
+      "AT1",
+      "RAKUTEN1",
+      "CA2",
+      "SE1",
+      "NO1",
+      "DK1",
+      "FI1",
+      "BE2",
+      "PT1"
+    ]
+  },
+  "health": {
+    "path": "health.f9190aa19cdc5836.json.gz",
+    "sha256": "f9190aa19cdc58368b2f5eb8f26b8858c19b72f988904bb02f7b0edae0f76164",
+    "bytes": 3039,
+    "decodedBytes": 18539,
+    "encoding": "gzip"
+  },
+  "logos": {
+    "path": "logos.ce47a1a98978d977.json.gz",
+    "sha256": "ce47a1a98978d977587010b8a67cf8706cd392c045da4a909602525df1872bd8",
+    "bytes": 1795704,
+    "decodedBytes": 9725209,
+    "encoding": "gzip"
+  },
+  "logoStats": {
+    "curated": 201,
+    "published": 179,
+    "assets": 35964,
+    "aliases": 69033,
+    "ccKeys": 2209,
+    "ccEntries": 5904,
+    "foldKeys": 14368,
+    "foldEntries": 15310,
+    "foldPoisoned": 431,
+    "official": 30028,
+    "guideOfficial": 4484,
+    "tvLogos": 4893,
+    "ambiguous": 17,
+    "officialUpgrades": 75,
+    "failed": 2
+  }
+}
