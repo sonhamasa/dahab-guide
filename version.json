@@ -1,19 +1,24 @@
 {
-  "publishedAt": "2026-10-02T16:36:27.708Z",
+  "publishedAt": "2026-10-02T17:45:43.835Z",
   "tv": {
-    "version": "1.3.227",
-    "versionCode": 244,
-    "url": "https://github.com/sonhamasa/dahab-guide/releases/download/v1.3.227/dahab-tv-1.3.227.apk",
-    "sha256": "b4d7eda0ed16bac9cb952fac04bd660336cc6ae80d064b9cf6c2127bc69b5101",
-    "notes": "Sports shows more live and upcoming events, with duplicate broadcasts grouped.\nCards stay steady, and video no longer covers the Sports page.\nThe purple Tubi theme and clear yellow navigation remain consistent."
+    "version": "1.3.228",
+    "versionCode": 245,
+    "url": "https://github.com/sonhamasa/dahab-guide/releases/download/v1.3.228/dahab-tv-1.3.228.apk",
+    "sha256": "81a81ef4ac6ec6d10f01cf15426c0cb12622184a3da58bfce0f5137f47b90e0b",
+    "notes": "Watch and switch sports events without leaving the Sports page.\nCards prefer match crests, then event artwork, then channel branding.\nThe approved purple and yellow theme stays locked."
   },
   "pc": {
-    "version": "1.3.227",
-    "url": "https://github.com/sonhamasa/dahab-guide/releases/download/v1.3.227/dahab-pc-setup-1.3.227.exe",
-    "sha256": "61fc626650ad597a8c9d3c1209accbe15627fa7bd2dbb482e726aff638d35711",
-    "notes": "Sports shows more live and upcoming events, with duplicate broadcasts grouped.\nCards stay steady, and video no longer covers the Sports page.\nThe purple Tubi theme and clear yellow navigation remain consistent."
+    "version": "1.3.228",
+    "url": "https://github.com/sonhamasa/dahab-guide/releases/download/v1.3.228/dahab-pc-setup-1.3.228.exe",
+    "sha256": "401d3232d02a7d10a8cec619aa66755924d84b2912a59c920745f8b025dad79a",
+    "notes": "Watch and switch sports events without leaving the Sports page.\nCards prefer match crests, then event artwork, then channel branding.\nThe approved purple and yellow theme stays locked."
   },
   "history": [
+    {
+      "version": "1.3.228",
+      "date": "2026-10-02",
+      "notes": "Watch and switch sports events without leaving the Sports page.\nCards prefer match crests, then event artwork, then channel branding.\nThe approved purple and yellow theme stays locked."
+    },
     {
       "version": "1.3.227",
       "date": "2026-10-02",
@@ -58,11 +63,6 @@
       "version": "1.3.219",
       "date": "2026-09-28",
       "notes": "Drag favorite channels into your preferred order on PC.\nOn TV, hold OK, move with arrows, then press OK to save.\nFavorite order saves per profile and syncs across devices."
-    },
-    {
-      "version": "1.3.218",
-      "date": "2026-09-27",
-      "notes": "Top 10 rows now show more available titles and stay current.\nFeatured movies fit cleanly, and blurry posters refresh to sharper artwork."
     }
   ]
 }
