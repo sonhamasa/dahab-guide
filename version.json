@@ -1,19 +1,24 @@
 {
-  "publishedAt": "2026-10-09T08:26:53.144Z",
+  "publishedAt": "2026-10-09T10:04:04.687Z",
   "tv": {
-    "version": "1.3.231",
-    "versionCode": 249,
-    "url": "https://github.com/sonhamasa/dahab-guide/releases/download/v1.3.231/dahab-tv-1.3.231.apk",
-    "sha256": "2bab03e961b4f0d59eae3cd72f4d4c57bc66213af8a027ca4d34785ee7446754",
-    "notes": "Watch Home now has personal shelves and clearer browsing.\nReorder favorite channels with your mouse or TV remote.\nBrowse movies and series by year and genre."
+    "version": "1.3.232",
+    "versionCode": 250,
+    "url": "https://github.com/sonhamasa/dahab-guide/releases/download/v1.3.232/dahab-tv-1.3.232.apk",
+    "sha256": "e51dfd033b2d0e4b76fcbd44944689d171c5806f11d6e90b035a98f189f7e827",
+    "notes": "TV navigation stays responsive while channel mappings load.\nArtwork and playlist caches load in smaller batches."
   },
   "pc": {
-    "version": "1.3.231",
-    "url": "https://github.com/sonhamasa/dahab-guide/releases/download/v1.3.231/dahab-pc-setup-1.3.231.exe",
-    "sha256": "52fe098f7c20716fb69f25cff8739e2b96c4e2e4eeed6fc3fc4939b6210b1fac",
-    "notes": "Watch Home now has personal shelves and clearer browsing.\nReorder favorite channels with your mouse or TV remote.\nBrowse movies and series by year and genre."
+    "version": "1.3.232",
+    "url": "https://github.com/sonhamasa/dahab-guide/releases/download/v1.3.232/dahab-pc-setup-1.3.232.exe",
+    "sha256": "71db00bafacf50d10c22883b2bba1439debe7004556dd04de63094b972e8eae4",
+    "notes": "TV navigation stays responsive while channel mappings load.\nArtwork and playlist caches load in smaller batches."
   },
   "history": [
+    {
+      "version": "1.3.232",
+      "date": "2026-10-09",
+      "notes": "TV navigation stays responsive while channel mappings load.\nArtwork and playlist caches load in smaller batches."
+    },
     {
       "version": "1.3.231",
       "date": "2026-10-09",
@@ -58,11 +63,6 @@
       "version": "1.3.223",
       "date": "2026-09-29",
       "notes": "Browse Live TV by Now, In 30 minutes or Tonight. Original Dahab colors stay protected."
-    },
-    {
-      "version": "1.3.222",
-      "date": "2026-09-29",
-      "notes": "Original purple colors restored. Browse cards fit the window and focus stays aligned."
     }
   ]
 }
