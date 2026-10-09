@@ -1,19 +1,24 @@
 {
-  "publishedAt": "2026-10-09T11:00:05.216Z",
+  "publishedAt": "2026-10-09T11:12:21.710Z",
   "tv": {
-    "version": "1.3.233",
-    "versionCode": 251,
-    "url": "https://github.com/sonhamasa/dahab-guide/releases/download/v1.3.233/dahab-tv-1.3.233.apk",
-    "sha256": "89ea49478bbbff2bf51778e4a765133ca2640dbc375c9d8c791eaa058ff800de",
-    "notes": "Channel sources are available during playback.\nOpen audio and subtitles directly from the TV controls.\nLogo cards are cleaner and background writes are less frequent."
+    "version": "1.3.234",
+    "versionCode": 252,
+    "url": "https://github.com/sonhamasa/dahab-guide/releases/download/v1.3.234/dahab-tv-1.3.234.apk",
+    "sha256": "25ab347ac4bfe464350a0e5d77b6460f6ed94370988d883c41d75f16489fb008",
+    "notes": "TV Sources menu is slightly smaller and positioned at the bottom-left."
   },
   "pc": {
-    "version": "1.3.233",
-    "url": "https://github.com/sonhamasa/dahab-guide/releases/download/v1.3.233/dahab-pc-setup-1.3.233.exe",
-    "sha256": "a900931912909c5ae7cb56bd085c0b28167aa43d19385c07304444a770320f11",
-    "notes": "Channel sources are available during playback.\nOpen audio and subtitles directly from the TV controls.\nLogo cards are cleaner and background writes are less frequent."
+    "version": "1.3.234",
+    "url": "https://github.com/sonhamasa/dahab-guide/releases/download/v1.3.234/dahab-pc-setup-1.3.234.exe",
+    "sha256": "7adcaa7df0eceb14f76b7a7113cc653d51191ea6174277a68323b2e2e860f6be",
+    "notes": "TV Sources menu is slightly smaller and positioned at the bottom-left."
   },
   "history": [
+    {
+      "version": "1.3.234",
+      "date": "2026-10-09",
+      "notes": "TV Sources menu is slightly smaller and positioned at the bottom-left."
+    },
     {
       "version": "1.3.233",
       "date": "2026-10-09",
@@ -58,11 +63,6 @@
       "version": "1.3.225",
       "date": "2026-09-30",
       "notes": "Find live and upcoming football, cricket and rugby fixtures across your guide."
-    },
-    {
-      "version": "1.3.224",
-      "date": "2026-09-29",
-      "notes": "Build My Evening fits a viewing lineup to your time and mood, including breaks."
     }
   ]
 }
