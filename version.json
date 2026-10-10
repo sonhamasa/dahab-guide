@@ -1,5 +1,5 @@
 {
-  "publishedAt": "2026-10-10T05:06:16.270Z",
+  "publishedAt": "2026-10-10T05:18:04.239Z",
   "tv": {
     "version": "1.3.242",
     "versionCode": 260,
@@ -10,7 +10,7 @@
   "pc": {
     "version": "1.3.242",
     "url": "https://github.com/sonhamasa/dahab-guide/releases/download/v1.3.242/dahab-pc-setup-1.3.242.exe",
-    "sha256": "3f2edecbd173bf5e30b8d070e5e4f60e1ca10a2aae2103ce60f508587305bdc3",
+    "sha256": "4074eb3082d8d9c66f1fa07e0575358b9b8e35c3734b3f40b1547160079520fb",
     "notes": "Playback and browser components are updated for PC, TV and phone.\nSpeech and caption engines are updated, with daily checks for new versions."
   },
   "history": [
