@@ -1,19 +1,18 @@
 {
-  "publishedAt": "2026-10-22T03:11:47.449Z",
+  "publishedAt": "2026-10-23T15:03:14.664Z",
   "tv": {
-    "version": "1.3.244",
-    "versionCode": 285,
-    "url": "https://github.com/sonhamasa/dahab-guide/releases/download/v1.3.244/dahab-tv-1.3.244.apk",
-    "sha256": "14f7f9fe100c52dd2f399b22abcb0c3a4ad721ac3cee230bafb3821516a57f8a",
-    "notes": "Choose seasons with the remote."
-  },
-  "pc": {
-    "version": "1.3.243",
-    "url": "https://github.com/sonhamasa/dahab-guide/releases/download/v1.3.243/dahab-pc-setup-1.3.243.exe",
-    "sha256": "4585c4993bfb63005cc005c7a9b636603bd4b65e71be0af9e77217f1051d7aad",
-    "notes": "Captions and playback use newer compatible components."
+    "version": "1.3.245",
+    "versionCode": 286,
+    "url": "https://github.com/sonhamasa/dahab-guide/releases/download/v1.3.245/dahab-tv-1.3.245.apk",
+    "sha256": "f58e61a1640f68c8bcc58a3b42b694eeddb37892cf4d7079e398bf4721251c4a",
+    "notes": "Updated Android networking, WebView and Cast support."
   },
   "history": [
+    {
+      "version": "1.3.245",
+      "date": "2026-10-23",
+      "notes": "Updated Android networking, WebView and Cast support."
+    },
     {
       "version": "1.3.244",
       "date": "2026-10-22",
@@ -58,11 +57,12 @@
       "version": "1.3.230",
       "date": "2026-10-03",
       "notes": "Sports preview is larger. Cards stay compact and the guide refreshes on entry."
-    },
-    {
-      "version": "1.3.229",
-      "date": "2026-10-03",
-      "notes": "Sports now has wider landscape cards and a compact player above the events."
     }
-  ]
+  ],
+  "pc": {
+    "version": "1.3.243",
+    "url": "https://github.com/sonhamasa/dahab-guide/releases/download/v1.3.243/dahab-pc-setup-1.3.243.exe",
+    "sha256": "4585c4993bfb63005cc005c7a9b636603bd4b65e71be0af9e77217f1051d7aad",
+    "notes": "Captions and playback use newer compatible components."
+  }
 }
