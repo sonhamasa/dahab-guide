@@ -677,17 +677,17 @@
     "encoding": "gzip"
   },
   "logos": {
-    "path": "logos.09e5d1e0b28b3aec.json.gz",
-    "sha256": "09e5d1e0b28b3aecf743178dfe2e68151587b25a8f804f3fb76c81e456fdf291",
-    "bytes": 1816394,
-    "decodedBytes": 9823813,
+    "path": "logos.23f53d00777d0d10.json.gz",
+    "sha256": "23f53d00777d0d100e8cbd7a355c2d7221965cd542f54e70fbc921c4b544f221",
+    "bytes": 1817824,
+    "decodedBytes": 9829175,
     "encoding": "gzip"
   },
   "logoStats": {
-    "curated": 201,
-    "published": 180,
-    "assets": 36282,
-    "aliases": 69717,
+    "curated": 212,
+    "published": 191,
+    "assets": 36293,
+    "aliases": 69758,
     "ccKeys": 2215,
     "ccEntries": 5938,
     "foldKeys": 14505,
@@ -698,6 +698,16 @@
     "tvLogos": 4886,
     "ambiguous": 17,
     "officialUpgrades": 93,
-    "failed": 1
+    "failed": 1,
+    "reviewedAdultRows": 31,
+    "reviewedAdultAssets": 11,
+    "reviewedAdultAliases": 48
+  },
+  "logoOverrides": {
+    "schema": 1,
+    "source": "reviewed-provider-adult-channels",
+    "rows": 31,
+    "reviewedAt": "2026-11-03T13:59:35.235Z",
+    "sourceWorkbookSha256": "4ccf7910499b5524e8f0eb12c71815dca8b511bd412a531e49d8bc78276dcc2e"
   }
 }
