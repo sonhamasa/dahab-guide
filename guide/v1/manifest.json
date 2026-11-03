@@ -677,17 +677,17 @@
     "encoding": "gzip"
   },
   "logos": {
-    "path": "logos.23f53d00777d0d10.json.gz",
-    "sha256": "23f53d00777d0d100e8cbd7a355c2d7221965cd542f54e70fbc921c4b544f221",
-    "bytes": 1817824,
-    "decodedBytes": 9829175,
+    "path": "logos.40145f086632f9cf.json.gz",
+    "sha256": "40145f086632f9cf3d4ab2e5a0044f726d935855594b3cb3216fc6b1659e13b6",
+    "bytes": 1818679,
+    "decodedBytes": 9831519,
     "encoding": "gzip"
   },
   "logoStats": {
-    "curated": 212,
-    "published": 191,
-    "assets": 36293,
-    "aliases": 69758,
+    "curated": 225,
+    "published": 204,
+    "assets": 36295,
+    "aliases": 69761,
     "ccKeys": 2215,
     "ccEntries": 5938,
     "foldKeys": 14505,
@@ -699,15 +699,15 @@
     "ambiguous": 17,
     "officialUpgrades": 93,
     "failed": 1,
-    "reviewedAdultRows": 31,
-    "reviewedAdultAssets": 11,
-    "reviewedAdultAliases": 48
+    "reviewedAdultRows": 35,
+    "reviewedAdultAssets": 13,
+    "reviewedAdultAliases": 51
   },
   "logoOverrides": {
     "schema": 1,
     "source": "reviewed-provider-adult-channels",
-    "rows": 31,
-    "reviewedAt": "2026-11-03T13:59:35.235Z",
-    "sourceWorkbookSha256": "4ccf7910499b5524e8f0eb12c71815dca8b511bd412a531e49d8bc78276dcc2e"
+    "rows": 35,
+    "reviewedAt": "2026-11-03T14:24:46.815Z",
+    "sourceWorkbookSha256": "705c1343621f743bc828a777acca2678b7055a24c5bf9beffe109a8f0d9e2e3a"
   }
 }
