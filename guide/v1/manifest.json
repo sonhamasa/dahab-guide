@@ -677,15 +677,15 @@
     "encoding": "gzip"
   },
   "logos": {
-    "path": "logos.40145f086632f9cf.json.gz",
-    "sha256": "40145f086632f9cf3d4ab2e5a0044f726d935855594b3cb3216fc6b1659e13b6",
-    "bytes": 1818679,
-    "decodedBytes": 9831519,
+    "path": "logos.205d7ce562d50c5d.json.gz",
+    "sha256": "205d7ce562d50c5dd640a99fd6c2188440de580195a429041ef251b997961122",
+    "bytes": 1819102,
+    "decodedBytes": 9832892,
     "encoding": "gzip"
   },
   "logoStats": {
-    "curated": 225,
-    "published": 204,
+    "curated": 238,
+    "published": 217,
     "assets": 36295,
     "aliases": 69761,
     "ccKeys": 2215,
@@ -707,7 +707,7 @@
     "schema": 1,
     "source": "reviewed-provider-adult-channels",
     "rows": 35,
-    "reviewedAt": "2026-11-03T14:24:46.815Z",
+    "reviewedAt": "2026-11-03T14:28:42.078Z",
     "sourceWorkbookSha256": "705c1343621f743bc828a777acca2678b7055a24c5bf9beffe109a8f0d9e2e3a"
   }
 }
