@@ -1,11 +1,11 @@
 {
-  "publishedAt": "2026-11-06T06:53:12.718Z",
+  "publishedAt": "2026-11-06T09:03:51.178Z",
   "tv": {
-    "version": "1.3.259",
-    "versionCode": 302,
-    "url": "https://github.com/sonhamasa/dahab-guide/releases/download/v1.3.259/dahab-tv-1.3.259.apk",
-    "sha256": "1ffbb2da6ca852b98b7fdcd52d24a706c46a2373588020bee5ad115149d8c007",
-    "notes": "Live channels switch once to the other format if no picture appears."
+    "version": "1.3.260",
+    "versionCode": 303,
+    "url": "https://github.com/sonhamasa/dahab-guide/releases/download/v1.3.260/dahab-tv-1.3.260.apk",
+    "sha256": "8e793c67374d17f66accd1843d7a81cc26bfaa341dc6a0cef45bdf631b709ca5",
+    "notes": "Streamer search, settings, library and D-pad navigation are easier to use."
   },
   "pc": {
     "version": "1.3.258",
@@ -14,6 +14,11 @@
     "notes": "Adult provider folders now appear in Network selection and filtering."
   },
   "history": [
+    {
+      "version": "1.3.260",
+      "date": "2026-11-06",
+      "notes": "Streamer search, settings, library and D-pad navigation are easier to use."
+    },
     {
       "version": "1.3.259",
       "date": "2026-11-06",
@@ -58,11 +63,6 @@
       "version": "1.3.251",
       "date": "2026-11-02",
       "notes": "Preserve catalogue category selections across source refreshes"
-    },
-    {
-      "version": "1.3.250",
-      "date": "2026-11-02",
-      "notes": "Improved Live TV channel matching and classification."
     }
   ]
 }
