@@ -1,68 +1,68 @@
 {
-  "publishedAt": "2026-11-02T05:54:11.144Z",
+  "publishedAt": "2026-11-06T06:53:12.718Z",
   "tv": {
-    "version": "1.3.250",
-    "versionCode": 291,
-    "url": "https://github.com/sonhamasa/dahab-guide/releases/download/v1.3.250/dahab-tv-1.3.250.apk",
-    "sha256": "d4e83f1538f2a5d3bd0919a117f7d693263b88306d5a2a994602b0538c44c26b",
-    "notes": "Improved Live TV channel matching and classification."
+    "version": "1.3.259",
+    "versionCode": 302,
+    "url": "https://github.com/sonhamasa/dahab-guide/releases/download/v1.3.259/dahab-tv-1.3.259.apk",
+    "sha256": "1ffbb2da6ca852b98b7fdcd52d24a706c46a2373588020bee5ad115149d8c007",
+    "notes": "Live channels switch once to the other format if no picture appears."
   },
   "pc": {
-    "version": "1.3.250",
-    "url": "https://github.com/sonhamasa/dahab-guide/releases/download/v1.3.250/dahab-pc-setup-1.3.250.exe",
-    "sha256": "c0517b1f03d84ee020af00728a860275584e7acd9b1f9a6a60f5528ddf3d1f6e",
-    "notes": "Improved Live TV channel matching and classification."
+    "version": "1.3.258",
+    "url": "https://github.com/sonhamasa/dahab-guide/releases/download/v1.3.258/dahab-pc-setup-1.3.258.exe",
+    "sha256": "667bf2525570a9d6c686be32f39e9647cfda6002b0e9ffa6caa90d181af6f43d",
+    "notes": "Adult provider folders now appear in Network selection and filtering."
   },
   "history": [
+    {
+      "version": "1.3.259",
+      "date": "2026-11-06",
+      "notes": "Live channels switch once to the other format if no picture appears."
+    },
+    {
+      "version": "1.3.258",
+      "date": "2026-11-04",
+      "notes": "Adult provider folders now appear in Network selection and filtering."
+    },
+    {
+      "version": "1.3.257",
+      "date": "2026-11-04",
+      "notes": "Adult provider folders can now be selected and filtered under Networks."
+    },
+    {
+      "version": "1.3.256",
+      "date": "2026-11-03",
+      "notes": "Adult Live now shows every channel in the provider Adult folders."
+    },
+    {
+      "version": "1.3.255",
+      "date": "2026-11-03",
+      "notes": "Existing Adult mappings now follow their provider folders."
+    },
+    {
+      "version": "1.3.254",
+      "date": "2026-11-03",
+      "notes": "Adult channels now follow their provider folder in Live TV."
+    },
+    {
+      "version": "1.3.253",
+      "date": "2026-11-03",
+      "notes": "Adult folders now control the category; reviewed logos were added."
+    },
+    {
+      "version": "1.3.252",
+      "date": "2026-11-02",
+      "notes": "Show safe alternate provider sources during playlist playback"
+    },
+    {
+      "version": "1.3.251",
+      "date": "2026-11-02",
+      "notes": "Preserve catalogue category selections across source refreshes"
+    },
     {
       "version": "1.3.250",
       "date": "2026-11-02",
       "notes": "Improved Live TV channel matching and classification."
-    },
-    {
-      "version": "1.3.249",
-      "date": "2026-10-31",
-      "notes": "See your provider's expiry date, status, trial, and connection count.\nSubscriptions expiring within 7 days now show a home-screen warning."
-    },
-    {
-      "version": "1.3.248",
-      "date": "2026-10-25",
-      "notes": "Episode cards show their own images again.\nSeason selection and playback controls work better on TV."
-    },
-    {
-      "version": "1.3.246",
-      "date": "2026-10-25",
-      "notes": "More reliable TV playback and captions.\nClearer app update status."
-    },
-    {
-      "version": "1.3.245",
-      "date": "2026-10-23",
-      "notes": "Updated Android networking, WebView and Cast support."
-    },
-    {
-      "version": "1.3.244",
-      "date": "2026-10-22",
-      "notes": "Choose seasons with the remote."
-    },
-    {
-      "version": "1.3.243",
-      "date": "2026-10-10",
-      "notes": "Playback components updated on PC.\nAutomatic maintenance now checks compatibility before activation."
-    },
-    {
-      "version": "1.3.242",
-      "date": "2026-10-10",
-      "notes": "Playback and browser components are updated for PC, TV and phone.\nSpeech and caption engines are updated, with daily checks for new versions."
-    },
-    {
-      "version": "1.3.235",
-      "date": "2026-10-09",
-      "notes": "TV channel changes avoid unnecessary picture and audio restarts."
-    },
-    {
-      "version": "1.3.234",
-      "date": "2026-10-09",
-      "notes": "TV Sources menu is slightly smaller and positioned at the bottom-left."
     }
   ]
 }
