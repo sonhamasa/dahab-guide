@@ -1,19 +1,24 @@
 {
-  "publishedAt": "2026-11-07T19:43:28.084Z",
+  "publishedAt": "2026-11-07T23:52:16.541Z",
   "tv": {
-    "version": "1.3.271",
-    "versionCode": 315,
-    "url": "https://github.com/sonhamasa/dahab-guide/releases/download/v1.3.271/dahab-tv-1.3.271.apk",
-    "sha256": "5938736d29adf32d790eebaaac164f61d326f197bcd3b73bf3cb10d811094422",
-    "notes": "VLC now supports audio tracks and picture controls.\nLive TS and HLS were checked on PC and TV."
+    "version": "1.3.272",
+    "versionCode": 316,
+    "url": "https://github.com/sonhamasa/dahab-guide/releases/download/v1.3.272/dahab-tv-1.3.272.apk",
+    "sha256": "c96208a1b71f8cc93985e070d21dd6a6d1ee6e84fca983b30c39ee5f8eb3f1e3",
+    "notes": "VLC now connects captions, dubbing and saved sound controls on Android TV."
   },
   "pc": {
-    "version": "1.3.271",
-    "url": "https://github.com/sonhamasa/dahab-guide/releases/download/v1.3.271/dahab-pc-setup-1.3.271.exe",
-    "sha256": "30fab3c609a689330089f1f3b1564d6159cf7a858706a83b0d7fc78acd1ef453",
-    "notes": "VLC now supports audio tracks and picture controls.\nLive TS and HLS were checked on PC and TV."
+    "version": "1.3.272",
+    "url": "https://github.com/sonhamasa/dahab-guide/releases/download/v1.3.272/dahab-pc-setup-1.3.272.exe",
+    "sha256": "1b53519043a341f8dbc1969bd23de768e04234a8c71349fb263e6d5d52a12869",
+    "notes": "VLC now connects captions, dubbing and saved sound controls on Android TV."
   },
   "history": [
+    {
+      "version": "1.3.272",
+      "date": "2026-11-07",
+      "notes": "VLC now connects captions, dubbing and saved sound controls on Android TV."
+    },
     {
       "version": "1.3.271",
       "date": "2026-11-07",
@@ -58,11 +63,6 @@
       "version": "1.3.262",
       "date": "2026-11-06",
       "notes": "Live guide availability is restored. TV guide loading is more reliable."
-    },
-    {
-      "version": "1.3.260",
-      "date": "2026-11-06",
-      "notes": "Adult provider folders now appear in Network selection and filtering."
     }
   ]
 }
