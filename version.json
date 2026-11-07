@@ -1,19 +1,29 @@
 {
-  "publishedAt": "2026-11-07T06:08:28.930Z",
+  "publishedAt": "2026-11-07T14:29:06.571Z",
   "tv": {
-    "version": "1.3.266",
-    "versionCode": 309,
-    "url": "https://github.com/sonhamasa/dahab-guide/releases/download/v1.3.266/dahab-tv-1.3.266.apk",
-    "sha256": "93b55720ff4b4aa1b15d668a7a31d2cd90f32feaf11ade5dbd7394c3f41fcd33",
-    "notes": "Updated web playback and refreshed the PC and TV runtime dependencies."
+    "version": "1.3.269",
+    "versionCode": 313,
+    "url": "https://github.com/sonhamasa/dahab-guide/releases/download/v1.3.269/dahab-tv-1.3.269.apk",
+    "sha256": "4dfb606fdb94d4f6c27c31e333a023fff5c966ec4a0bf230e600db5869711fa5",
+    "notes": "Windows offers mpv and installed VLC; Android offers Media3 and VLC.\nYour current player stays selected unless you change it."
   },
   "pc": {
-    "version": "1.3.266",
-    "url": "https://github.com/sonhamasa/dahab-guide/releases/download/v1.3.266/dahab-pc-setup-1.3.266.exe",
-    "sha256": "a5d9530150157510be0444983611913d184366182511705054738a2042367971",
-    "notes": "Updated web playback and refreshed the PC and TV runtime dependencies."
+    "version": "1.3.269",
+    "url": "https://github.com/sonhamasa/dahab-guide/releases/download/v1.3.269/dahab-pc-setup-1.3.269.exe",
+    "sha256": "5dad2fce805c3f28340b06b70a548af8b03b6a3936e82fb0347de78f61eb43f4",
+    "notes": "Windows offers mpv and installed VLC; Android offers Media3 and VLC.\nYour current player stays selected unless you change it."
   },
   "history": [
+    {
+      "version": "1.3.269",
+      "date": "2026-11-07",
+      "notes": "Windows offers mpv and installed VLC; Android offers Media3 and VLC.\nYour current player stays selected unless you change it."
+    },
+    {
+      "version": "1.3.268",
+      "date": "2026-11-07",
+      "notes": "Fixed TV remote focus after leaving Settings."
+    },
     {
       "version": "1.3.266",
       "date": "2026-11-07",
@@ -53,16 +63,6 @@
       "version": "1.3.258",
       "date": "2026-11-04",
       "notes": "Adult provider folders now appear in Network selection and filtering."
-    },
-    {
-      "version": "1.3.257",
-      "date": "2026-11-04",
-      "notes": "Adult provider folders can now be selected and filtered under Networks."
-    },
-    {
-      "version": "1.3.256",
-      "date": "2026-11-03",
-      "notes": "Adult Live now shows every channel in the provider Adult folders."
     }
   ]
 }
