@@ -1,19 +1,24 @@
 {
-  "publishedAt": "2026-11-08T07:57:22.743Z",
+  "publishedAt": "2026-11-08T12:44:01.650Z",
   "tv": {
-    "version": "1.3.274",
-    "versionCode": 318,
-    "url": "https://github.com/sonhamasa/dahab-guide/releases/download/v1.3.274/dahab-tv-1.3.274.apk",
-    "sha256": "786cd9a2833f484ee3c0dc2a162e1bd681176b6ca77939a8dd0fc2bb6d9349e7",
-    "notes": "VLC subtitle styling works, and Groq retries after key replacement."
+    "version": "1.3.275",
+    "versionCode": 319,
+    "url": "https://github.com/sonhamasa/dahab-guide/releases/download/v1.3.275/dahab-tv-1.3.275.apk",
+    "sha256": "3526a69fd1f274c8034416a96f1241650faec3f975e1b1d7ce9afc7812661d15",
+    "notes": "Remembers update dismissals and prevents repeated installer prompts."
   },
   "pc": {
-    "version": "1.3.274",
-    "url": "https://github.com/sonhamasa/dahab-guide/releases/download/v1.3.274/dahab-pc-setup-1.3.274.exe",
-    "sha256": "912d03f9923ae45df2cbb09f1eb4313dce40b18cda3e9d943a45cf82dadae544",
-    "notes": "VLC subtitle styling works, and Groq retries after key replacement."
+    "version": "1.3.275",
+    "url": "https://github.com/sonhamasa/dahab-guide/releases/download/v1.3.275/dahab-pc-setup-1.3.275.exe",
+    "sha256": "2a873d29acb8e3913ffe31a1be9aea9e0456138a865b9c6f1b81f9c70d8dc0b5",
+    "notes": "Remembers update dismissals and prevents repeated installer prompts."
   },
   "history": [
+    {
+      "version": "1.3.275",
+      "date": "2026-11-08",
+      "notes": "Remembers update dismissals and prevents repeated installer prompts."
+    },
     {
       "version": "1.3.274",
       "date": "2026-11-08",
@@ -58,11 +63,6 @@
       "version": "1.3.265",
       "date": "2026-11-06",
       "notes": "Use tile-sized portrait art in the TV hero to reduce oversized image decoding."
-    },
-    {
-      "version": "1.3.264",
-      "date": "2026-11-06",
-      "notes": "Refine Streamer shelf typography and restore the richer TV browse canvas."
     }
   ]
 }
