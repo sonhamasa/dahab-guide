@@ -1,11 +1,11 @@
 {
-  "publishedAt": "2026-11-10T17:56:25.570Z",
+  "publishedAt": "2026-11-10T18:13:18.639Z",
   "tv": {
-    "version": "1.3.285",
-    "versionCode": 329,
-    "url": "https://github.com/sonhamasa/dahab-guide/releases/download/v1.3.285/dahab-tv-1.3.285.apk",
-    "sha256": "92ec0ad94d8b365c8e4018c25beae17e584653274a56c2efe04832bf7370fad7",
-    "notes": "Tubi settings are easier to read and control with the remote.\nCatalogue filters respond more smoothly when switching."
+    "version": "1.3.286",
+    "versionCode": 330,
+    "url": "https://github.com/sonhamasa/dahab-guide/releases/download/v1.3.286/dahab-tv-1.3.286.apk",
+    "sha256": "b5a64f0a084fb5f3e042d11847b23da6479ffa5e780f62233211ed7d4f542d36",
+    "notes": "Tubi Catalogue settings are easier to navigate and read with the remote."
   },
   "pc": {
     "version": "1.3.284",
@@ -14,6 +14,11 @@
     "notes": "Tubi Settings Catalogue controls now open and work with the remote.\nCatalogue groups load from Settings, and D-pad movement follows the visible controls."
   },
   "history": [
+    {
+      "version": "1.3.286",
+      "date": "2026-11-10",
+      "notes": "Tubi Catalogue settings are easier to navigate and read with the remote."
+    },
     {
       "version": "1.3.285",
       "date": "2026-11-10",
@@ -58,11 +63,6 @@
       "version": "1.3.276",
       "date": "2026-11-08",
       "notes": "Sports opens fullscreen. Settings tabs stay visible."
-    },
-    {
-      "version": "1.3.275",
-      "date": "2026-11-08",
-      "notes": "Remembers update dismissals and prevents repeated installer prompts."
     }
   ]
 }
