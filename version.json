@@ -1,19 +1,24 @@
 {
-  "publishedAt": "2026-11-11T11:05:47.763Z",
+  "publishedAt": "2026-11-12T17:51:25.029Z",
   "tv": {
-    "version": "1.3.287",
-    "versionCode": 331,
-    "url": "https://github.com/sonhamasa/dahab-guide/releases/download/v1.3.287/dahab-tv-1.3.287.apk",
-    "sha256": "298f1b11b090b6bbe21881ce4539fccbfb2f9b974279aeaf4a632404559e1d5c",
-    "notes": "Updated optional Android VLC playback support.\nUpdated the Windows app runtime."
+    "version": "1.3.288",
+    "versionCode": 332,
+    "url": "https://github.com/sonhamasa/dahab-guide/releases/download/v1.3.288/dahab-tv-1.3.288.apk",
+    "sha256": "c6da02312e301e253c0b12249e9a7c4cb0001604cf0a1efe3144b1b2535d89de",
+    "notes": "Live channel previews recover more reliably after a connection error."
   },
   "pc": {
-    "version": "1.3.287",
-    "url": "https://github.com/sonhamasa/dahab-guide/releases/download/v1.3.287/dahab-pc-setup-1.3.287.exe",
-    "sha256": "ffb430a777d742421442eed0c2fa6523f964f4a66fa19438b6103a0a9ba7123e",
-    "notes": "Updated optional Android VLC playback support.\nUpdated the Windows app runtime."
+    "version": "1.3.288",
+    "url": "https://github.com/sonhamasa/dahab-guide/releases/download/v1.3.288/dahab-pc-setup-1.3.288.exe",
+    "sha256": "9d770838c0e9bae80727db2cbdc680b652094ab928eb2f56d675c8ee3f70861a",
+    "notes": "Live channel previews recover more reliably after a connection error."
   },
   "history": [
+    {
+      "version": "1.3.288",
+      "date": "2026-11-12",
+      "notes": "Live channel previews recover more reliably after a connection error."
+    },
     {
       "version": "1.3.287",
       "date": "2026-11-11",
@@ -58,11 +63,6 @@
       "version": "1.3.278",
       "date": "2026-11-09",
       "notes": "Streamer Home colors now match PC."
-    },
-    {
-      "version": "1.3.277",
-      "date": "2026-11-09",
-      "notes": "Streamer Home colors match the PC theme."
     }
   ]
 }
