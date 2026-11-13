@@ -1,19 +1,24 @@
 {
-  "publishedAt": "2026-11-12T17:51:25.029Z",
+  "publishedAt": "2026-11-13T02:53:20.736Z",
   "tv": {
-    "version": "1.3.288",
-    "versionCode": 332,
-    "url": "https://github.com/sonhamasa/dahab-guide/releases/download/v1.3.288/dahab-tv-1.3.288.apk",
-    "sha256": "c6da02312e301e253c0b12249e9a7c4cb0001604cf0a1efe3144b1b2535d89de",
-    "notes": "Live channel previews recover more reliably after a connection error."
+    "version": "1.3.289",
+    "versionCode": 333,
+    "url": "https://github.com/sonhamasa/dahab-guide/releases/download/v1.3.289/dahab-tv-1.3.289.apk",
+    "sha256": "a468615671ba2ed9af12bd9a6a7987c76b6d4f83e8746dcfd8fd0f5bf8593537",
+    "notes": "Live TV fullscreen now clears the guide background and category filters."
   },
   "pc": {
-    "version": "1.3.288",
-    "url": "https://github.com/sonhamasa/dahab-guide/releases/download/v1.3.288/dahab-pc-setup-1.3.288.exe",
-    "sha256": "9d770838c0e9bae80727db2cbdc680b652094ab928eb2f56d675c8ee3f70861a",
-    "notes": "Live channel previews recover more reliably after a connection error."
+    "version": "1.3.289",
+    "url": "https://github.com/sonhamasa/dahab-guide/releases/download/v1.3.289/dahab-pc-setup-1.3.289.exe",
+    "sha256": "4b327443c45e20a7f631c4566f718bf9e7226996080fe3b9810589109cb4bc27",
+    "notes": "Live TV fullscreen now clears the guide background and category filters."
   },
   "history": [
+    {
+      "version": "1.3.289",
+      "date": "2026-11-13",
+      "notes": "Live TV fullscreen now clears the guide background and category filters."
+    },
     {
       "version": "1.3.288",
       "date": "2026-11-12",
@@ -58,11 +63,6 @@
       "version": "1.3.279",
       "date": "2026-11-09",
       "notes": "Streamer pages now match PC colors and display font."
-    },
-    {
-      "version": "1.3.278",
-      "date": "2026-11-09",
-      "notes": "Streamer Home colors now match PC."
     }
   ]
 }
