@@ -651,10 +651,10 @@
     "encoding": "gzip"
   },
   "logos": {
-    "path": "logos.20c91a5d1da1d9b2.json.gz",
-    "sha256": "20c91a5d1da1d9b2d0d2d9aca3022227eaf430a73f546f57c6e863cb4373b0ea",
-    "bytes": 1825841,
-    "decodedBytes": 9863112,
+    "path": "logos.62d49abc055cc6a8.json.gz",
+    "sha256": "62d49abc055cc6a8369defb0693a5b54acca553126218ef20a49aa586db8a506",
+    "bytes": 2749864,
+    "decodedBytes": 14228249,
     "encoding": "gzip"
   },
   "logoStats": {
