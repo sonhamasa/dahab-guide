@@ -1,19 +1,24 @@
 {
-  "publishedAt": "2026-11-15T13:16:31.377Z",
+  "publishedAt": "2026-11-15T14:23:48.086Z",
   "tv": {
-    "version": "1.3.292",
-    "versionCode": 336,
-    "url": "https://github.com/sonhamasa/dahab-guide/releases/download/v1.3.292/dahab-tv-1.3.292.apk",
-    "sha256": "6e56639f9d370e86631eda2bd047bb8520eb1a2b071b16c431bd2a56188f6ed1",
-    "notes": "Duplicate channel names now share one correctly matched guide entry."
+    "version": "1.3.293",
+    "versionCode": 337,
+    "url": "https://github.com/sonhamasa/dahab-guide/releases/download/v1.3.293/dahab-tv-1.3.293.apk",
+    "sha256": "4aecc1934ad8e48d452a006cc40b18938f7b6b74203cd1e4841a31fb1d559e53",
+    "notes": "More live channels now have EPG data.\nBEIN guide and fallback are more reliable."
   },
   "pc": {
-    "version": "1.3.292",
-    "url": "https://github.com/sonhamasa/dahab-guide/releases/download/v1.3.292/dahab-pc-setup-1.3.292.exe",
-    "sha256": "d1f9180a526caa7c7333d103bb41dbaa3adaec116c635737eab521160c688460",
-    "notes": "Duplicate channel names now share one correctly matched guide entry."
+    "version": "1.3.293",
+    "url": "https://github.com/sonhamasa/dahab-guide/releases/download/v1.3.293/dahab-pc-setup-1.3.293.exe",
+    "sha256": "dabd40fc49b75bc5f0b3ab5f0b4edb17bdf2a5c79cf8bbfbf2fd6802a262c423",
+    "notes": "More live channels now have EPG data.\nBEIN guide and fallback are more reliable."
   },
   "history": [
+    {
+      "version": "1.3.293",
+      "date": "2026-11-15",
+      "notes": "More live channels now have EPG data.\nBEIN guide and fallback are more reliable."
+    },
     {
       "version": "1.3.292",
       "date": "2026-11-15",
@@ -58,11 +63,6 @@
       "version": "1.3.284",
       "date": "2026-11-10",
       "notes": "Tubi Settings Catalogue controls now open and work with the remote.\nCatalogue groups load from Settings, and D-pad movement follows the visible controls."
-    },
-    {
-      "version": "1.3.282",
-      "date": "2026-11-10",
-      "notes": "Tubi Settings fit the screen and work with the remote.\nCatalogue controls are easier to reach."
     }
   ]
 }
