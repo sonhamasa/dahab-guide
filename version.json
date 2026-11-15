@@ -1,19 +1,24 @@
 {
-  "publishedAt": "2026-11-13T10:54:15.279Z",
+  "publishedAt": "2026-11-15T13:16:31.377Z",
   "tv": {
-    "version": "1.3.291",
-    "versionCode": 335,
-    "url": "https://github.com/sonhamasa/dahab-guide/releases/download/v1.3.291/dahab-tv-1.3.291.apk",
-    "sha256": "b05ae223d33a2e0e519e9563cfad21d8055f215f272d5ed1a2d82995ea700670",
-    "notes": "Catalogue matching now uses provider names and source details more reliably."
+    "version": "1.3.292",
+    "versionCode": 336,
+    "url": "https://github.com/sonhamasa/dahab-guide/releases/download/v1.3.292/dahab-tv-1.3.292.apk",
+    "sha256": "6e56639f9d370e86631eda2bd047bb8520eb1a2b071b16c431bd2a56188f6ed1",
+    "notes": "Duplicate channel names now share one correctly matched guide entry."
   },
   "pc": {
-    "version": "1.3.291",
-    "url": "https://github.com/sonhamasa/dahab-guide/releases/download/v1.3.291/dahab-pc-setup-1.3.291.exe",
-    "sha256": "1c4839179c2b4364be3bdc496e94c7a2719ef01e3691b72a674fd30681700750",
-    "notes": "Catalogue matching now uses provider names and source details more reliably."
+    "version": "1.3.292",
+    "url": "https://github.com/sonhamasa/dahab-guide/releases/download/v1.3.292/dahab-pc-setup-1.3.292.exe",
+    "sha256": "d1f9180a526caa7c7333d103bb41dbaa3adaec116c635737eab521160c688460",
+    "notes": "Duplicate channel names now share one correctly matched guide entry."
   },
   "history": [
+    {
+      "version": "1.3.292",
+      "date": "2026-11-15",
+      "notes": "Duplicate channel names now share one correctly matched guide entry."
+    },
     {
       "version": "1.3.291",
       "date": "2026-11-13",
@@ -58,11 +63,6 @@
       "version": "1.3.282",
       "date": "2026-11-10",
       "notes": "Tubi Settings fit the screen and work with the remote.\nCatalogue controls are easier to reach."
-    },
-    {
-      "version": "1.3.281",
-      "date": "2026-11-09",
-      "notes": "PC and Streamer Tubi accents now use the sampled logo yellow (#FFFF13)."
     }
   ]
 }
