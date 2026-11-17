@@ -1,19 +1,24 @@
 {
-  "publishedAt": "2026-11-15T14:23:48.086Z",
+  "publishedAt": "2026-11-17T16:27:13.121Z",
   "tv": {
-    "version": "1.3.293",
-    "versionCode": 337,
-    "url": "https://github.com/sonhamasa/dahab-guide/releases/download/v1.3.293/dahab-tv-1.3.293.apk",
-    "sha256": "4aecc1934ad8e48d452a006cc40b18938f7b6b74203cd1e4841a31fb1d559e53",
-    "notes": "More live channels now have EPG data.\nBEIN guide and fallback are more reliable."
+    "version": "1.3.294",
+    "versionCode": 338,
+    "url": "https://github.com/sonhamasa/dahab-guide/releases/download/v1.3.294/dahab-tv-1.3.294.apk",
+    "sha256": "e2b7b44a2a5734b54808bcfebea9ab872a31f8cdf99c4de09c212d2a50464219",
+    "notes": "VLC now selects better HLS/DASH quality automatically.\nVLC Auto keeps original audio; sound processing remains optional.\nStreamer playback respects the 1080p display."
   },
   "pc": {
-    "version": "1.3.293",
-    "url": "https://github.com/sonhamasa/dahab-guide/releases/download/v1.3.293/dahab-pc-setup-1.3.293.exe",
-    "sha256": "dabd40fc49b75bc5f0b3ab5f0b4edb17bdf2a5c79cf8bbfbf2fd6802a262c423",
-    "notes": "More live channels now have EPG data.\nBEIN guide and fallback are more reliable."
+    "version": "1.3.294",
+    "url": "https://github.com/sonhamasa/dahab-guide/releases/download/v1.3.294/dahab-pc-setup-1.3.294.exe",
+    "sha256": "bff39e39213c123094d19ce6de99fe2a8b38ae9849fe343d99031425e49ea6ac",
+    "notes": "VLC now selects better HLS/DASH quality automatically.\nVLC Auto keeps original audio; sound processing remains optional.\nStreamer playback respects the 1080p display."
   },
   "history": [
+    {
+      "version": "1.3.294",
+      "date": "2026-11-17",
+      "notes": "VLC now selects better HLS/DASH quality automatically.\nVLC Auto keeps original audio; sound processing remains optional.\nStreamer playback respects the 1080p display."
+    },
     {
       "version": "1.3.293",
       "date": "2026-11-15",
@@ -58,11 +63,6 @@
       "version": "1.3.285",
       "date": "2026-11-10",
       "notes": "Tubi settings are easier to read and control with the remote.\nCatalogue filters respond more smoothly when switching."
-    },
-    {
-      "version": "1.3.284",
-      "date": "2026-11-10",
-      "notes": "Tubi Settings Catalogue controls now open and work with the remote.\nCatalogue groups load from Settings, and D-pad movement follows the visible controls."
     }
   ]
 }
