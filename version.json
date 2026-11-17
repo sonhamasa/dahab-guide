@@ -1,19 +1,24 @@
 {
-  "publishedAt": "2026-11-17T16:27:13.121Z",
+  "publishedAt": "2026-11-17T18:37:05.857Z",
   "tv": {
-    "version": "1.3.294",
-    "versionCode": 338,
-    "url": "https://github.com/sonhamasa/dahab-guide/releases/download/v1.3.294/dahab-tv-1.3.294.apk",
-    "sha256": "e2b7b44a2a5734b54808bcfebea9ab872a31f8cdf99c4de09c212d2a50464219",
-    "notes": "VLC now selects better HLS/DASH quality automatically.\nVLC Auto keeps original audio; sound processing remains optional.\nStreamer playback respects the 1080p display."
+    "version": "1.3.295",
+    "versionCode": 339,
+    "url": "https://github.com/sonhamasa/dahab-guide/releases/download/v1.3.295/dahab-tv-1.3.295.apk",
+    "sha256": "93a9eb090b93037c700eb513b06ddd238eef6f4387b575cc4493030210663349",
+    "notes": "VLC can use Windows Super Resolution when supported.\nTV enhancement controls now match each player's actual picture processing.\nPlayback prepares the selected enhancement level before the stream opens."
   },
   "pc": {
-    "version": "1.3.294",
-    "url": "https://github.com/sonhamasa/dahab-guide/releases/download/v1.3.294/dahab-pc-setup-1.3.294.exe",
-    "sha256": "bff39e39213c123094d19ce6de99fe2a8b38ae9849fe343d99031425e49ea6ac",
-    "notes": "VLC now selects better HLS/DASH quality automatically.\nVLC Auto keeps original audio; sound processing remains optional.\nStreamer playback respects the 1080p display."
+    "version": "1.3.295",
+    "url": "https://github.com/sonhamasa/dahab-guide/releases/download/v1.3.295/dahab-pc-setup-1.3.295.exe",
+    "sha256": "a0eb8538f9a1e34bba6741458617eedb3ae2cbefbe9473507a402da523d85345",
+    "notes": "VLC can use Windows Super Resolution when supported.\nTV enhancement controls now match each player's actual picture processing.\nPlayback prepares the selected enhancement level before the stream opens."
   },
   "history": [
+    {
+      "version": "1.3.295",
+      "date": "2026-11-17",
+      "notes": "VLC can use Windows Super Resolution when supported.\nTV enhancement controls now match each player's actual picture processing.\nPlayback prepares the selected enhancement level before the stream opens."
+    },
     {
       "version": "1.3.294",
       "date": "2026-11-17",
@@ -58,11 +63,6 @@
       "version": "1.3.286",
       "date": "2026-11-10",
       "notes": "Tubi Catalogue settings are easier to navigate and read with the remote."
-    },
-    {
-      "version": "1.3.285",
-      "date": "2026-11-10",
-      "notes": "Tubi settings are easier to read and control with the remote.\nCatalogue filters respond more smoothly when switching."
     }
   ]
 }
