@@ -1,19 +1,24 @@
 {
-  "publishedAt": "2026-11-18T11:52:00.406Z",
+  "publishedAt": "2026-11-18T14:27:41.327Z",
   "tv": {
-    "version": "1.3.296",
-    "versionCode": 340,
-    "url": "https://github.com/sonhamasa/dahab-guide/releases/download/v1.3.296/dahab-tv-1.3.296.apk",
-    "sha256": "d7b1f4126922b50b06b6af2d2458976e7454082b2896db9c0bf89742610d61e7",
-    "notes": "Live channels now prefer a same-language surround audio track when available."
+    "version": "1.3.297",
+    "versionCode": 341,
+    "url": "https://github.com/sonhamasa/dahab-guide/releases/download/v1.3.297/dahab-tv-1.3.297.apk",
+    "sha256": "88e331f9562f285590f711dc49bccaae7a7f97fcf114de6714acbcf9220440dd",
+    "notes": "Android sharpening levels now have distinct strengths."
   },
   "pc": {
-    "version": "1.3.296",
-    "url": "https://github.com/sonhamasa/dahab-guide/releases/download/v1.3.296/dahab-pc-setup-1.3.296.exe",
-    "sha256": "4d5f237e2c0a89214e98b69f2a2bf2dfb738031d110e9aac38141bac4d8022b7",
-    "notes": "Live channels now prefer a same-language surround audio track when available."
+    "version": "1.3.297",
+    "url": "https://github.com/sonhamasa/dahab-guide/releases/download/v1.3.297/dahab-pc-setup-1.3.297.exe",
+    "sha256": "738102771fb42e1bef8373b33fe562371c5eb5134af5d554c41c6ca603106fb2",
+    "notes": "Android sharpening levels now have distinct strengths."
   },
   "history": [
+    {
+      "version": "1.3.297",
+      "date": "2026-11-18",
+      "notes": "Android sharpening levels now have distinct strengths."
+    },
     {
       "version": "1.3.296",
       "date": "2026-11-18",
@@ -58,11 +63,6 @@
       "version": "1.3.288",
       "date": "2026-11-12",
       "notes": "Live channel previews recover more reliably after a connection error."
-    },
-    {
-      "version": "1.3.287",
-      "date": "2026-11-11",
-      "notes": "Updated optional Android VLC playback support.\nUpdated the Windows app runtime."
     }
   ]
 }
