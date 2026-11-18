@@ -1,19 +1,24 @@
 {
-  "publishedAt": "2026-11-17T18:37:05.857Z",
+  "publishedAt": "2026-11-18T11:52:00.406Z",
   "tv": {
-    "version": "1.3.295",
-    "versionCode": 339,
-    "url": "https://github.com/sonhamasa/dahab-guide/releases/download/v1.3.295/dahab-tv-1.3.295.apk",
-    "sha256": "93a9eb090b93037c700eb513b06ddd238eef6f4387b575cc4493030210663349",
-    "notes": "VLC can use Windows Super Resolution when supported.\nTV enhancement controls now match each player's actual picture processing.\nPlayback prepares the selected enhancement level before the stream opens."
+    "version": "1.3.296",
+    "versionCode": 340,
+    "url": "https://github.com/sonhamasa/dahab-guide/releases/download/v1.3.296/dahab-tv-1.3.296.apk",
+    "sha256": "d7b1f4126922b50b06b6af2d2458976e7454082b2896db9c0bf89742610d61e7",
+    "notes": "Live channels now prefer a same-language surround audio track when available."
   },
   "pc": {
-    "version": "1.3.295",
-    "url": "https://github.com/sonhamasa/dahab-guide/releases/download/v1.3.295/dahab-pc-setup-1.3.295.exe",
-    "sha256": "a0eb8538f9a1e34bba6741458617eedb3ae2cbefbe9473507a402da523d85345",
-    "notes": "VLC can use Windows Super Resolution when supported.\nTV enhancement controls now match each player's actual picture processing.\nPlayback prepares the selected enhancement level before the stream opens."
+    "version": "1.3.296",
+    "url": "https://github.com/sonhamasa/dahab-guide/releases/download/v1.3.296/dahab-pc-setup-1.3.296.exe",
+    "sha256": "4d5f237e2c0a89214e98b69f2a2bf2dfb738031d110e9aac38141bac4d8022b7",
+    "notes": "Live channels now prefer a same-language surround audio track when available."
   },
   "history": [
+    {
+      "version": "1.3.296",
+      "date": "2026-11-18",
+      "notes": "Live channels now prefer a same-language surround audio track when available."
+    },
     {
       "version": "1.3.295",
       "date": "2026-11-17",
@@ -58,11 +63,6 @@
       "version": "1.3.287",
       "date": "2026-11-11",
       "notes": "Updated optional Android VLC playback support.\nUpdated the Windows app runtime."
-    },
-    {
-      "version": "1.3.286",
-      "date": "2026-11-10",
-      "notes": "Tubi Catalogue settings are easier to navigate and read with the remote."
     }
   ]
 }
