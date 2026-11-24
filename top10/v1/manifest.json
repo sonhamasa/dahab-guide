@@ -1,1130 +1,1207 @@
 {
   "schema": 1,
-  "generatedAt": "2026-11-16T13:46:19.776Z",
-  "weekLabel": "week of Nov 16",
+  "generatedAt": "2026-11-24T00:59:13.724Z",
+  "weekLabel": "week of Nov 24",
   "source": "tmdb trending (api.themoviedb.org), weekly chart",
   "movies": [
     {
-      "title": "The Odyssey",
+      "title": "The Hunger Games: Sunrise on the Reaping",
       "year": 2026,
-      "rating": 8,
-      "votes": 4942,
+      "rating": 7.8,
+      "votes": 279,
       "rank": 0
-    },
-    {
-      "title": "Other Mommy",
-      "year": 2026,
-      "rating": 6.3,
-      "votes": 439,
-      "rank": 1
     },
     {
       "title": "Avengers: Doomsday",
       "year": 2026,
       "rating": 0,
       "votes": 0,
+      "rank": 1
+    },
+    {
+      "title": "The Odyssey",
+      "year": 2026,
+      "rating": 8,
+      "votes": 5417,
       "rank": 2
     },
     {
-      "title": "Resident Evil",
+      "title": "The Social Reckoning",
       "year": 2026,
-      "rating": 7.5,
-      "votes": 2257,
+      "rating": 7,
+      "votes": 150,
       "rank": 3
     },
     {
-      "title": "Ebenezer",
+      "title": "Steps",
       "year": 2026,
-      "rating": 7.7,
-      "votes": 76,
+      "rating": 6.8,
+      "votes": 70,
       "rank": 4
     },
     {
-      "title": "The Hunger Games: Sunrise on the Reaping",
+      "title": "Clashing Through the Snow",
       "year": 2026,
-      "rating": 9.4,
-      "votes": 8,
+      "rating": 7.1,
+      "votes": 10,
       "rank": 5
-    },
-    {
-      "title": "Heart of the Beast",
-      "year": 2026,
-      "rating": 7.6,
-      "votes": 893,
-      "rank": 6
-    },
-    {
-      "title": "Godzilla Minus Zero",
-      "year": 2026,
-      "rating": 7.7,
-      "votes": 225,
-      "rank": 7
-    },
-    {
-      "title": "Model Citizen",
-      "year": 2026,
-      "rating": 6.1,
-      "votes": 32,
-      "rank": 8
-    },
-    {
-      "title": "The Beast",
-      "year": 2026,
-      "rating": 5.4,
-      "votes": 30,
-      "rank": 9
     },
     {
       "title": "Spider-Man: Brand New Day",
       "year": 2026,
       "rating": 8.5,
-      "votes": 6898,
+      "votes": 7081,
+      "rank": 6
+    },
+    {
+      "title": "Guarding Stars",
+      "year": 2026,
+      "rating": 6.9,
+      "votes": 111,
+      "rank": 7
+    },
+    {
+      "title": "Hexed",
+      "year": 2026,
+      "rating": 8.3,
+      "votes": 4,
+      "rank": 8
+    },
+    {
+      "title": "Madden",
+      "year": 2026,
+      "rating": 6.6,
+      "votes": 57,
+      "rank": 9
+    },
+    {
+      "title": "Focker In-Law",
+      "year": 2026,
+      "rating": 8,
+      "votes": 4,
       "rank": 10
     },
     {
-      "title": "Never Surrender",
+      "title": "The Beast",
       "year": 2026,
-      "rating": 7,
-      "votes": 35,
+      "rating": 4.9,
+      "votes": 59,
       "rank": 11
-    },
-    {
-      "title": "Primetime",
-      "year": 2026,
-      "rating": 6.8,
-      "votes": 436,
-      "rank": 12
-    },
-    {
-      "title": "Ramayana: Rise of a Legend",
-      "year": 2026,
-      "rating": 7.5,
-      "votes": 53,
-      "rank": 13
-    },
-    {
-      "title": "Possible Love",
-      "year": 2026,
-      "rating": 7.3,
-      "votes": 84,
-      "rank": 14
-    },
-    {
-      "title": "Being Heumann",
-      "year": 2026,
-      "rating": 6.8,
-      "votes": 18,
-      "rank": 15
-    },
-    {
-      "title": "How to Rob a Bank",
-      "year": 2026,
-      "rating": 6.3,
-      "votes": 30,
-      "rank": 16
-    },
-    {
-      "title": "Wildwood",
-      "year": 2026,
-      "rating": 8.5,
-      "votes": 285,
-      "rank": 17
-    },
-    {
-      "title": "Wild Horse Nine",
-      "year": 2026,
-      "rating": 8,
-      "votes": 219,
-      "rank": 18
-    },
-    {
-      "title": "Clayface",
-      "year": 2026,
-      "rating": 7.4,
-      "votes": 446,
-      "rank": 19
     },
     {
       "title": "Dune: Part Three",
       "year": 2026,
       "rating": 0,
       "votes": 0,
+      "rank": 12
+    },
+    {
+      "title": "Perfect Liars",
+      "year": 2026,
+      "rating": 7.5,
+      "votes": 32,
+      "rank": 13
+    },
+    {
+      "title": "Godzilla Minus Zero",
+      "year": 2026,
+      "rating": 7.7,
+      "votes": 295,
+      "rank": 14
+    },
+    {
+      "title": "Resident Evil",
+      "year": 2026,
+      "rating": 7.5,
+      "votes": 2515,
+      "rank": 15
+    },
+    {
+      "title": "I Play Rocky",
+      "year": 2026,
+      "rating": 8.4,
+      "votes": 66,
+      "rank": 16
+    },
+    {
+      "title": "Other Mommy",
+      "year": 2026,
+      "rating": 6.5,
+      "votes": 601,
+      "rank": 17
+    },
+    {
+      "title": "Heart of the Beast",
+      "year": 2026,
+      "rating": 7.9,
+      "votes": 1184,
+      "rank": 18
+    },
+    {
+      "title": "A Talent for Murder",
+      "year": 2026,
+      "rating": 7,
+      "votes": 35,
+      "rank": 19
+    },
+    {
+      "title": "Ebenezer",
+      "year": 2026,
+      "rating": 7.5,
+      "votes": 174,
       "rank": 20
+    },
+    {
+      "title": "Clayface",
+      "year": 2026,
+      "rating": 7.4,
+      "votes": 472,
+      "rank": 21
+    },
+    {
+      "title": "Heartland",
+      "year": 2026,
+      "rating": 6.2,
+      "votes": 123,
+      "rank": 22
+    },
+    {
+      "title": "Wildwood",
+      "year": 2026,
+      "rating": 8.5,
+      "votes": 320,
+      "rank": 23
+    },
+    {
+      "title": "Wild Horse Nine",
+      "year": 2026,
+      "rating": 7.9,
+      "votes": 320,
+      "rank": 24
+    },
+    {
+      "title": "Primetime",
+      "year": 2026,
+      "rating": 6.8,
+      "votes": 481,
+      "rank": 25
+    },
+    {
+      "title": "You Can See Everything",
+      "year": 2026,
+      "rating": 8.8,
+      "votes": 160,
+      "rank": 26
+    },
+    {
+      "title": "The Last Temptation of Becky",
+      "year": 2026,
+      "rating": 6.7,
+      "votes": 19,
+      "rank": 27
+    },
+    {
+      "title": "Mutiny",
+      "year": 2026,
+      "rating": 7.6,
+      "votes": 1117,
+      "rank": 28
+    },
+    {
+      "title": "LA BOLA NEGRA",
+      "year": 2026,
+      "rating": 7.9,
+      "votes": 255,
+      "rank": 29
     },
     {
       "title": "Street Fighter",
       "year": 2026,
-      "rating": 6.3,
-      "votes": 244,
-      "rank": 21
+      "rating": 6.2,
+      "votes": 260,
+      "rank": 30
     },
     {
       "title": "Obsession",
       "year": 2026,
       "rating": 8.2,
-      "votes": 6641,
-      "rank": 22
-    },
-    {
-      "title": "The Good Lawyer",
-      "year": 2026,
-      "rating": 6.7,
-      "votes": 52,
-      "rank": 23
-    },
-    {
-      "title": "The Gospel of Christmas",
-      "year": 2026,
-      "rating": 7.3,
-      "votes": 19,
-      "rank": 24
-    },
-    {
-      "title": "Fall 2: Deadpoint",
-      "year": 2026,
-      "rating": 7.2,
-      "votes": 818,
-      "rank": 25
-    },
-    {
-      "title": "I Play Rocky",
-      "year": 2026,
-      "rating": 8.5,
-      "votes": 33,
-      "rank": 26
-    },
-    {
-      "title": "The Christmas Switch",
-      "year": 2026,
-      "rating": 6.6,
-      "votes": 39,
-      "rank": 27
-    },
-    {
-      "title": "Heartland",
-      "year": 2026,
-      "rating": 6.7,
-      "votes": 51,
-      "rank": 28
-    },
-    {
-      "title": "Verity",
-      "year": 2026,
-      "rating": 7,
-      "votes": 713,
-      "rank": 29
-    },
-    {
-      "title": "La Bola Negra",
-      "year": 2026,
-      "rating": 8,
-      "votes": 225,
-      "rank": 30
-    },
-    {
-      "title": "The Mongoose",
-      "year": 2026,
-      "rating": 6.3,
-      "votes": 182,
+      "votes": 6727,
       "rank": 31
     },
     {
-      "title": "Hope",
+      "title": "Last Meal",
       "year": 2026,
-      "rating": 6.8,
-      "votes": 681,
+      "rating": 7.9,
+      "votes": 11,
       "rank": 32
     },
     {
-      "title": "Jailer 2",
+      "title": "Allen",
       "year": 2026,
-      "rating": 8,
-      "votes": 38,
+      "rating": 6.5,
+      "votes": 70,
       "rank": 33
     },
     {
-      "title": "Forgotten Island",
+      "title": "Fjord",
       "year": 2026,
-      "rating": 8,
-      "votes": 262,
+      "rating": 7.2,
+      "votes": 143,
       "rank": 34
     },
     {
-      "title": "The End of Oak Street",
+      "title": "Club Kid",
       "year": 2026,
-      "rating": 7,
-      "votes": 2451,
+      "rating": 7.9,
+      "votes": 42,
       "rank": 35
-    },
-    {
-      "title": "You Can See Everything",
-      "year": 2026,
-      "rating": 8.9,
-      "votes": 122,
-      "rank": 36
-    },
-    {
-      "title": "The Dog Stars",
-      "year": 2026,
-      "rating": 7.2,
-      "votes": 1008,
-      "rank": 37
     },
     {
       "title": "Ghost Soldier",
       "year": 2026,
       "rating": 9,
-      "votes": 23,
+      "votes": 35,
+      "rank": 36
+    },
+    {
+      "title": "Never Surrender",
+      "year": 2026,
+      "rating": 6.9,
+      "votes": 78,
+      "rank": 37
+    },
+    {
+      "title": "Hope",
+      "year": 2026,
+      "rating": 6.9,
+      "votes": 770,
       "rank": 38
     },
     {
-      "title": "Hexed",
+      "title": "Ramayana: Rise of a Legend",
       "year": 2026,
-      "rating": 0,
-      "votes": 0,
+      "rating": 7.3,
+      "votes": 73,
       "rank": 39
-    },
-    {
-      "title": "The Cat in the Hat",
-      "year": 2026,
-      "rating": 6.9,
-      "votes": 28,
-      "rank": 40
-    },
-    {
-      "title": "The Odyssey",
-      "year": 2026,
-      "rating": 4,
-      "votes": 781,
-      "rank": 41
-    },
-    {
-      "title": "A Dog's Perfect Christmas",
-      "year": 2026,
-      "rating": 7.2,
-      "votes": 63,
-      "rank": 42
-    },
-    {
-      "title": "Backrooms",
-      "year": 2026,
-      "rating": 7,
-      "votes": 4124,
-      "rank": 43
-    },
-    {
-      "title": "Focker-in-Law",
-      "year": 2026,
-      "rating": 0,
-      "votes": 0,
-      "rank": 44
-    },
-    {
-      "title": "Angel and the Badman",
-      "year": 2026,
-      "rating": 8.7,
-      "votes": 21,
-      "rank": 45
-    },
-    {
-      "title": "Toy Story 5",
-      "year": 2026,
-      "rating": 8.3,
-      "votes": 2885,
-      "rank": 46
-    },
-    {
-      "title": "Project Hail Mary",
-      "year": 2026,
-      "rating": 8.6,
-      "votes": 8909,
-      "rank": 47
-    },
-    {
-      "title": "Evil Dead Burn",
-      "year": 2026,
-      "rating": 7.6,
-      "votes": 1958,
-      "rank": 48
-    },
-    {
-      "title": "Snoopy Presents: 12 Days of Snoopy",
-      "year": 2026,
-      "rating": 7,
-      "votes": 14,
-      "rank": 49
-    },
-    {
-      "title": "By Any Means",
-      "year": 2026,
-      "rating": 6.6,
-      "votes": 112,
-      "rank": 50
-    },
-    {
-      "title": "Runner",
-      "year": 2026,
-      "rating": 8.2,
-      "votes": 853,
-      "rank": 51
-    },
-    {
-      "title": "The 12 Dates of Christmas",
-      "year": 2026,
-      "rating": 6,
-      "votes": 13,
-      "rank": 52
-    },
-    {
-      "title": "Tazza: The Song of Beelzebub",
-      "year": 2026,
-      "rating": 6.7,
-      "votes": 6,
-      "rank": 53
-    },
-    {
-      "title": "Collision Course",
-      "year": 2026,
-      "rating": 6.3,
-      "votes": 107,
-      "rank": 54
-    },
-    {
-      "title": "Coyote vs. Acme",
-      "year": 2026,
-      "rating": 8.2,
-      "votes": 1482,
-      "rank": 55
-    },
-    {
-      "title": "Disclosure Day",
-      "year": 2026,
-      "rating": 7.4,
-      "votes": 4031,
-      "rank": 56
-    },
-    {
-      "title": "Scene",
-      "year": 2026,
-      "rating": 8.4,
-      "votes": 20,
-      "rank": 57
     },
     {
       "title": "Insidious: Out of the Further",
       "year": 2026,
       "rating": 7.7,
-      "votes": 1071,
-      "rank": 58
+      "votes": 1100,
+      "rank": 40
     },
     {
-      "title": "All Wishes Come True!",
+      "title": "Battle Through the Heavens: The Battle of Two Emperors",
       "year": 2026,
-      "rating": 8,
-      "votes": 40,
-      "rank": 59
-    },
-    {
-      "title": "Musk",
-      "year": 2026,
-      "rating": 6.5,
-      "votes": 35,
-      "rank": 60
-    },
-    {
-      "title": "Superman",
-      "year": 2025,
-      "rating": 7.3,
-      "votes": 5777,
-      "rank": 61
+      "rating": 9.2,
+      "votes": 6,
+      "rank": 41
     },
     {
       "title": "The Angry Birds Movie 3",
       "year": 2026,
       "rating": 0,
       "votes": 0,
-      "rank": 62
+      "rank": 42
     },
     {
-      "title": "Digger",
+      "title": "THE FURTHER MIS-ADVENTURES OF CLIFF BOOTH",
+      "year": 2026,
+      "rating": 0,
+      "votes": 0,
+      "rank": 43
+    },
+    {
+      "title": "In the Grey",
       "year": 2026,
       "rating": 7.5,
-      "votes": 524,
-      "rank": 63
+      "votes": 1228,
+      "rank": 44
+    },
+    {
+      "title": "Disclosure Day",
+      "year": 2026,
+      "rating": 7.4,
+      "votes": 4069,
+      "rank": 45
+    },
+    {
+      "title": "Possible Love",
+      "year": 2026,
+      "rating": 7.2,
+      "votes": 97,
+      "rank": 46
+    },
+    {
+      "title": "Moana",
+      "year": 2026,
+      "rating": 7.4,
+      "votes": 1089,
+      "rank": 47
     },
     {
       "title": "De Gaulle: Liberté",
       "year": 2026,
       "rating": 7.9,
-      "votes": 254,
-      "rank": 64
+      "votes": 260,
+      "rank": 48
     },
     {
-      "title": "The Cycle",
+      "title": "Project Hail Mary",
+      "year": 2026,
+      "rating": 8.6,
+      "votes": 9008,
+      "rank": 49
+    },
+    {
+      "title": "Rolling Loud: The Movie",
+      "year": 2026,
+      "rating": 8.7,
+      "votes": 5,
+      "rank": 50
+    },
+    {
+      "title": "Toy Story 5",
+      "year": 2026,
+      "rating": 8.2,
+      "votes": 2913,
+      "rank": 51
+    },
+    {
+      "title": "Gentle Monster",
       "year": 2026,
       "rating": 6.8,
-      "votes": 161,
-      "rank": 65
+      "votes": 20,
+      "rank": 52
     },
     {
-      "title": "The Uprising",
+      "title": "Digger",
       "year": 2026,
-      "rating": 7.8,
-      "votes": 425,
-      "rank": 66
+      "rating": 7.5,
+      "votes": 539,
+      "rank": 53
     },
     {
-      "title": "Apocalypse Z: New World",
-      "year": 2026,
-      "rating": 6.1,
-      "votes": 218,
-      "rank": 67
-    },
-    {
-      "title": "Reawakened Man",
-      "year": 2026,
-      "rating": 4.8,
-      "votes": 4,
-      "rank": 68
-    },
-    {
-      "title": "Avatar: Fire and Ash",
-      "year": 2025,
-      "rating": 7.6,
-      "votes": 4698,
-      "rank": 69
-    },
-    {
-      "title": "Ali G: Who Iz I?",
-      "year": 2026,
-      "rating": 5.6,
-      "votes": 195,
-      "rank": 70
-    },
-    {
-      "title": "Sense and Sensibility",
+      "title": "Practical Magic 2",
       "year": 2026,
       "rating": 7.2,
-      "votes": 170,
-      "rank": 71
+      "votes": 409,
+      "rank": 54
     },
     {
-      "title": "Pressure",
+      "title": "The Christmas Switch",
       "year": 2026,
-      "rating": 7.7,
-      "votes": 548,
-      "rank": 72
+      "rating": 6.5,
+      "votes": 79,
+      "rank": 55
+    },
+    {
+      "title": "The End of Oak Street",
+      "year": 2026,
+      "rating": 7,
+      "votes": 2562,
+      "rank": 56
     },
     {
       "title": "Violent Night 2",
       "year": 2026,
       "rating": 0,
       "votes": 0,
+      "rank": 57
+    },
+    {
+      "title": "Sense and Sensibility",
+      "year": 2026,
+      "rating": 7.2,
+      "votes": 175,
+      "rank": 58
+    },
+    {
+      "title": "The Dog Stars",
+      "year": 2026,
+      "rating": 7.2,
+      "votes": 1058,
+      "rank": 59
+    },
+    {
+      "title": "Coyote vs. Acme",
+      "year": 2026,
+      "rating": 8.2,
+      "votes": 1550,
+      "rank": 60
+    },
+    {
+      "title": "De Gaulle: Résistance",
+      "year": 2026,
+      "rating": 7.8,
+      "votes": 299,
+      "rank": 61
+    },
+    {
+      "title": "The Invite",
+      "year": 2026,
+      "rating": 7.2,
+      "votes": 995,
+      "rank": 62
+    },
+    {
+      "title": "Wicker",
+      "year": 2026,
+      "rating": 7.4,
+      "votes": 58,
+      "rank": 63
+    },
+    {
+      "title": "Rammstein: Live in Mexico City",
+      "year": 2026,
+      "rating": 9.6,
+      "votes": 8,
+      "rank": 64
+    },
+    {
+      "title": "Primetime Preacher$",
+      "year": 2026,
+      "rating": 7,
+      "votes": 5,
+      "rank": 65
+    },
+    {
+      "title": "Bad Apples",
+      "year": 2026,
+      "rating": 7,
+      "votes": 187,
+      "rank": 66
+    },
+    {
+      "title": "Victorian Psycho",
+      "year": 2026,
+      "rating": 6.3,
+      "votes": 6,
+      "rank": 67
+    },
+    {
+      "title": "The Mongoose",
+      "year": 2026,
+      "rating": 6.5,
+      "votes": 252,
+      "rank": 68
+    },
+    {
+      "title": "Jailer 2",
+      "year": 2026,
+      "rating": 8,
+      "votes": 40,
+      "rank": 69
+    },
+    {
+      "title": "Snoopy Presents: 12 Days of Snoopy",
+      "year": 2026,
+      "rating": 7.9,
+      "votes": 31,
+      "rank": 70
+    },
+    {
+      "title": "Buddy",
+      "year": 2026,
+      "rating": 6.8,
+      "votes": 300,
+      "rank": 71
+    },
+    {
+      "title": "Evil Dead Burn",
+      "year": 2026,
+      "rating": 7.5,
+      "votes": 1977,
+      "rank": 72
+    },
+    {
+      "title": "The Fantastic 4: First Steps",
+      "year": 2025,
+      "rating": 6.9,
+      "votes": 4185,
       "rank": 73
     },
     {
-      "title": "Brawlers",
+      "title": "Lucky Strike",
       "year": 2026,
-      "rating": 6,
-      "votes": 41,
+      "rating": 6.3,
+      "votes": 77,
       "rank": 74
     },
     {
-      "title": "The Unthinkable Daughter",
-      "year": 2026,
-      "rating": 5.7,
-      "votes": 6,
+      "title": "Avatar: Fire and Ash",
+      "year": 2025,
+      "rating": 7.6,
+      "votes": 4730,
       "rank": 75
     },
     {
-      "title": "Ice Cream Man",
+      "title": "NAZA",
       "year": 2026,
-      "rating": 5.3,
-      "votes": 337,
+      "rating": 8,
+      "votes": 155,
       "rank": 76
     },
     {
-      "title": "Best Pancakes in the County",
+      "title": "Michael",
       "year": 2026,
-      "rating": 4,
-      "votes": 1,
+      "rating": 8.6,
+      "votes": 4768,
       "rank": 77
     },
     {
-      "title": "Unprotected: Murder in Galicia",
+      "title": "The Furious",
       "year": 2026,
-      "rating": 6.6,
-      "votes": 15,
+      "rating": 8.2,
+      "votes": 910,
       "rank": 78
     },
     {
-      "title": "Paper Tiger",
-      "year": 2026,
-      "rating": 6,
-      "votes": 1,
+      "title": "The Beekeeper 2",
+      "year": 2027,
+      "rating": 0,
+      "votes": 0,
       "rank": 79
     },
     {
-      "title": "Coward",
+      "title": "A Dog's Perfect Christmas",
       "year": 2026,
-      "rating": 7.5,
-      "votes": 17,
+      "rating": 7.1,
+      "votes": 83,
       "rank": 80
     },
     {
-      "title": "The Super Mario Galaxy Movie",
+      "title": "Werwulf",
       "year": 2026,
-      "rating": 8.2,
-      "votes": 3987,
+      "rating": 0,
+      "votes": 0,
       "rank": 81
+    },
+    {
+      "title": "Scene",
+      "year": 2026,
+      "rating": 8.4,
+      "votes": 21,
+      "rank": 82
+    },
+    {
+      "title": "The Love Hypothesis",
+      "year": 2026,
+      "rating": 7.9,
+      "votes": 761,
+      "rank": 83
+    },
+    {
+      "title": "Scary Movie",
+      "year": 2026,
+      "rating": 6.3,
+      "votes": 2161,
+      "rank": 84
     }
   ],
   "series": [
     {
-      "title": "The Lord of the Rings: The Rings of Power",
-      "year": 2022,
-      "rating": 7.2,
-      "votes": 4083,
+      "title": "Dexter: Resurrection",
+      "year": 2025,
+      "rating": 8.5,
+      "votes": 778,
       "rank": 0
     },
     {
-      "title": "VisionQuest",
-      "year": 2026,
-      "rating": 8.3,
-      "votes": 499,
+      "title": "The Lord of the Rings: The Rings of Power",
+      "year": 2022,
+      "rating": 7.2,
+      "votes": 4138,
       "rank": 1
-    },
-    {
-      "title": "Jimmy Kimmel Live!",
-      "year": 2003,
-      "rating": 5.3,
-      "votes": 227,
-      "rank": 2
-    },
-    {
-      "title": "12 12 12",
-      "year": 2026,
-      "rating": 5.9,
-      "votes": 26,
-      "rank": 3
-    },
-    {
-      "title": "The Body",
-      "year": 2026,
-      "rating": 7.7,
-      "votes": 57,
-      "rank": 4
     },
     {
       "title": "MobLand",
       "year": 2025,
       "rating": 8.7,
-      "votes": 1255,
+      "votes": 1303,
+      "rank": 2
+    },
+    {
+      "title": "The Blue Road",
+      "year": 2026,
+      "rating": 7.8,
+      "votes": 18,
+      "rank": 3
+    },
+    {
+      "title": "The Body",
+      "year": 2026,
+      "rating": 8,
+      "votes": 125,
+      "rank": 4
+    },
+    {
+      "title": "VisionQuest",
+      "year": 2026,
+      "rating": 8.2,
+      "votes": 575,
       "rank": 5
+    },
+    {
+      "title": "Percy Jackson and the Olympians",
+      "year": 2023,
+      "rating": 7.3,
+      "votes": 886,
+      "rank": 6
+    },
+    {
+      "title": "Yellowjackets",
+      "year": 2021,
+      "rating": 7.4,
+      "votes": 1086,
+      "rank": 7
+    },
+    {
+      "title": "The Altruists",
+      "year": 2026,
+      "rating": 6.2,
+      "votes": 12,
+      "rank": 8
+    },
+    {
+      "title": "The Law of Beasts",
+      "year": 2026,
+      "rating": 6.4,
+      "votes": 20,
+      "rank": 9
+    },
+    {
+      "title": "Natural High",
+      "year": 2023,
+      "rating": 6.7,
+      "votes": 7,
+      "rank": 10
+    },
+    {
+      "title": "South Park",
+      "year": 1997,
+      "rating": 8.3,
+      "votes": 5294,
+      "rank": 11
+    },
+    {
+      "title": "The Remarried Empress",
+      "year": 2026,
+      "rating": 8.7,
+      "votes": 141,
+      "rank": 12
     },
     {
       "title": "The Chosen",
       "year": 2019,
       "rating": 8.9,
-      "votes": 1061,
-      "rank": 6
-    },
-    {
-      "title": "The Remarried Empress",
-      "year": 2026,
-      "rating": 8.6,
-      "votes": 95,
-      "rank": 7
-    },
-    {
-      "title": "Campus Drivers",
-      "year": 2026,
-      "rating": 7.8,
-      "votes": 39,
-      "rank": 8
-    },
-    {
-      "title": "Dexter: Resurrection",
-      "year": 2025,
-      "rating": 8.5,
-      "votes": 761,
-      "rank": 9
+      "votes": 1087,
+      "rank": 13
     },
     {
       "title": "100 Days of Deception",
       "year": 2026,
-      "rating": 8.5,
-      "votes": 19,
-      "rank": 10
-    },
-    {
-      "title": "Black Clover",
-      "year": 2017,
-      "rating": 8.5,
-      "votes": 2318,
-      "rank": 11
-    },
-    {
-      "title": "One Piece",
-      "year": 1999,
       "rating": 8.8,
-      "votes": 5657,
-      "rank": 12
-    },
-    {
-      "title": "The Gilded Age",
-      "year": 2022,
-      "rating": 7.7,
-      "votes": 296,
-      "rank": 13
-    },
-    {
-      "title": "The Good Daughter",
-      "year": 2026,
-      "rating": 8,
-      "votes": 18,
+      "votes": 20,
       "rank": 14
-    },
-    {
-      "title": "The Institute",
-      "year": 2025,
-      "rating": 7.5,
-      "votes": 225,
-      "rank": 15
-    },
-    {
-      "title": "JoJo's Bizarre Adventure",
-      "year": 2012,
-      "rating": 8.6,
-      "votes": 1710,
-      "rank": 16
-    },
-    {
-      "title": "Doctor X: Mafia in White",
-      "year": 2026,
-      "rating": 8.6,
-      "votes": 63,
-      "rank": 17
     },
     {
       "title": "Lupin",
       "year": 2021,
       "rating": 7.7,
-      "votes": 2799,
-      "rank": 18
+      "votes": 2817,
+      "rank": 15
     },
     {
-      "title": "The Rules",
+      "title": "12 12 12",
       "year": 2026,
-      "rating": 8.5,
-      "votes": 2,
-      "rank": 19
+      "rating": 6.3,
+      "votes": 42,
+      "rank": 16
     },
     {
-      "title": "Love in Disguise",
-      "year": 2026,
-      "rating": 9.1,
-      "votes": 74,
-      "rank": 20
-    },
-    {
-      "title": "Cunk on Cinema",
-      "year": 2026,
-      "rating": 7.4,
-      "votes": 9,
-      "rank": 21
-    },
-    {
-      "title": "Black Doves",
-      "year": 2024,
-      "rating": 7.1,
-      "votes": 496,
-      "rank": 22
-    },
-    {
-      "title": "I Miss You",
-      "year": 2026,
-      "rating": 9,
-      "votes": 2,
-      "rank": 23
-    },
-    {
-      "title": "Sword & Silence",
-      "year": 2026,
-      "rating": 7.5,
-      "votes": 2,
-      "rank": 24
-    },
-    {
-      "title": "The Apothecary Diaries",
-      "year": 2023,
-      "rating": 8.7,
-      "votes": 711,
-      "rank": 25
-    },
-    {
-      "title": "Treasure Island",
-      "year": 2026,
-      "rating": 6.6,
-      "votes": 46,
-      "rank": 26
-    },
-    {
-      "title": "Cyberpunk: Edgerunners",
-      "year": 2022,
-      "rating": 8.5,
-      "votes": 2154,
-      "rank": 27
-    },
-    {
-      "title": "Dead-End Job",
-      "year": 2026,
-      "rating": 7.5,
-      "votes": 104,
-      "rank": 28
-    },
-    {
-      "title": "Slow Horses",
-      "year": 2022,
-      "rating": 8.1,
-      "votes": 1133,
-      "rank": 29
-    },
-    {
-      "title": "What a Boss Wants",
-      "year": 2026,
-      "rating": 4,
-      "votes": 1,
-      "rank": 30
-    },
-    {
-      "title": "Dragon Ball Super: Beerus",
-      "year": 2026,
-      "rating": 9.6,
-      "votes": 419,
-      "rank": 31
-    },
-    {
-      "title": "When I Meet the Moon",
-      "year": 2026,
-      "rating": 9,
-      "votes": 7,
-      "rank": 32
-    },
-    {
-      "title": "Blossom in Darkness",
-      "year": 2026,
-      "rating": 9,
-      "votes": 3,
-      "rank": 33
-    },
-    {
-      "title": "Aoashi",
-      "year": 2022,
-      "rating": 7.8,
-      "votes": 76,
-      "rank": 34
-    },
-    {
-      "title": "Overgeared",
+      "title": "Nocturne",
       "year": 2026,
       "rating": 7.7,
-      "votes": 13,
-      "rank": 35
-    },
-    {
-      "title": "Marshals",
-      "year": 2026,
-      "rating": 8,
-      "votes": 435,
-      "rank": 36
-    },
-    {
-      "title": "The Simpsons",
-      "year": 1989,
-      "rating": 8,
-      "votes": 11175,
-      "rank": 37
-    },
-    {
-      "title": "Miracles of the ER",
-      "year": 2026,
-      "rating": 7.7,
-      "votes": 3,
-      "rank": 38
-    },
-    {
-      "title": "Devils' Crest",
-      "year": 2026,
-      "rating": 8,
-      "votes": 4,
-      "rank": 39
-    },
-    {
-      "title": "Bleach",
-      "year": 2004,
-      "rating": 8.3,
-      "votes": 2343,
-      "rank": 40
-    },
-    {
-      "title": "Rick and Morty",
-      "year": 2013,
-      "rating": 8.7,
-      "votes": 11598,
-      "rank": 41
-    },
-    {
-      "title": "Crystal Lake",
-      "year": 2026,
-      "rating": 8.6,
-      "votes": 364,
-      "rank": 42
-    },
-    {
-      "title": "A Record of a Mortal's Journey to Immortality",
-      "year": 2020,
-      "rating": 8.5,
-      "votes": 94,
-      "rank": 43
-    },
-    {
-      "title": "Re:ZERO -Starting Life in Another World-",
-      "year": 2016,
-      "rating": 8.1,
-      "votes": 822,
-      "rank": 44
-    },
-    {
-      "title": "The Perfect Lie",
-      "year": 2026,
-      "rating": 8.5,
-      "votes": 2,
-      "rank": 45
-    },
-    {
-      "title": "Georgie & Mandy's First Marriage",
-      "year": 2024,
-      "rating": 8,
-      "votes": 284,
-      "rank": 46
-    },
-    {
-      "title": "Ethos",
-      "year": 2020,
-      "rating": 7.8,
-      "votes": 140,
-      "rank": 47
-    },
-    {
-      "title": "Between Steps",
-      "year": 2026,
-      "rating": 8.7,
-      "votes": 20,
-      "rank": 48
-    },
-    {
-      "title": "Alicia's Law",
-      "year": 2026,
-      "rating": 6.2,
-      "votes": 9,
-      "rank": 49
-    },
-    {
-      "title": "The Rainmaker",
-      "year": 2025,
-      "rating": 7.7,
-      "votes": 63,
-      "rank": 50
-    },
-    {
-      "title": "Silo",
-      "year": 2023,
-      "rating": 8.2,
-      "votes": 2919,
-      "rank": 51
-    },
-    {
-      "title": "CIA",
-      "year": 2026,
-      "rating": 8.4,
-      "votes": 140,
-      "rank": 52
-    },
-    {
-      "title": "Under Siege",
-      "year": 2026,
-      "rating": 7.4,
-      "votes": 11,
-      "rank": 53
-    },
-    {
-      "title": "The Great Long March",
-      "year": 2026,
-      "rating": 8.7,
-      "votes": 3,
-      "rank": 54
-    },
-    {
-      "title": "Stick",
-      "year": 2025,
-      "rating": 7.3,
-      "votes": 147,
-      "rank": 55
-    },
-    {
-      "title": "Outlander: Blood of My Blood",
-      "year": 2025,
-      "rating": 8.7,
-      "votes": 127,
-      "rank": 56
-    },
-    {
-      "title": "Carrie",
-      "year": 2026,
-      "rating": 8.2,
-      "votes": 600,
-      "rank": 57
-    },
-    {
-      "title": "Tracker",
-      "year": 2024,
-      "rating": 7.6,
-      "votes": 354,
-      "rank": 58
-    },
-    {
-      "title": "Stranger Things",
-      "year": 2016,
-      "rating": 8.5,
-      "votes": 22147,
-      "rank": 59
-    },
-    {
-      "title": "All's Fair",
-      "year": 2025,
-      "rating": 4.9,
-      "votes": 86,
-      "rank": 60
-    },
-    {
-      "title": "9-1-1",
-      "year": 2018,
-      "rating": 8.2,
-      "votes": 2892,
-      "rank": 61
-    },
-    {
-      "title": "City of God: The Fight Rages On",
-      "year": 2024,
-      "rating": 7.6,
-      "votes": 81,
-      "rank": 62
-    },
-    {
-      "title": "Tigers Sniff the Rose",
-      "year": 2026,
-      "rating": 9.5,
-      "votes": 4,
-      "rank": 63
+      "votes": 66,
+      "rank": 17
     },
     {
       "title": "Ted Lasso",
       "year": 2020,
       "rating": 8.4,
-      "votes": 2863,
-      "rank": 64
+      "votes": 2883,
+      "rank": 18
     },
     {
-      "title": "Boston Blue",
-      "year": 2025,
-      "rating": 6.9,
-      "votes": 83,
-      "rank": 65
+      "title": "One Piece",
+      "year": 1999,
+      "rating": 8.8,
+      "votes": 5670,
+      "rank": 19
     },
     {
-      "title": "Has Fallen",
-      "year": 2024,
-      "rating": 6.9,
-      "votes": 146,
-      "rank": 66
-    },
-    {
-      "title": "Harry Potter",
+      "title": "The Silent Storm",
       "year": 2026,
-      "rating": 0,
-      "votes": 0,
-      "rank": 67
+      "rating": 6.3,
+      "votes": 3,
+      "rank": 20
     },
     {
-      "title": "Cupertino",
-      "year": 2026,
-      "rating": 5.8,
-      "votes": 29,
-      "rank": 68
-    },
-    {
-      "title": "Natural High",
-      "year": 2023,
-      "rating": 7.5,
-      "votes": 6,
-      "rank": 69
-    },
-    {
-      "title": "The Ramparts of Ice",
+      "title": "Sunshine through the Rain",
       "year": 2026,
       "rating": 8.6,
-      "votes": 78,
-      "rank": 70
+      "votes": 22,
+      "rank": 21
+    },
+    {
+      "title": "YAGA",
+      "year": 2026,
+      "rating": 7,
+      "votes": 26,
+      "rank": 22
+    },
+    {
+      "title": "The Gilded Age",
+      "year": 2022,
+      "rating": 7.7,
+      "votes": 302,
+      "rank": 23
+    },
+    {
+      "title": "WAR",
+      "year": 2026,
+      "rating": 7.3,
+      "votes": 44,
+      "rank": 24
+    },
+    {
+      "title": "River of No Return",
+      "year": 2026,
+      "rating": 8.1,
+      "votes": 7,
+      "rank": 25
+    },
+    {
+      "title": "Fights Break Sphere",
+      "year": 2017,
+      "rating": 8.2,
+      "votes": 66,
+      "rank": 26
+    },
+    {
+      "title": "Doctor X: Mafia in White",
+      "year": 2026,
+      "rating": 8.6,
+      "votes": 75,
+      "rank": 27
+    },
+    {
+      "title": "Love in Disguise",
+      "year": 2026,
+      "rating": 9,
+      "votes": 96,
+      "rank": 28
+    },
+    {
+      "title": "Good Partner",
+      "year": 2024,
+      "rating": 8,
+      "votes": 17,
+      "rank": 29
+    },
+    {
+      "title": "Taming the Husband",
+      "year": 2026,
+      "rating": 8,
+      "votes": 2,
+      "rank": 30
+    },
+    {
+      "title": "Cunk on Cinema",
+      "year": 2026,
+      "rating": 7.4,
+      "votes": 29,
+      "rank": 31
+    },
+    {
+      "title": "Cyberpunk: Edgerunners",
+      "year": 2022,
+      "rating": 8.5,
+      "votes": 2171,
+      "rank": 32
+    },
+    {
+      "title": "SpongeBob SquarePants",
+      "year": 1999,
+      "rating": 7.7,
+      "votes": 3317,
+      "rank": 33
+    },
+    {
+      "title": "Gordon",
+      "year": 2026,
+      "rating": 7,
+      "votes": 13,
+      "rank": 34
+    },
+    {
+      "title": "JoJo's Bizarre Adventure",
+      "year": 2012,
+      "rating": 8.6,
+      "votes": 1714,
+      "rank": 35
+    },
+    {
+      "title": "The Good Daughter",
+      "year": 2026,
+      "rating": 7.7,
+      "votes": 37,
+      "rank": 36
+    },
+    {
+      "title": "Vienna Game",
+      "year": 2026,
+      "rating": 9,
+      "votes": 3,
+      "rank": 37
+    },
+    {
+      "title": "Dragon Ball Super: Beerus",
+      "year": 2026,
+      "rating": 9.6,
+      "votes": 431,
+      "rank": 38
+    },
+    {
+      "title": "The Rules",
+      "year": 2026,
+      "rating": 8.7,
+      "votes": 3,
+      "rank": 39
+    },
+    {
+      "title": "Treasure Island",
+      "year": 2026,
+      "rating": 6.6,
+      "votes": 52,
+      "rank": 40
+    },
+    {
+      "title": "Scrubs",
+      "year": 2026,
+      "rating": 7.7,
+      "votes": 135,
+      "rank": 41
+    },
+    {
+      "title": "The Apothecary Diaries",
+      "year": 2023,
+      "rating": 8.7,
+      "votes": 717,
+      "rank": 42
+    },
+    {
+      "title": "Tracker",
+      "year": 2024,
+      "rating": 7.6,
+      "votes": 357,
+      "rank": 43
+    },
+    {
+      "title": "The Simpsons",
+      "year": 1989,
+      "rating": 8,
+      "votes": 11198,
+      "rank": 44
+    },
+    {
+      "title": "Blossom in Darkness",
+      "year": 2026,
+      "rating": 9,
+      "votes": 4,
+      "rank": 45
     },
     {
       "title": "Family Guy",
       "year": 1999,
       "rating": 7.4,
-      "votes": 5208,
-      "rank": 71
+      "votes": 5229,
+      "rank": 46
     },
     {
-      "title": "The Greatest",
+      "title": "Dead-End Job",
       "year": 2026,
-      "rating": 5.2,
+      "rating": 7.6,
+      "votes": 125,
+      "rank": 47
+    },
+    {
+      "title": "The Rookie",
+      "year": 2018,
+      "rating": 8.5,
+      "votes": 3632,
+      "rank": 48
+    },
+    {
+      "title": "Crash",
+      "year": 2024,
+      "rating": 8.6,
       "votes": 20,
-      "rank": 72
+      "rank": 49
     },
     {
-      "title": "4 Blocks Zero",
+      "title": "Renegade Immortal",
+      "year": 2023,
+      "rating": 8.3,
+      "votes": 45,
+      "rank": 50
+    },
+    {
+      "title": "Bleach",
+      "year": 2004,
+      "rating": 8.3,
+      "votes": 2349,
+      "rank": 51
+    },
+    {
+      "title": "9-1-1",
+      "year": 2018,
+      "rating": 8.2,
+      "votes": 2900,
+      "rank": 52
+    },
+    {
+      "title": "Dig",
       "year": 2026,
-      "rating": 5.7,
-      "votes": 7,
-      "rank": 73
+      "rating": 6.8,
+      "votes": 6,
+      "rank": 53
     },
     {
-      "title": "Oh! My Guard",
+      "title": "Miraculous: Tales of Ladybug & Cat Noir",
+      "year": 2015,
+      "rating": 8.1,
+      "votes": 4721,
+      "rank": 54
+    },
+    {
+      "title": "Carrie",
+      "year": 2026,
+      "rating": 8.2,
+      "votes": 628,
+      "rank": 55
+    },
+    {
+      "title": "Overgeared",
+      "year": 2026,
+      "rating": 7.7,
+      "votes": 15,
+      "rank": 56
+    },
+    {
+      "title": "Marshals",
+      "year": 2026,
+      "rating": 8,
+      "votes": 448,
+      "rank": 57
+    },
+    {
+      "title": "The Institute",
+      "year": 2025,
+      "rating": 7.5,
+      "votes": 229,
+      "rank": 58
+    },
+    {
+      "title": "Ranma1/2",
+      "year": 2024,
+      "rating": 8.1,
+      "votes": 204,
+      "rank": 59
+    },
+    {
+      "title": "House of the Dragon",
+      "year": 2022,
+      "rating": 8.4,
+      "votes": 7348,
+      "rank": 60
+    },
+    {
+      "title": "Valentina and the 12 Signs",
+      "year": 2026,
+      "rating": 7,
+      "votes": 3,
+      "rank": 61
+    },
+    {
+      "title": "Slow Horses",
+      "year": 2022,
+      "rating": 8.1,
+      "votes": 1154,
+      "rank": 62
+    },
+    {
+      "title": "Campus Drivers",
+      "year": 2026,
+      "rating": 7.7,
+      "votes": 53,
+      "rank": 63
+    },
+    {
+      "title": "Outlander: Blood of My Blood",
+      "year": 2025,
+      "rating": 8.7,
+      "votes": 129,
+      "rank": 64
+    },
+    {
+      "title": "TANK CHAIR",
+      "year": 2026,
+      "rating": 7.8,
+      "votes": 6,
+      "rank": 65
+    },
+    {
+      "title": "Gunshot",
       "year": 2026,
       "rating": 0,
       "votes": 0,
+      "rank": 66
+    },
+    {
+      "title": "Blue Box",
+      "year": 2024,
+      "rating": 7.9,
+      "votes": 114,
+      "rank": 67
+    },
+    {
+      "title": "Final Table",
+      "year": 2026,
+      "rating": 9,
+      "votes": 16,
+      "rank": 68
+    },
+    {
+      "title": "Only Murders in the Building",
+      "year": 2021,
+      "rating": 8.4,
+      "votes": 2346,
+      "rank": 69
+    },
+    {
+      "title": "The Boys",
+      "year": 2019,
+      "rating": 8.4,
+      "votes": 13704,
+      "rank": 70
+    },
+    {
+      "title": "Chicago Fire",
+      "year": 2012,
+      "rating": 8.4,
+      "votes": 2475,
+      "rank": 71
+    },
+    {
+      "title": "When I Meet the Moon",
+      "year": 2026,
+      "rating": 8.3,
+      "votes": 11,
+      "rank": 72
+    },
+    {
+      "title": "Rick and Morty",
+      "year": 2013,
+      "rating": 8.7,
+      "votes": 11621,
+      "rank": 73
+    },
+    {
+      "title": "Grey's Anatomy",
+      "year": 2005,
+      "rating": 8.2,
+      "votes": 11147,
       "rank": 74
     },
     {
-      "title": "Heartland",
-      "year": 2007,
-      "rating": 8.3,
-      "votes": 594,
+      "title": "Murder in Galicia",
+      "year": 2026,
+      "rating": 6.5,
+      "votes": 24,
       "rank": 75
     },
     {
-      "title": "Dark Matter",
-      "year": 2024,
-      "rating": 7.8,
-      "votes": 884,
+      "title": "PAW Patrol",
+      "year": 2013,
+      "rating": 7,
+      "votes": 830,
       "rank": 76
     },
     {
-      "title": "Merry Berry Love",
+      "title": "Silent Night",
       "year": 2026,
-      "rating": 8.3,
-      "votes": 10,
+      "rating": 7.9,
+      "votes": 9,
       "rank": 77
+    },
+    {
+      "title": "NCIS",
+      "year": 2003,
+      "rating": 7.6,
+      "votes": 2629,
+      "rank": 78
+    },
+    {
+      "title": "Lanterns",
+      "year": 2026,
+      "rating": 8.2,
+      "votes": 892,
+      "rank": 79
+    },
+    {
+      "title": "Even the Student Council Has Its Holes!",
+      "year": 2026,
+      "rating": 8.6,
+      "votes": 8,
+      "rank": 80
+    },
+    {
+      "title": "The Lowdown",
+      "year": 2025,
+      "rating": 7,
+      "votes": 86,
+      "rank": 81
+    },
+    {
+      "title": "The Empress",
+      "year": 2022,
+      "rating": 7.7,
+      "votes": 196,
+      "rank": 82
+    },
+    {
+      "title": "Re:ZERO -Starting Life in Another World-",
+      "year": 2016,
+      "rating": 8.1,
+      "votes": 830,
+      "rank": 83
+    },
+    {
+      "title": "INVINCIBLE",
+      "year": 2021,
+      "rating": 8.6,
+      "votes": 6179,
+      "rank": 84
+    },
+    {
+      "title": "The Terminal List",
+      "year": 2022,
+      "rating": 8,
+      "votes": 1359,
+      "rank": 85
     }
   ]
 }
